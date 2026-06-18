@@ -1,69 +1,59 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
-    <style>
-        body, html { margin: 0; padding: 0; background: #050505; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-        .swiper { width: 100%; height: 100vh; }
-        .card { 
-            display: flex; flex-direction: column; justify-content: center; align-items: center;
-            background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 20px;
-            padding: 40px; color: #eee; text-align: center; height: 100%; box-sizing: border-box;
-        }
-        h2 { color: #aaa; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px; }
-        p { font-size: 1.5rem; line-height: 1.6; }
-    </style>
-</head>
-<body>
-    <div class="swiper">
-        <div class="swiper-wrapper">
-            <!-- CARD 1 -->
-            <div class="swiper-slide">
-                <div class="card">
-                    <h2>Atomic Habits</h2>
-                    <p>Don't focus on outcomes; focus on identity. Every action is a vote for the person you want to become.</p>
-                </div>
-            </div>
-            <!-- CARD 2 -->
-            <div class="swiper-slide">
-                <div class="card">
-                    <h2>Influence</h2>
-                    <p>The Rule of Reciprocity: Humans are hard-wired to repay favors. Give value first, and you create natural momentum.</p>
-                </div>
-            </div>
-            <!-- CARD 3 -->
-            <div class="swiper-slide">
-                <div class="card">
-                    <h2>Deep Work</h2>
-                    <p>Attention residue kills potential. Finish one complex task entirely before starting the next to maintain cognitive peak.</p>
-                </div>
-            </div>
-            <!-- CARD 4 -->
-            <div class="swiper-slide">
-                <div class="card">
-                    <h2>Thinking, Fast and Slow</h2>
-                    <p>System 1 (gut) is lazy. When stakes are high, force System 2 (logic) to verify the data.</p>
-                </div>
-            </div>
-            <!-- CARD 5 -->
-            <div class="swiper-slide">
-                <div class="card">
-                    <h2>The Psychology of Money</h2>
-                    <p>Margin of safety is everything. Plan for your plan to fail so you stay in the game when volatility hits.</p>
-                </div>
-            </div>
+<!-- BOOK 1 -->
+<div class="swiper-slide">
+    <div class="card">
+        <h2 style="color: #666; font-size: 0.8rem;">Atomic Habits</h2>
+        <h1 style="font-size: 1.5rem; margin: 10px 0;">The Identity Shift</h1>
+        <p style="font-size: 1.1rem; line-height: 1.5; color: #ccc;">Don't focus on outcomes; focus on identity. Every action is a vote for the person you want to become.</p>
+        <div style="margin-top: 20px; padding: 15px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 0.9rem; color: #aaa; font-style: italic;">
+            <strong>Action:</strong> Define your "Type" (e.g., "I am an author") and perform one small action today that validates that identity.
         </div>
     </div>
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>
-        const swiper = new Swiper('.swiper', { 
-            direction: 'vertical', 
-            effect: 'slide',
-            slidesPerView: 1
-        });
-    </script>
-</body>
-</html>
+</div>
+
+<!-- BOOK 2 -->
+<div class="swiper-slide">
+    <div class="card">
+        <h2 style="color: #666; font-size: 0.8rem;">Influence</h2>
+        <h1 style="font-size: 1.5rem; margin: 10px 0;">The Rule of Reciprocity</h1>
+        <p style="font-size: 1.1rem; line-height: 1.5; color: #ccc;">Humans are hard-wired to repay favors. If you provide genuine value before asking for anything, you create natural momentum in any relationship.</p>
+        <div style="margin-top: 20px; padding: 15px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 0.9rem; color: #aaa; font-style: italic;">
+            <strong>Action:</strong> Identify one person you need cooperation from and provide them with a small, unsolicited value add this week.
+        </div>
+    </div>
+</div>
+
+<!-- BOOK 3 -->
+<div class="swiper-slide">
+    <div class="card">
+        <h2 style="color: #666; font-size: 0.8rem;">Deep Work</h2>
+        <h1 style="font-size: 1.5rem; margin: 10px 0;">Managing Attention Residue</h1>
+        <p style="font-size: 1.1rem; line-height: 1.5; color: #ccc;">Your brain doesn't switch tasks instantly. "Attention residue" from unfinished tasks kills potential. You must finish one complex task entirely before starting the next.</p>
+        <div style="margin-top: 20px; padding: 15px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 0.9rem; color: #aaa; font-style: italic;">
+            <strong>Action:</strong> Use a "Shutdown Ritual" at the end of the day to close all open loops so your brain doesn't carry residue into tomorrow.
+        </div>
+    </div>
+</div>
+
+<!-- BOOK 4 -->
+<div class="swiper-slide">
+    <div class="card">
+        <h2 style="color: #666; font-size: 0.8rem;">Thinking, Fast and Slow</h2>
+        <h1 style="font-size: 1.5rem; margin: 10px 0;">System 2 Verification</h1>
+        <p style="font-size: 1.1rem; line-height: 1.5; color: #ccc;">System 1 (your gut) is lazy and prone to shortcuts. When stakes are high, force System 2 (logic) to pause and verify the raw data before making a move.</p>
+        <div style="margin-top: 20px; padding: 15px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 0.9rem; color: #aaa; font-style: italic;">
+            <strong>Action:</strong> On your next high-stakes decision, write down the three biggest assumptions you are making and explicitly fact-check them.
+        </div>
+    </div>
+</div>
+
+<!-- BOOK 5 -->
+<div class="swiper-slide">
+    <div class="card">
+        <h2 style="color: #666; font-size: 0.8rem;">The Psychology of Money</h2>
+        <h1 style="font-size: 1.5rem; margin: 10px 0;">Margin of Safety</h1>
+        <p style="font-size: 1.1rem; line-height: 1.5; color: #ccc;">The most important part of any plan is planning on the plan not going according to plan. Build a "room for error" to ensure you don't quit during inevitable volatility.</p>
+        <div style="margin-top: 20px; padding: 15px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 0.9rem; color: #aaa; font-style: italic;">
+            <strong>Action:</strong> Look at your current project. Ask: "If this goes 30% off-track, what is the one thing I must hold steady to stay in the game?"
+        </div>
+    </div>
+</div>
