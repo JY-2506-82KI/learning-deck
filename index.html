@@ -3,84 +3,92 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <title>Library</title>
-    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
+    <title>Strategic Library</title>
+    
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    
     <style>
-        body, html { 
-            margin: 0; padding: 0; background: #000; 
-            height: 100dvh; 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
-            overflow: hidden;
-        }
-        .swiper { width: 100%; height: 100dvh; }
+        body, html { margin: 0; padding: 0; height: 100%; background: #0f0f0f; font-family: sans-serif; overflow: hidden; }
+        
+        .swiper { width: 100%; height: 100vh; }
+        
         .swiper-slide { 
-            display: flex; align-items: center; justify-content: center;
-            height: 100dvh;
+            display: flex; align-items: center; justify-content: center; 
+            padding: 20px; box-sizing: border-box;
         }
+
         .card { 
-            display: flex; flex-direction: column; 
-            background: rgba(255, 255, 255, 0.05); 
-            backdrop-filter: blur(20px); 
-            border: 1px solid rgba(255, 255, 255, 0.1); 
-            border-radius: 25px; 
-            padding: 25px; 
-            color: #eee; 
-            width: 90%; 
-            height: 85dvh; 
-            box-sizing: border-box;
-            overflow: hidden; 
+            background: #1a1a1a; color: #fff; padding: 30px; border-radius: 20px; 
+            width: 90%; max-width: 400px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 1px solid #333;
         }
-        h2 { color: #888; font-size: 0.9rem; text-transform: uppercase; margin: 0 0 5px 0; flex-shrink: 0; }
-        .author { color: #555; font-size: 0.8rem; margin-bottom: 15px; flex-shrink: 0; }
+
+        h2 { margin-top: 0; color: #00d4ff; }
+        .author { font-size: 0.8rem; color: #888; margin-bottom: 15px; }
+        .content { line-height: 1.6; margin-bottom: 20px; }
+        .action { font-weight: bold; color: #ff9900; }
         
-        .content { 
-            /* Font size is clamped, but we removed 'display: flex' and 'align-items: center' */
-            font-size: clamp(0.9rem, 4.5vw, 1.4rem); 
-            line-height: 1.4; 
-            flex-grow: 1;    
-            margin-bottom: 15px;
-            overflow: hidden; /* This stops the overflow, keeping it inside the card */
-            display: block;   /* Standard paragraph flow */
-        }
-        
-        .action { 
-            font-style: italic; color: #aaa; border-top: 1px solid #333; 
-            padding-top: 15px; font-size: 1.0rem; 
-            flex-shrink: 0; 
-        }
+        /* Prevents browser touch interference */
+        .swiper-wrapper { touch-action: pan-y; }
     </style>
 </head>
 <body>
-    <div class="swiper">
-        <div class="swiper-wrapper" id="content-container">
-            </div>
-    </div>
 
-    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>
-        fetch('library.txt')
-            .then(response => response.text())
-            .then(data => {
-                const container = document.getElementById('content-container');
-                container.innerHTML = data;
-                
-                const slides = Array.from(container.children);
-                for (let i = slides.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [slides[i], slides[j]] = [slides[j], slides[i]];
-                }
-                slides.forEach(slide => container.appendChild(slide));
-                
-                new Swiper('.swiper', { 
-                    direction: 'vertical', 
-                    loop: true,
-                    grabCursor: true
-                });
-            })
-            .catch(() => {
-                document.body.innerHTML = "<div style='color:white; padding:40px;'>Error loading library.</div>";
-            });
-    </script>
+<div class="swiper">
+    <div class="swiper-wrapper" id="card-container">
+        <!-- Cards will be injected here -->
+    </div>
+    <!-- Pagination dot indicators -->
+    <div class="swiper-pagination"></div>
+</div>
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+    // Your library data
+    const libraryData = [
+        { title: "The Asymmetry of Action", author: "From: The Black Swan", content: "Limit your exposure to catastrophic downside, but maximize your exposure to unlimited upside.", action: "Action: Identify one 'unlimited upside' activity." },
+        { title: "The Law of Conservation of Energy", author: "From: The Power of Full Engagement", content: "Energy is the fuel for all performance. Ritualize recovery.", action: "Action: Insert a 10-minute recharge." },
+        { title: "Inversion of Authority", author: "From: The 48 Laws of Power", content: "Never trust a reputation blindly. Test it with low-stakes probes.", action: "Action: Probe a 'given' truth." }
+        // ... Add your other 190+ entries here ...
+    ];
+
+    function initLibrary() {
+        const container = document.getElementById('card-container');
+        
+        // Generate HTML string
+        const html = libraryData.map(entry => `
+            <div class="swiper-slide">
+                <div class="card">
+                    <h2>${entry.title}</h2>
+                    <div class="author">${entry.author}</div>
+                    <div class="content">${entry.content}</div>
+                    <div class="action">${entry.action}</div>
+                </div>
+            </div>
+        `).join('');
+
+        container.innerHTML = html;
+
+        // Initialize Swiper with mobile-optimized settings
+        new Swiper('.swiper', {
+            direction: 'horizontal',
+            loop: true,
+            observer: true,       // Force re-calculation if DOM changes
+            observeParents: true, 
+            slidesPerView: 1,
+            spaceBetween: 20,
+            pagination: { el: '.swiper-pagination', clickable: true },
+            touchEventsTarget: 'wrapper', // Ensures the whole area is touchable
+            longSwipesRatio: 0.1         // Makes it easier to swipe on mobile
+        });
+    }
+
+    // Run on load
+    window.addEventListener('DOMContentLoaded', initLibrary);
+</script>
+
 </body>
 </html>
