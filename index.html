@@ -18,14 +18,25 @@
         <!-- Content will be injected here -->
     </div></div>
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>
-        // Fetch your 5,000 entries from a separate file
-        fetch('library.txt')
-            .then(response => response.text())
-            .then(data => {
-                document.getElementById('content-container').innerHTML = data;
-                new Swiper('.swiper', { direction: 'vertical' });
-            });
-    </script>
+<script>
+    // Get the container and all slides
+    const container = document.getElementById('content-container');
+    const slides = Array.from(container.children);
+
+    // Shuffle the array of slides
+    for (let i = slides.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [slides[i], slides[j]] = [slides[j], slides[i]];
+    }
+
+    // Re-append them to the container in the new order
+    slides.forEach(slide => container.appendChild(slide));
+
+    // Initialize Swiper after shuffling
+    new Swiper('.swiper', { 
+        direction: 'vertical',
+        loop: true // Optional: enables infinite loop after the last card
+    });
+</script>
 </body>
 </html>
