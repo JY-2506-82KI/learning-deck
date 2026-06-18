@@ -2,51 +2,53 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Strategic Library</title>
-    
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     
     <style>
+        /* Force the browser to ignore its own UI for height calculation */
         body, html { 
-            margin: 0; padding: 0; height: 100vh; width: 100vw; 
-            background: #0f0f0f; font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            margin: 0; padding: 0; 
+            height: 100%; width: 100%; 
+            background: #0f0f0f; 
             overflow: hidden; 
         }
-        .swiper { width: 100vw; height: 100vh; }
+        
+        .swiper { 
+            width: 100vw; 
+            /* Use 'dvh' (dynamic viewport height) to account for mobile address bars */
+            height: 100dvh; 
+        }
+        
         .swiper-slide { 
-            display: flex; align-items: center; justify-content: center;
-            width: 100vw; height: 100vh;
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            width: 100vw;
+            height: 100dvh;
         }
+
         .card { 
-            background: #1a1a1a; color: #fff; padding: 25px; border-radius: 20px; 
-            width: 90vw; max-width: 400px; border: 1px solid #333;
-            box-sizing: border-box; max-height: 80vh; overflow-y: auto;
+            background: #1a1a1a; color: #fff; 
+            padding: 25px; border-radius: 20px; 
+            width: 85vw; max-width: 400px;
+            border: 1px solid #333;
+            box-sizing: border-box;
         }
-        h2 { margin-top: 0; color: #00d4ff; font-size: 1.4rem; }
-        .author { font-size: 0.8rem; color: #888; margin-bottom: 15px; }
-        .content { line-height: 1.5; margin-bottom: 20px; }
-        .action { font-weight: bold; color: #ff9900; }
     </style>
 </head>
 <body>
 
 <div class="swiper">
-    <div class="swiper-wrapper"></div>
+    <div class="swiper-wrapper" id="card-container"></div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <script>
-    // Your 200+ library entries
-    const libraryData = [
-        { title: "The Asymmetry of Action", author: "From: The Black Swan", content: "Limit downside, maximize upside.", action: "Action: Identify one 'unlimited upside' activity." },
-        { title: "The Feedback Loop", author: "From: High Output Management", content: "Value is determined by feedback speed.", action: "Action: Reduce a loop by 50%." },
-        { title: "Inversion of Failure", author: "From: Principles", content: "Fix the design, not just the error.", action: "Action: Re-design a process." }
-        // ... Add all 200 entries here ...
-    ];
+    const libraryData = [/* Your 200 items */];
 
-    // Fisher-Yates Shuffle Algorithm
     function shuffle(array) {
         let arr = [...array];
         for (let i = arr.length - 1; i > 0; i--) {
@@ -57,24 +59,27 @@
     }
 
     function initLibrary() {
-        const shuffledData = shuffle(libraryData);
+        const container = document.getElementById('card-container');
+        const shuffled = shuffle(libraryData);
+        
+        container.innerHTML = shuffled.map(entry => `
+            <div class="swiper-slide">
+                <div class="card">
+                    <h2>${entry.title}</h2>
+                    <div class="author">${entry.author}</div>
+                    <div class="content">${entry.content}</div>
+                    <div class="action">${entry.action}</div>
+                </div>
+            </div>
+        `).join('');
 
         new Swiper('.swiper', {
             direction: 'vertical',
             slidesPerView: 1,
-            // Virtual module keeps memory usage low
-            virtual: {
-                slides: shuffledData.map(entry => `
-                    <div class="card">
-                        <h2>${entry.title}</h2>
-                        <div class="author">${entry.author}</div>
-                        <div class="content">${entry.content}</div>
-                        <div class="action">${entry.action}</div>
-                    </div>
-                `)
-            },
             observer: true,
-            observeParents: true
+            observeParents: true,
+            // Force Swiper to re-calculate layout on load
+            updateOnWindowResize: true
         });
     }
 
