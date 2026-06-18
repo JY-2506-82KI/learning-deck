@@ -6,12 +6,7 @@
     <style>
         body, html { margin: 0; padding: 0; background: #050505; height: 100%; font-family: sans-serif; }
         .swiper { width: 100%; height: 100vh; }
-        .card { 
-            display: flex; flex-direction: column; justify-content: center; align-items: center;
-            background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(20px);
-            border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 20px;
-            padding: 30px; color: #eee; height: 100%; box-sizing: border-box;
-        }
+        .card { display: flex; flex-direction: column; justify-content: center; align-items: center; background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(20px); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 20px; padding: 30px; color: #eee; height: 100%; box-sizing: border-box; }
         h2 { color: #888; font-size: 0.9rem; text-transform: uppercase; margin-bottom: 5px; }
         .author { color: #555; font-size: 0.8rem; margin-bottom: 20px; }
         .content { font-size: 1.1rem; line-height: 1.5; margin-bottom: 20px; text-align: left; }
@@ -19,24 +14,18 @@
     </style>
 </head>
 <body>
-    <div class="swiper"><div class="swiper-wrapper">
-        
-        <div class="swiper-slide"><div class="card">
-            <h2>Deep Work</h2>
-            <div class="author">by Cal Newport</div>
-            <div class="content">In an era defined by constant digital fragmentation, the ability to perform deep work is becoming a superpower. Newport argues that high-value output is the product of intense concentration, free from the "attention residue" caused by context switching. True mastery requires scheduling long, unbroken blocks of time where you treat your attention as a finite, non-renewable resource, protecting it with as much rigor as you would your financial assets.</div>
-            <div class="action">Action: Identify one high-leverage task that requires 90 minutes of total isolation and schedule it for your peak energy hour tomorrow.</div>
-        </div></div>
-
-        <div class="swiper-slide"><div class="card">
-            <h2>Thinking, Fast and Slow</h2>
-            <div class="author">by Daniel Kahneman</div>
-            <div class="content">Our minds operate through two systems: System 1 (fast, intuitive) and System 2 (slow, logical). We tend to trust System 1 because it is effortless, but it is prone to systemic biases. When you face a high-stakes decision, your intuition is often a response to a simpler version of the problem. To make better decisions, you must recognize when your brain is taking a "mental shortcut" and intentionally activate System 2 to audit your assumptions.</div>
-            <div class="action">Action: On your next important decision, pause for 60 seconds and write down three alternative perspectives that contradict your initial "gut feeling."</div>
-        </div></div>
-
+    <div class="swiper"><div class="swiper-wrapper" id="content-container">
+        <!-- Content will be injected here -->
     </div></div>
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-    <script>const swiper = new Swiper('.swiper', { direction: 'vertical' });</script>
+    <script>
+        // Fetch your 5,000 entries from a separate file
+        fetch('library.txt')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('content-container').innerHTML = data;
+                new Swiper('.swiper', { direction: 'vertical' });
+            });
+    </script>
 </body>
 </html>
