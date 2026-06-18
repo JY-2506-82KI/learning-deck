@@ -14,29 +14,30 @@
     </style>
 </head>
 <body>
-    <div class="swiper"><div class="swiper-wrapper" id="content-container">
-        <!-- Content will be injected here -->
-    </div></div>
+    <div class="swiper"><div class="swiper-wrapper" id="content-container"></div></div>
+
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-<script>
-    // Get the container and all slides
-    const container = document.getElementById('content-container');
-    const slides = Array.from(container.children);
-
-    // Shuffle the array of slides
-    for (let i = slides.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [slides[i], slides[j]] = [slides[j], slides[i]];
-    }
-
-    // Re-append them to the container in the new order
-    slides.forEach(slide => container.appendChild(slide));
-
-    // Initialize Swiper after shuffling
-    new Swiper('.swiper', { 
-        direction: 'vertical',
-        loop: true // Optional: enables infinite loop after the last card
-    });
-</script>
+    <script>
+        fetch('library.txt')
+            .then(response => response.text())
+            .then(data => {
+                const container = document.getElementById('content-container');
+                container.innerHTML = data;
+                
+                // Shuffle logic
+                const slides = Array.from(container.children);
+                for (let i = slides.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [slides[i], slides[j]] = [slides[j], slides[i]];
+                }
+                slides.forEach(slide => container.appendChild(slide));
+                
+                // Initialize
+                new Swiper('.swiper', { direction: 'vertical', loop: true });
+            })
+            .catch(err => {
+                document.body.innerHTML = "<div style='color:white; padding:20px;'>Error loading library. Check if library.txt exists.</div>";
+            });
+    </script>
 </body>
 </html>
