@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <!-- PWA meta tags to force "App-like" behavior -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Library</title>
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
     <style>
@@ -21,34 +19,30 @@
             height: 100dvh;
         }
         .card { 
-            display: flex; flex-direction: column; justify-content: space-between; 
-            background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(20px); 
-            border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 25px; 
-            padding: 30px; color: #eee; 
-            width: 90%; height: 85dvh; box-sizing: border-box;
+            display: flex; flex-direction: column; 
+            background: rgba(255, 255, 255, 0.05); 
+            backdrop-filter: blur(20px); 
+            border: 1px solid rgba(255, 255, 255, 0.1); 
+            border-radius: 25px; 
+            padding: 30px; 
+            color: #eee; 
+            width: 88%; 
+            max-height: 80vh; 
+            box-sizing: border-box;
         }
-        .text-area { flex-grow: 1; overflow-y: auto; }
-        h2 { color: #888; font-size: 0.9rem; text-transform: uppercase; margin-bottom: 5px; }
-        .author { color: #555; font-size: 0.8rem; margin-bottom: 20px; }
-        .content { font-size: 1.3rem; line-height: 1.5; margin-bottom: 20px; }
+        h2 { color: #888; font-size: 0.9rem; text-transform: uppercase; margin: 0 0 10px 0; }
+        .author { color: #555; font-size: 0.8rem; margin: 0 0 20px 0; }
+        .content { font-size: 1.25rem; line-height: 1.5; margin: 0 0 20px 0; overflow-y: auto; }
         .action { 
             font-style: italic; color: #aaa; border-top: 1px solid #333; 
-            padding-top: 20px; font-size: 1.1rem; flex-shrink: 0;
-        }
-
-        /* Mobile Optimization */
-        @media (max-width: 600px) {
-            .card { padding: 25px; height: 88dvh; }
-            .content { font-size: 1.4rem; }
-            .action { font-size: 1.2rem; }
+            padding-top: 15px; font-size: 1.05rem; margin-top: auto;
         }
     </style>
 </head>
 <body>
     <div class="swiper">
         <div class="swiper-wrapper" id="content-container">
-            <!-- Content loaded via library.txt -->
-        </div>
+            </div>
     </div>
 
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
@@ -69,12 +63,11 @@
                 new Swiper('.swiper', { 
                     direction: 'vertical', 
                     loop: true,
-                    grabCursor: true,
-                    slidesPerView: 1
+                    grabCursor: true
                 });
             })
-            .catch(err => {
-                document.body.innerHTML = "<div style='color:white; padding:40px;'>Error loading library.txt.</div>";
+            .catch(() => {
+                document.body.innerHTML = "<div style='color:white; padding:40px;'>Error loading library.</div>";
             });
     </script>
 </body>
