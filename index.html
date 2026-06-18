@@ -8,57 +8,47 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     
     <style>
-    /* 1. Lockdown the root to prevent tiny scaling */
-    body, html { 
-        margin: 0; padding: 0; 
-        height: 100%; width: 100%;
-        background: #0f0f0f; 
-        font-family: -apple-system, sans-serif;
-        overflow: hidden; /* No scrollbars */
-    }
-    
-    /* 2. Force Swiper to be full screen */
-    .swiper { 
-        width: 100vw; height: 100vh; 
-        touch-action: none; 
-    }
-    
-    /* 3. Force the wrapper to match */
-    .swiper-wrapper { width: 100vw; height: 100vh; }
+        body, html { 
+            margin: 0; padding: 0; 
+            height: 100%; width: 100%;
+            background: #0f0f0f; 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            overflow: hidden; /* Prevents native browser scroll */
+        }
+        
+        .swiper { 
+            width: 100vw; 
+            height: 100vh; 
+        }
+        
+        .swiper-slide { 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            height: 100vh;
+        }
 
-    /* 4. Ensure each slide forces full container size */
-    .swiper-slide { 
-        display: flex; 
-        align-items: center; 
-        justify-content: center; 
-        width: 100vw !important; 
-        height: 100vh !important; 
-        box-sizing: border-box;
-    }
+        .card { 
+            background: #1a1a1a; 
+            color: #fff; 
+            padding: 30px; 
+            border-radius: 20px; 
+            width: 85%; 
+            max-width: 400px;
+            border: 1px solid #333;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
 
-    /* 5. Scale the card to look good on mobile, not tiny */
-    .card { 
-        background: #1a1a1a; 
-        color: #fff; 
-        padding: 40px; 
-        border-radius: 20px; 
-        width: 85vw; /* Almost full width */
-        max-width: 500px;
-        min-height: 50vh; /* Give it some vertical presence */
-        box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-        border: 1px solid #333;
-    }
-
-    h2 { font-size: 1.8rem; color: #00d4ff; }
-    .content { font-size: 1.2rem; line-height: 1.6; }
-</style>
+        h2 { margin-top: 0; color: #00d4ff; font-size: 1.4rem; }
+        .author { font-size: 0.8rem; color: #888; margin-bottom: 15px; }
+        .content { line-height: 1.5; margin-bottom: 20px; }
+        .action { font-weight: bold; color: #ff9900; }
+    </style>
 </head>
 <body>
 
 <div class="swiper">
-    <div class="swiper-wrapper" id="card-container">
-        </div>
-    <div class="swiper-pagination"></div>
+    <div class="swiper-wrapper" id="card-container"></div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
@@ -66,15 +56,12 @@
 <script>
     const libraryData = [
         { title: "The Asymmetry of Action", author: "From: The Black Swan", content: "Limit your exposure to catastrophic downside, but maximize your exposure to unlimited upside.", action: "Action: Identify one 'unlimited upside' activity." },
-        { title: "The Feedback Loop", author: "From: High Output Management", content: "The value of any process is determined by its feedback loop. If the results take too long, you are flying blind.", action: "Action: Reduce a feedback loop by 50%." },
-        { title: "Inversion of Failure", author: "From: Principles", content: "Don't blame the environment; blame the design of your own decision-making process.", action: "Action: Re-design a decision process." }
-        // Add your additional entries here
+        { title: "The Feedback Loop", author: "From: High Output Management", content: "The value of any process is determined by its feedback loop.", action: "Action: Reduce a feedback loop by 50%." }
     ];
 
     function initLibrary() {
         const container = document.getElementById('card-container');
-        
-        const html = libraryData.map(entry => `
+        container.innerHTML = libraryData.map(entry => `
             <div class="swiper-slide">
                 <div class="card">
                     <h2>${entry.title}</h2>
@@ -85,24 +72,16 @@
             </div>
         `).join('');
 
-        container.innerHTML = html;
-
         new Swiper('.swiper', {
-            direction: 'horizontal',
-            loop: true,
+            direction: 'vertical', // This forces up/down swiping
             slidesPerView: 1,
-            grabCursor: true,
-            touchEventsTarget: 'wrapper',
-            touchStartPreventDefault: true,
-            touchMoveStopPropagation: true,
+            mousewheel: true,     // Enables scroll wheel on desktop
             observer: true,
-            observeParents: true,
-            pagination: { el: '.swiper-pagination', clickable: true }
+            observeParents: true
         });
     }
 
     window.addEventListener('DOMContentLoaded', initLibrary);
 </script>
-
 </body>
 </html>
