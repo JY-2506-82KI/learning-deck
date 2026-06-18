@@ -5,16 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Strategic Library</title>
     
-    <!-- Swiper CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     
     <style>
-        body, html { margin: 0; padding: 0; height: 100%; background: #0f0f0f; font-family: sans-serif; overflow: hidden; }
+        /* Force full screen and lock scrolling to Swiper only */
+        body, html { 
+            margin: 0; padding: 0; height: 100%; width: 100%;
+            background: #0f0f0f; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            overflow: hidden; 
+        }
         
-        .swiper { width: 100%; height: 100vh; }
+        .swiper { 
+            width: 100vw; height: 100vh; 
+            touch-action: none; /* Disables native browser gestures */
+        }
         
+        .swiper-wrapper { width: 100%; height: 100%; }
+
         .swiper-slide { 
             display: flex; align-items: center; justify-content: center; 
+            width: 100%; height: 100%;
             padding: 20px; box-sizing: border-box;
         }
 
@@ -24,41 +34,33 @@
             border: 1px solid #333;
         }
 
-        h2 { margin-top: 0; color: #00d4ff; }
+        h2 { margin-top: 0; color: #00d4ff; font-size: 1.5rem; }
         .author { font-size: 0.8rem; color: #888; margin-bottom: 15px; }
         .content { line-height: 1.6; margin-bottom: 20px; }
         .action { font-weight: bold; color: #ff9900; }
-        
-        /* Prevents browser touch interference */
-        .swiper-wrapper { touch-action: pan-y; }
     </style>
 </head>
 <body>
 
 <div class="swiper">
     <div class="swiper-wrapper" id="card-container">
-        <!-- Cards will be injected here -->
-    </div>
-    <!-- Pagination dot indicators -->
+        </div>
     <div class="swiper-pagination"></div>
 </div>
 
-<!-- Swiper JS -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <script>
-    // Your library data
     const libraryData = [
         { title: "The Asymmetry of Action", author: "From: The Black Swan", content: "Limit your exposure to catastrophic downside, but maximize your exposure to unlimited upside.", action: "Action: Identify one 'unlimited upside' activity." },
-        { title: "The Law of Conservation of Energy", author: "From: The Power of Full Engagement", content: "Energy is the fuel for all performance. Ritualize recovery.", action: "Action: Insert a 10-minute recharge." },
-        { title: "Inversion of Authority", author: "From: The 48 Laws of Power", content: "Never trust a reputation blindly. Test it with low-stakes probes.", action: "Action: Probe a 'given' truth." }
-        // ... Add your other 190+ entries here ...
+        { title: "The Feedback Loop", author: "From: High Output Management", content: "The value of any process is determined by its feedback loop. If the results take too long, you are flying blind.", action: "Action: Reduce a feedback loop by 50%." },
+        { title: "Inversion of Failure", author: "From: Principles", content: "Don't blame the environment; blame the design of your own decision-making process.", action: "Action: Re-design a decision process." }
+        // Add your additional entries here
     ];
 
     function initLibrary() {
         const container = document.getElementById('card-container');
         
-        // Generate HTML string
         const html = libraryData.map(entry => `
             <div class="swiper-slide">
                 <div class="card">
@@ -72,21 +74,20 @@
 
         container.innerHTML = html;
 
-        // Initialize Swiper with mobile-optimized settings
         new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,
-            observer: true,       // Force re-calculation if DOM changes
-            observeParents: true, 
             slidesPerView: 1,
-            spaceBetween: 20,
-            pagination: { el: '.swiper-pagination', clickable: true },
-            touchEventsTarget: 'wrapper', // Ensures the whole area is touchable
-            longSwipesRatio: 0.1         // Makes it easier to swipe on mobile
+            grabCursor: true,
+            touchEventsTarget: 'wrapper',
+            touchStartPreventDefault: true,
+            touchMoveStopPropagation: true,
+            observer: true,
+            observeParents: true,
+            pagination: { el: '.swiper-pagination', clickable: true }
         });
     }
 
-    // Run on load
     window.addEventListener('DOMContentLoaded', initLibrary);
 </script>
 
