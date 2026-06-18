@@ -160,4 +160,1982 @@
     <div class="action">Action: List the three things you care most about; consciously decide to 'not give a f*ck' about everything else this week.</div>
 </div></div>
 
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Pareto Focus</h2>
+        <div class="author">From: The 80/20 Principle</div>
+        <div class="content">Identify the 20% of your daily inputs that generate 80% of your results. Systematically eliminate or delegate the remaining 80% to prevent cognitive dilution.</div>
+        <div class="action">Action: Audit your top 3 tasks today.</div>
+    </div>
+</div>
 
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Atomic Progression</h2>
+        <div class="author">From: Atomic Habits</div>
+        <div class="content">Do not focus on the outcome; focus on the system. A 1% improvement in your daily execution compounding over a year leads to a 37x increase in output.</div>
+        <div class="action">Action: Define one 1% improvement.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Deep Work</h2>
+        <div class="author">From: Deep Work</div>
+        <div class="content">Professional success is increasingly tied to the ability to master hard things quickly. This requires uninterrupted, high-intensity focus sessions. Distraction is the enemy of value.</div>
+        <div class="action">Action: Schedule 90 min of deep work.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The First Principle</h2>
+        <div class="author">From: First Principles Thinking</div>
+        <div class="content">Boil things down to the most fundamental truths and reason up from there, rather than reasoning by analogy. Stop doing things just because "that’s how they’ve always been done."</div>
+        <div class="action">Action: Challenge a core assumption.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Anti-Fragility</h2>
+        <div class="author">From: Antifragile</div>
+        <div class="content">Systems that gain from disorder are superior. Instead of trying to be "robust" (resistant to stress), position your life to benefit from volatility and unexpected stressors.</div>
+        <div class="action">Action: Seek a small, low-risk stressor.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Stoic Filter</h2>
+        <div class="author">From: Meditations</div>
+        <div class="content">You have power over your mind, not outside events. When you realize this, you find true strength. Filter all incoming information through: "Is this within my control?"</div>
+        <div class="action">Action: Release one external worry.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Mental Models</h2>
+        <div class="author">From: Seeking Wisdom</div>
+        <div class="content">The world is multi-disciplinary. If you only have a hammer, everything looks like a nail. Collect mental models from physics, biology, and history to view problems from multiple angles.</div>
+        <div class="action">Action: Apply one new lens to a problem.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Essentialist</h2>
+        <div class="author">From: Essentialism</div>
+        <div class="content">The pursuit of "less but better." Discern the vital few from the trivial many. If it’s not a clear "yes," it is a clear "no."</div>
+        <div class="action">Action: Decline one non-essential request.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Cognitive Biases</h2>
+        <div class="author">From: Thinking, Fast and Slow</div>
+        <div class="content">System 1 (fast/intuitive) is prone to systematic error. Slow down and engage System 2 (logical/effortful) for any decision involving long-term consequences.</div>
+        <div class="action">Action: Pause before your next choice.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Influence</h2>
+        <div class="author">From: Influence</div>
+        <div class="content">Master the psychology of persuasion. Understand reciprocity, social proof, and scarcity. Knowing these triggers allows you to use them ethically and defend against them.</div>
+        <div class="action">Action: Recognize one persuasion tactic.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Extreme Ownership</h2>
+        <div class="author">From: Extreme Ownership</div>
+        <div class="content">There are no bad teams, only bad leaders. Own everything in your world—the failures, the successes, and the processes. Blame is a productivity killer.</div>
+        <div class="action">Action: Own a current failure.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Flow State</h2>
+        <div class="author">From: Flow</div>
+        <div class="content">Optimal experience happens when you balance high challenge with high skill. Find the "Goldilocks zone" where you are neither bored nor overwhelmed.</div>
+        <div class="action">Action: Adjust challenge to match skill.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Habit</h2>
+        <div class="author">From: The Power of Habit</div>
+        <div class="content">Understand the cue-routine-reward loop. You cannot extinguish a bad habit; you can only replace the routine while keeping the cue and reward intact.</div>
+        <div class="action">Action: Identify a habit loop.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Influence and Power</h2>
+        <div class="author">From: The 48 Laws of Power</div>
+        <div class="content">While often ruthless, the core truth is understanding human nature. Protect your reputation above all else; it is the cornerstone of all your power and influence.</div>
+        <div class="action">Action: Audit your public persona.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Rationality</h2>
+        <div class="author">From: The Rationality Quotient</div>
+        <div class="content">IQ is not enough. You must actively cultivate "rational thinking dispositions"—the ability to seek out counter-evidence and detach from ego-driven narratives.</div>
+        <div class="action">Action: Seek a contrary opinion.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Black Swans</h2>
+        <div class="author">From: The Black Swan</div>
+        <div class="content">The most impactful events in life are unpredictable outliers. Don't waste time predicting the future; build a strategy that survives the impossible.</div>
+        <div class="action">Action: Stress-test your plan.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Communication</h2>
+        <div class="author">From: Nonviolent Communication</div>
+        <div class="content">Observe without evaluation. State your feelings, identify your needs, and make a clear request. Most conflict is a tragic expression of unmet needs.</div>
+        <div class="action">Action: Rephrase a conflict.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Mastery</h2>
+        <div class="author">From: Mastery</div>
+        <div class="content">Mastery is not a result of innate talent, but of intense, sustained practice (the 10,000-hour concept). The path is long, but the mastery of one skill translates to others.</div>
+        <div class="action">Action: Commit to 1 hour of practice.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Dip</h2>
+        <div class="author">From: The Dip</div>
+        <div class="content">"The Dip" is the long slog between starting and mastery. Winners don't quit; they quit the *wrong* things and stick through the Dip of the *right* things.</div>
+        <div class="action">Action: Evaluate if you are in a Dip.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Sovereignty</h2>
+        <div class="author">From: The Sovereign Individual</div>
+        <div class="content">As information technology decentralizes power, the premium on individual intelligence and geographic mobility will skyrocket. Prepare for a world of self-sovereignty.</div>
+        <div class="action">Action: Prioritize skill portability.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Compound Effect</h2>
+        <div class="author">From: The Compound Effect</div>
+        <div class="content">Small, smart choices + consistency + time = radical difference. You don't need a massive paradigm shift; you just need to out-perform your current self by a tiny margin every day.</div>
+        <div class="action">Action: Identify one 'smart' daily habit.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Second Mountain</h2>
+        <div class="author">From: The Second Mountain</div>
+        <div class="content">The first mountain is about individual success; the second is about commitment to others. Life’s ultimate fulfillment is found in the transition from ego to community.</div>
+        <div class="action">Action: Define a service-oriented goal.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Principles</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">Pain + Reflection = Progress. When you experience a setback, do not just push through; pause, document the "why," and encode it into a principle to avoid repeating the mistake.</div>
+        <div class="action">Action: Turn a past error into a rule.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Thinking in Systems</h2>
+        <div class="author">From: Thinking in Systems</div>
+        <div class="content">A system is more than the sum of its parts. Learn to look for feedback loops—reinforcing (growth) and balancing (stability)—to understand why problems persist.</div>
+        <div class="action">Action: Map out a recurring problem.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Grit</h2>
+        <div class="author">From: Grit</div>
+        <div class="content">Passion and perseverance for long-term goals. Talent is overrated; effort counts twice. You must have the stamina to stay the course through repeated failure.</div>
+        <div class="action">Action: Re-commit to a long-term goal.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Obstacle is the Way</h2>
+        <div class="author">From: The Obstacle is the Way</div>
+        <div class="content">The impediment to action advances action. What stands in the way becomes the way. Turn every obstacle into an opportunity to practice a specific virtue or skill.</div>
+        <div class="action">Action: Reframe a current roadblock.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>High Output Management</h2>
+        <div class="author">From: High Output Management</div>
+        <div class="content">A manager's output is the output of their organization plus the output of the neighboring organizations under their influence. Focus on high-leverage activities that impact the most people.</div>
+        <div class="action">Action: Identify a high-leverage task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Superthinking</h2>
+        <div class="author">From: Superthinking</div>
+        <div class="content">Learn to use "mental models" as shortcuts for thinking. Knowing how to use an inversion, a second-order effect, or a map-territory confusion is like having a superpower.</div>
+        <div class="action">Action: Use 'Inversion' on a problem.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Deep Work Strategy</h2>
+        <div class="author">From: Digital Minimalism</div>
+        <div class="content">Technology should be a tool used to support your values, not a master that demands your attention. Purge the digital noise that provides zero utility.</div>
+        <div class="action">Action: Delete one distracting app.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The War of Art</h2>
+        <div class="author">From: The War of Art</div>
+        <div class="content">Resistance is the invisible force that prevents you from doing your true work. It is strongest right before you finish a masterpiece. Push through.</div>
+        <div class="action">Action: Do the work despite Resistance.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Thinking Skills</h2>
+        <div class="author">From: The Art of Thinking Clearly</div>
+        <div class="content">Identify common cognitive errors like the Sunk Cost Fallacy or Confirmation Bias. Knowing that your brain is hardwired to lie to you is the first step toward clarity.</div>
+        <div class="action">Action: Spot one bias in your thinking.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Habit Architecture</h2>
+        <div class="author">From: Tiny Habits</div>
+        <div class="content">Behavior = Motivation + Ability + Prompt. If a behavior isn't happening, it's not a willpower issue; it's a design issue. Make the habit tiny enough to be fail-proof.</div>
+        <div class="action">Action: Make a habit 'too small to fail'.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Founders Mentality</h2>
+        <div class="author">From: The Founder's Mentality</div>
+        <div class="content">Avoid the "insurgency" drift. Maintain a sense of rebellion against the status quo, extreme customer obsession, and an owner’s mindset, even as you scale.</div>
+        <div class="action">Action: Question an industry norm.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Flow Strategy</h2>
+        <div class="author">From: Stealing Fire</div>
+        <div class="content">Ecstatic states are not just for mystics; they are tools for peak performance. Use neurochemistry to access states of flow for accelerated learning and creativity.</div>
+        <div class="action">Action: Create a 'flow trigger' ritual.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Crucial Conversations</h2>
+        <div class="author">From: Crucial Conversations</div>
+        <div class="content">When stakes are high, emotions strong, and opinions vary, safety is key. If you can keep the other party feeling safe, you can talk about anything.</div>
+        <div class="action">Action: Check for safety in your dialogue.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Total Recall</h2>
+        <div class="author">From: Moonwalking with Einstein</div>
+        <div class="content">Memory is a skill, not a genetic trait. Use the "Method of Loci" (memory palace) to encode information by linking it to physical spaces in your mind.</div>
+        <div class="action">Action: Start a simple memory palace.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Peak</h2>
+        <div class="author">From: Peak</div>
+        <div class="content">"Deliberate practice" is the gold standard for skill acquisition. It requires focused effort, immediate feedback, and stretching just beyond your current comfort zone.</div>
+        <div class="action">Action: Seek feedback on a task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Never Split the Difference</h2>
+        <div class="author">From: Never Split the Difference</div>
+        <div class="content">Negotiation is not a battle; it's a process of discovery. Use "tactical empathy" to identify the other person's constraints and steer toward the win-win.</div>
+        <div class="action">Action: Use 'mirroring' in a conversation.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Decision Theory</h2>
+        <div class="author">From: Decisive</div>
+        <div class="content">Beware of "narrow framing." Always ask yourself, "What if I couldn't pick either of these options?" Force yourself to broaden your search for alternatives.</div>
+        <div class="action">Action: Generate a 3rd option.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of Learning</h2>
+        <div class="author">From: Mastery (Robert Greene)</div>
+        <div class="content">The apprenticeship phase is vital. Subordinate your need for immediate results to the need for learning the fundamental mechanics of your craft.</div>
+        <div class="action">Action: Embrace a long-term 'apprentice' mindset.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Framing Effect</h2>
+        <div class="author">From: Predictably Irrational</div>
+        <div class="content">We rarely make decisions in a vacuum; we make them based on the context provided. Understand that the way an option is presented often dictates your preference more than the content itself.</div>
+        <div class="action">Action: Reframe a choice to see it clearly.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Personal MBA</h2>
+        <div class="author">From: The Personal MBA</div>
+        <div class="content">Business is simple: (1) Value Creation, (2) Marketing, (3) Sales, (4) Value Delivery, (5) Finance. Focus on these core functions to ignore the corporate fluff.</div>
+        <div class="action">Action: Evaluate your output against these five.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Cognitive Flexibility</h2>
+        <div class="author">From: Range</div>
+        <div class="content">Generalists thrive in complex, unpredictable environments. By sampling many domains, you develop the ability to connect disparate ideas—a hallmark of true innovation.</div>
+        <div class="action">Action: Learn a concept from a new field.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Choice Architecture</h2>
+        <div class="author">From: Nudge</div>
+        <div class="content">Small changes in the environment can dramatically alter human behavior. Design your own surroundings to make the "right" choice the "easy" choice.</div>
+        <div class="action">Action: Alter your workspace for better focus.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Effective Altruism</h2>
+        <div class="author">From: Doing Good Better</div>
+        <div class="content">Good intentions are insufficient. Use data and reasoning to determine where your resources (time/money) can produce the greatest quantifiable impact per unit invested.</div>
+        <div class="action">Action: Audit where your effort yields most.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategy Paradox</h2>
+        <div class="author">From: The Strategy Paradox</div>
+        <div class="content">Strategic plans must be rigid in their goal but flexible in their execution. If your plan assumes one specific future, it will fail when the environment shifts.</div>
+        <div class="action">Action: Build a contingency for your main goal.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Mindfulness as Tool</h2>
+        <div class="author">From: 10% Happier</div>
+        <div class="content">Meditation is simply bicep curls for the brain. It provides the space between stimulus and response, where your freedom and power of choice reside.</div>
+        <div class="action">Action: Practice 5 minutes of stillness.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Network Effect</h2>
+        <div class="author">From: The Tipping Point</div>
+        <div class="content">Look for the "Law of the Few"—the connectors, mavens, and salesmen who drive exponential trends. Understand how small, subtle changes reach critical mass.</div>
+        <div class="action">Action: Identify the 'connector' in your circle.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Focus and Energy</h2>
+        <div class="author">From: The Power of Full Engagement</div>
+        <div class="content">Energy, not time, is your most precious resource. Manage your energy cycles by balancing high-intensity performance with deliberate, restorative recovery.</div>
+        <div class="action">Action: Schedule a recovery period.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Narrative Fallacy</h2>
+        <div class="author">From: The Bed of Procrustes</div>
+        <div class="content">Humans are hardwired to weave unrelated facts into coherent, false stories. Beware of explanations that make the world seem more predictable than it truly is.</div>
+        <div class="action">Action: Question a 'story' you believe.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Silent Killer</h2>
+        <div class="author">From: Ego Is the Enemy</div>
+        <div class="content">Ego is the need to be better than, more than, or recognized for, far beyond any reasonable utility. It is the single greatest obstacle to learning and growth.</div>
+        <div class="action">Action: Perform a task without credit.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Managing Complexity</h2>
+        <div class="author">From: The Checklist Manifesto</div>
+        <div class="content">Complex environments require systems, not just experts. A simple, well-designed checklist prevents catastrophic failure by handling the 'knowns' consistently.</div>
+        <div class="action">Action: Write a checklist for a recurring task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Culture Code</h2>
+        <div class="author">From: The Culture Code</div>
+        <div class="content">High-performing groups build psychological safety. This is achieved by displaying vulnerability, communicating clear belonging cues, and establishing shared purpose.</div>
+        <div class="action">Action: Demonstrate vulnerability in a team.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of War</h2>
+        <div class="author">From: The Art of War</div>
+        <div class="content">Victory comes from knowing when to fight and when to retreat. The highest form of generalship is to defeat the enemy without ever engaging in battle.</div>
+        <div class="action">Action: Choose the path of least resistance.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Thinking Small</h2>
+        <div class="author">From: Small is Beautiful</div>
+        <div class="content">Efficiency is not always synonymous with effectiveness. Smaller, more human-scale systems are often more resilient, manageable, and sustainable than massive ones.</div>
+        <div class="action">Action: Simplify a bloated process.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Diffusion</h2>
+        <div class="author">From: Diffusion of Innovations</div>
+        <div class="content">Ideas spread through a predictable path: innovators, early adopters, early majority, late majority, laggards. To spark change, focus only on the first two groups.</div>
+        <div class="action">Action: Identify early adopters for your ideas.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Paradox of Choice</h2>
+        <div class="author">From: The Paradox of Choice</div>
+        <div class="content">Too many options lead to paralysis and dissatisfaction. By intentionally restricting your choices, you actually increase your freedom and sense of satisfaction.</div>
+        <div class="action">Action: Limit your options today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Systems Thinking</h2>
+        <div class="author">From: The Fifth Discipline</div>
+        <div class="content">Mastery of the "learning organization." Focus on team learning and shared vision to break the internal silos that stifle innovation.</div>
+        <div class="action">Action: Share a lesson across silos.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The 4-Hour Workweek</h2>
+        <div class="author">From: The 4-Hour Workweek</div>
+        <div class="content">Define your "Dreamline." Most people don't know what they want; they just want more money. Quantify your target lifestyle to see what is actually required to fund it.</div>
+        <div class="action">Action: Define your absolute target income.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Signal and the Noise</h2>
+        <div class="author">From: The Signal and the Noise</div>
+        <div class="content">Most information is noise. To predict effectively, you must understand the difference between the "signal" (the truth) and the "noise" (random fluctuations).</div>
+        <div class="action">Action: Identify noise in your current workflow.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Game Theory</h2>
+        <div class="author">From: The Evolution of Cooperation</div>
+        <div class="content">In repeated interactions, the "Tit-for-Tat" strategy—being cooperative but not a pushover—is the most effective way to foster long-term mutual benefit.</div>
+        <div class="action">Action: Apply 'Tit-for-Tat' in a negotiation.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Halo Effect</h2>
+        <div class="author">From: The Halo Effect</div>
+        <div class="content">Beware of judging a person or company based on a single trait. Our brains project a "halo" onto successful entities, making us ignore the luck and structural flaws behind the success.</div>
+        <div class="action">Action: Audit a success for hidden luck.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Deep Learning</h2>
+        <div class="author">From: Ultralearning</div>
+        <div class="content">Aggressive, self-directed learning is a competitive advantage. Focus on "directness"—practicing the skill in the exact environment where it will be used.</div>
+        <div class="action">Action: Practice in a real-world scenario.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Talent Myth</h2>
+        <div class="author">From: Talent is Overrated</div>
+        <div class="content">What we call "talent" is almost always the result of years of "deliberate practice." It is the intentional, uncomfortable effort to improve a specific weakness.</div>
+        <div class="action">Action: Practice your weakest sub-skill.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Information Overload</h2>
+        <div class="author">From: Information Overload</div>
+        <div class="content">Information is not knowledge. To turn input into output, you must filter ruthlessly and immediately apply what you learn. Consumption without creation is terminal.</div>
+        <div class="action">Action: Apply one idea from today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The 80/20 Manager</h2>
+        <div class="author">From: The 80/20 Manager</div>
+        <div class="content">Focus on the "vital 20%" of people and activities that generate 80% of value. Do not treat all tasks, or all people, as equal in importance.</div>
+        <div class="action">Action: Reallocate 1 hour to high-value work.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Rational Decisions</h2>
+        <div class="author">From: Poor Charlie’s Almanack</div>
+        <div class="content">Invert, always invert. Instead of asking how to achieve success, ask how to avoid catastrophe. If you avoid the obvious stupidities, you will outperform.</div>
+        <div class="action">Action: Invert a problem: 'How would I fail?'</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Systems</h2>
+        <div class="author">From: Systems Thinking</div>
+        <div class="content">A system is defined by its purpose, not just its components. If the system is producing bad results, changing the people rarely helps; you must change the rules of the system.</div>
+        <div class="action">Action: Change a 'rule' in your workflow.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Authenticity</h2>
+        <div class="author">From: Radical Candor</div>
+        <div class="content">Care personally, challenge directly. You can hold people to high standards while showing you have their best interest at heart. This is the only way to build high-performance teams.</div>
+        <div class="action">Action: Offer direct feedback with care.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Resilience</h2>
+        <div class="author">From: Man's Search for Meaning</div>
+        <div class="content">You can strip a person of everything except the last of the human freedoms: the ability to choose one's attitude in any given set of circumstances.</div>
+        <div class="action">Action: Choose your attitude towards a stressor.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Decision Making</h2>
+        <div class="author">From: Thinking in Bets</div>
+        <div class="content">Treat life like poker, not chess. There is always an element of luck. Focus on the *process* of your decisions rather than the outcomes, which you cannot fully control.</div>
+        <div class="action">Action: Rate the process, not the outcome.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Long Game</h2>
+        <div class="author">From: The Long Game</div>
+        <div class="content">Strategic patience is a superpower. Most people overestimate what they can do in a year and underestimate what they can do in a decade.</div>
+        <div class="action">Action: Review your 5-year trajectory.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Influence Tactics</h2>
+        <div class="author">From: Pre-Suasion</div>
+        <div class="content">What you present immediately *before* a message is as important as the message itself. Prime your environment to make your message more receptive.</div>
+        <div class="action">Action: Prime your audience before you ask.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of Focus</h2>
+        <div class="author">From: Essentialism</div>
+        <div class="content">If you don't prioritize your life, someone else will. Decide what is non-essential, and eliminate it with extreme prejudice.</div>
+        <div class="action">Action: Clear one item from your calendar.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Story</h2>
+        <div class="author">From: Building a StoryBrand</div>
+        <div class="content">You are not the hero of your customer’s story; you are the guide. Stop talking about yourself and start talking about how you can help them win.</div>
+        <div class="action">Action: Reframe your pitch to focus on them.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Daily Stoic</h2>
+        <div class="author">From: The Daily Stoic</div>
+        <div class="content">Amor Fati: Love your fate. Not just bear it, but embrace it. It is all fuel for the fire of your character.</div>
+        <div class="action">Action: Embrace an annoying situation.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Building Trust</h2>
+        <div class="author">From: Speed of Trust</div>
+        <div class="content">Trust is a measurable economic driver. When trust is high, speed goes up and costs go down. Build trust through character and competence.</div>
+        <div class="action">Action: Increase transparency in one area.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Personal Evolution</h2>
+        <div class="author">From: Limitless</div>
+        <div class="content">Your brain has neuroplasticity. You are not stuck with the mindset you have; you can actively re-wire your habits and belief systems at any age.</div>
+        <div class="action">Action: Challenge a self-limiting belief.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Strategy vs. Tactics</h2>
+        <div class="author">From: Good Strategy Bad Strategy</div>
+        <div class="content">Bad strategy is just a list of wishes. Good strategy is a coherent set of actions designed to overcome a specific, difficult challenge.</div>
+        <div class="action">Action: Name the biggest challenge you face.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Last Word</h2>
+        <div class="author">From: The Laws of Human Nature</div>
+        <div class="content">Understand that everyone is trapped in their own ego-bubble. Once you accept this, you can stop taking people’s irrational behavior personally and manage them effectively.</div>
+        <div class="action">Action: Observe others without judgment.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Reciprocity</h2>
+        <div class="author">From: Influence</div>
+        <div class="content">Human beings are hardwired to return favors. If you want to influence someone, lead with an unprompted, genuine value-add. It creates a powerful psychological "obligation" to cooperate.</div>
+        <div class="action">Action: Give value before asking for it.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Time Asymmetry</h2>
+        <div class="author">From: The Time Trap</div>
+        <div class="content">Most people spend their time on 'urgent' but 'unimportant' tasks. True efficiency comes from ignoring the urgent to focus on the 'important'—even when it's not pressing.</div>
+        <div class="action">Action: Identify one 'important' non-urgent task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Second-Order Thinking</h2>
+        <div class="author">From: The Most Important Thing</div>
+        <div class="content">First-level thinkers look for simple solutions. Second-level thinkers ask, "And then what?" Always consider the long-term consequences of your actions.</div>
+        <div class="action">Action: Ask "And then what?" three times.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Luck Surface Area</h2>
+        <div class="author">From: The Almanack of Naval Ravikant</div>
+        <div class="content">Luck isn't just random; it's a surface area you can increase by being visible, active, and helpful. Do work that creates luck for you while you sleep.</div>
+        <div class="action">Action: Increase your 'luck surface area' today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Systemic Feedback</h2>
+        <div class="author">From: Thinking in Systems</div>
+        <div class="content">Watch for 'policy resistance'—when you try to fix a problem and the system fights back. The fix often creates a new, worse problem elsewhere. Think globally.</div>
+        <div class="action">Action: Identify a 'fix' that caused a new issue.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Constraints</h2>
+        <div class="author">From: A Beautiful Constraint</div>
+        <div class="content">Constraints are not obstacles; they are the most powerful drivers of creativity. When you are forced to work with less, you find better ways to do more.</div>
+        <div class="action">Action: Impose a constraint on a project.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Personal Monopoly</h2>
+        <div class="author">From: Die With Zero</div>
+        <div class="content">Time and money are your two primary assets. Spend your time when you are young and healthy; don't save everything for a "retirement" that may never arrive.</div>
+        <div class="action">Action: Spend time, not just money, on an experience.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of Asking</h2>
+        <div class="author">From: The Art of Asking</div>
+        <div class="content">Asking for help is not a sign of weakness; it is a way to build community. Most people are waiting to be asked to help.</div>
+        <div class="action">Action: Ask for help on one specific task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Cognitive Load</h2>
+        <div class="author">From: Brain Rules</div>
+        <div class="content">The brain can only handle so much complexity at once. If you're overwhelmed, you aren't stupid; you just need to externalize your thinking (write it down).</div>
+        <div class="action">Action: Brain-dump your current list.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Competitive Advantage</h2>
+        <div class="author">From: Blue Ocean Strategy</div>
+        <div class="content">Don't fight in the red ocean of existing competition. Create your own blue ocean by offering something no one else in your market is offering.</div>
+        <div class="action">Action: Find one 'uncontested' area in your niche.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Focusing Question</h2>
+        <div class="author">From: The ONE Thing</div>
+        <div class="content">"What is the ONE thing I can do such that by doing it, everything else will be easier or unnecessary?" Always find the domino that knocks down all others.</div>
+        <div class="action">Action: Identify your 'domino' task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Building Character</h2>
+        <div class="author">From: Character is Destiny</div>
+        <div class="content">We are what we repeatedly do. Excellence, then, is not an act, but a habit. Your character is the sum total of your daily, invisible decisions.</div>
+        <div class="action">Action: Make one 'character-defining' choice.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Myth of Multi-tasking</h2>
+        <div class="author">From: The Organized Mind</div>
+        <div class="content">Multi-tasking is actually 'task-switching.' It drains your glucose and lowers your IQ. Single-tasking is the only way to achieve high-level performance.</div>
+        <div class="action">Action: Close every tab except one.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Emotional Intelligence</h2>
+        <div class="author">From: Emotional Intelligence</div>
+        <div class="content">Self-awareness is the foundation of EQ. You cannot manage your emotions until you can label them accurately. Pause and identify your current emotional state.</div>
+        <div class="action">Action: Label your current emotion.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Strategy Execution</h2>
+        <div class="author">From: Execution</div>
+        <div class="content">Strategy is nothing without the discipline of execution. The 'how' is more important than the 'what.' Focus on the people, the strategy, and the operations, in that order.</div>
+        <div class="action">Action: Fix one step in your 'how'.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Habit</h2>
+        <div class="author">From: The Power of Habit</div>
+        <div class="content">Keystone habits are the ones that cause a chain reaction of other good habits. Find one—like exercise or reading—and watch your life improve in other areas.</div>
+        <div class="action">Action: Commit to one 'keystone' habit.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Negotiation Strategy</h2>
+        <div class="author">From: Bargaining for Advantage</div>
+        <div class="content">Negotiation is about power, information, and time. Never reveal your deadline, and always focus on the interests, not the positions, of the other party.</div>
+        <div class="action">Action: Determine the other party's interests.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Science of Sleep</h2>
+        <div class="author">From: Why We Sleep</div>
+        <div class="content">Sleep is your life-support system. It is the only time your brain flushes out neurotoxins and consolidates memory. Losing sleep is losing your competitive edge.</div>
+        <div class="action">Action: Prioritize a 7-8 hour window.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of Resilience</h2>
+        <div class="author">From: Option B</div>
+        <div class="content">When life hits you hard, don't focus on "getting over it." Focus on building resilience for "Option B"—the new path forward. Resilience is a muscle built through stress.</div>
+        <div class="action">Action: Find the 'Option B' in a struggle.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Strategic Simplicity</h2>
+        <div class="author">From: Simply Said</div>
+        <div class="content">If you cannot explain it simply, you don't understand it well enough. Strip your message of all jargon until only the core truth remains.</div>
+        <div class="action">Action: Explain your goal in one sentence.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The OODA Loop</h2>
+        <div class="author">From: Boyd's OODA Loop</div>
+        <div class="content">Observe, Orient, Decide, Act. In a chaotic environment, whoever cycles through this loop the fastest gains the tactical advantage. Speed of comprehension beats sheer force.</div>
+        <div class="action">Action: Speed up your decision cycle.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Inversion Thinking</h2>
+        <div class="author">From: The Art of Thinking Clearly</div>
+        <div class="content">Instead of focusing on how to win, focus entirely on how not to lose. By systematically removing the causes of failure, success often becomes the default outcome.</div>
+        <div class="action">Action: List the ways to fail this task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Cognitive Bandwidth</h2>
+        <div class="author">From: Scarcity</div>
+        <div class="content">When you are preoccupied with a lack of something (time, money), your IQ effectively drops. Free up mental "bandwidth" by automating the mundane.</div>
+        <div class="action">Action: Automate one recurring chore.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The 10-10-10 Rule</h2>
+        <div class="author">From: Decisive</div>
+        <div class="content">How will you feel about this decision in 10 minutes? 10 months? 10 years? This forces emotional detachment and provides long-term perspective.</div>
+        <div class="action">Action: Apply 10-10-10 to a current choice.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Entropy</h2>
+        <div class="author">From: The Second Law of Thermodynamics</div>
+        <div class="content">Left alone, all systems degrade into chaos. Maintenance is not optional; it is the fundamental tax for existence. You must inject energy to maintain order.</div>
+        <div class="action">Action: Inject energy into your workspace.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Pre-Mortem Analysis</h2>
+        <div class="author">From: Thinking, Fast and Slow</div>
+        <div class="content">Before starting a project, imagine it has already failed catastrophically. Write the 'post-mortem' report now to identify the vulnerabilities you missed.</div>
+        <div class="action">Action: Draft a project 'failure' story.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Feedback Loop</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">Don't be a perfectionist; be a learner. The fastest path to excellence is to fail, analyze, adjust, and repeat as quickly as possible. Speed is the variable.</div>
+        <div class="action">Action: Shorten your feedback cycle.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The 2-Minute Rule</h2>
+        <div class="author">From: Getting Things Done</div>
+        <div class="content">If a task takes less than two minutes, do it immediately. Don't add it to your list, don't schedule it, don't worry about it. Just finish it.</div>
+        <div class="action">Action: Execute your next 2-min task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategy of Focus</h2>
+        <div class="author">From: Essentialism</div>
+        <div class="content">If you aren't choosing where to focus, you've already chosen to be distracted. Ruthlessly prioritize the "vital few" over the "trivial many."</div>
+        <div class="action">Action: Audit your focus for today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Pareto-Plus</h2>
+        <div class="author">From: The 80/20 Principle</div>
+        <div class="content">Find the 20% of your 20% (the 4% core) that produces the bulk of your results. This is where your absolute competitive edge lies.</div>
+        <div class="action">Action: Identify your 4% 'golden' task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Social Proof Trap</h2>
+        <div class="author">From: Influence</div>
+        <div class="content">The more people doing something, the more correct we assume it is. Don't be a lemming. Verify the evidence independent of the crowd's behavior.</div>
+        <div class="action">Action: Verify a 'common sense' fact.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Habit</h2>
+        <div class="author">From: The Power of Habit</div>
+        <div class="content">Your brain loves efficiency, so it turns habits into automatic routines. Audit your routines: are they serving you, or are they just on 'autopilot'?</div>
+        <div class="action">Action: Break one 'autopilot' routine.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Strategic Silence</h2>
+        <div class="author">From: Never Split the Difference</div>
+        <div class="content">Silence is the most powerful tool in a negotiation. After making an offer or asking a question, be quiet. Let the silence do the heavy lifting.</div>
+        <div class="action">Action: Practice tactical silence.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Learning Organization</h2>
+        <div class="author">From: The Fifth Discipline</div>
+        <div class="content">A team's capacity to learn is the only sustainable competitive advantage. Share failures openly to accelerate the team's collective intelligence.</div>
+        <div class="action">Action: Share one lesson from a failure.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Sunk Cost Fallacy</h2>
+        <div class="author">From: The Art of Thinking Clearly</div>
+        <div class="content">Don't throw good money (or time) after bad. If the current choice isn't the best path forward, stop immediately, regardless of what you've already invested.</div>
+        <div class="action">Action: Abandon one 'dead' project.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Antifragile Mind</h2>
+        <div class="author">From: Antifragile</div>
+        <div class="content">Avoid the middle ground. Be ultra-conservative with your core, but ultra-aggressive (experimental) with your fringe risks. This is how you gain from volatility.</div>
+        <div class="action">Action: Experiment with a new risk.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Focus Trap</h2>
+        <div class="author">From: Deep Work</div>
+        <div class="content">High-value work requires long periods of concentration. Create "caves" of focus in your schedule where no outside intrusion is permitted.</div>
+        <div class="action">Action: Block off your deep work window.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Radical Transparency</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">Radical truth and radical transparency create an environment where the best ideas win, regardless of who proposed them. Ego is sidelined by data.</div>
+        <div class="action">Action: Seek feedback on an idea.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Inertia</h2>
+        <div class="author">From: Atomic Habits</div>
+        <div class="content">Starting is the hardest part. Make the "entry cost" of a new, healthy habit so low (e.g., 2 minutes) that it's impossible to say no.</div>
+        <div class="action">Action: Perform the 2-minute version.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Last Word</h2>
+        <div class="author">From: Man's Search for Meaning</div>
+        <div class="content">The meaning of life is not something you find; it is something you create through your actions, your responsibilities, and your suffering.</div>
+        <div class="action">Action: Create meaning in one task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Inversion Protocol</h2>
+        <div class="author">From: Poor Charlie’s Almanack</div>
+        <div class="content">Instead of aiming for brilliance, aim to avoid stupidity. By systematically identifying and removing the dumbest possible moves in your strategy, you achieve outsized results.</div>
+        <div class="action">Action: Identify one 'dumb' move to stop.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Eisenhower Matrix</h2>
+        <div class="author">From: First Things First</div>
+        <div class="content">Urgent is not Important. Discipline yourself to spend your time in Quadrant II (Important, Not Urgent). That is where your long-term success is built.</div>
+        <div class="action">Action: Clear one 'Urgent' distraction.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Map vs. Territory</h2>
+        <div class="author">From: Superthinking</div>
+        <div class="content">The map (your plan, your theory, your forecast) is not the territory (reality). Always remain humble; when the data shifts, throw away the map.</div>
+        <div class="action">Action: Compare your plan to reality.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Lindy Effect</h2>
+        <div class="author">From: Antifragile</div>
+        <div class="content">For non-perishable things (ideas, books, technologies), the future life expectancy is proportional to their current age. Old ideas that have survived are likely more robust.</div>
+        <div class="action">Action: Seek a 'Lindy' source of wisdom.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Narrative Bias</h2>
+        <div class="author">From: The Black Swan</div>
+        <div class="content">Our brains are "meaning-making machines" that over-interpret randomness. If you can't prove causation, assume it's noise. Don't build strategy on a coincidence.</div>
+        <div class="action">Action: Audit a correlation for causality.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Negative Visualization</h2>
+        <div class="author">From: A Guide to the Good Life</div>
+        <div class="content">Premeditatio Malorum: Visualize the loss of what you currently have. This removes the "hedonic treadmill" effect and increases your appreciation and grit.</div>
+        <div class="action">Action: Visualize losing your main asset.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Velocity of Information</h2>
+        <div class="author">From: High Output Management</div>
+        <div class="content">Information velocity is the most underrated competitive advantage. How fast can your team move from a problem being detected to a decision being implemented?</div>
+        <div class="action">Action: Shrink your detection-to-action time.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Pareto-Optimization</h2>
+        <div class="author">From: The 80/20 Principle</div>
+        <div class="content">Once you find the 20% that matters, ignore the rest. Being "productive" on the 80% is the ultimate form of self-sabotage.</div>
+        <div class="action">Action: Stop one low-impact activity.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Feedback Hierarchy</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">There are three types of feedback: reinforcement, correction, and silence. Silence is the worst. Seek correction; it is the only way to avoid the plateau.</div>
+        <div class="action">Action: Ask for 'hard' feedback today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Cognitive Miser</h2>
+        <div class="author">From: Thinking, Fast and Slow</div>
+        <div class="content">Your brain is lazy by design. If you don't force it to engage in System 2 (analytical) thinking, it will default to heuristics (biases). Force the pause.</div>
+        <div class="action">Action: Force a 30-second delay on a choice.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Diffusion</h2>
+        <div class="author">From: Diffusion of Innovations</div>
+        <div class="content">Change doesn't happen when you convince the laggards; it happens when you tip the early majority. Focus your messaging on the early adopters.</div>
+        <div class="action">Action: Target your 'early adopters'.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategic Pivot</h2>
+        <div class="author">From: The Lean Startup</div>
+        <div class="content">If the feedback loop confirms your assumptions are false, you are not failing—you are learning. Pivot quickly; the cost of a delayed pivot is your entire project.</div>
+        <div class="action">Action: Check your core project assumption.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of Resilience</h2>
+        <div class="author">From: Grit</div>
+        <div class="content">Grit is the endurance of effort over time. When you hit the wall, don't reassess the goal; reassess the process. The path is almost always longer than you think.</div>
+        <div class="action">Action: Stick to the path for one more day.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Authority Trap</h2>
+        <div class="author">From: Influence</div>
+        <div class="content">We are trained to obey symbols of authority (titles, uniforms, credentials). Question the advice, not just the source. Authority does not guarantee accuracy.</div>
+        <div class="action">Action: Challenge a 'high-authority' opinion.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Systemic View</h2>
+        <div class="author">From: Thinking in Systems</div>
+        <div class="content">A system is just a set of rules. If you don't like the outcome, don't yell at the participants—change the rules of the game.</div>
+        <div class="action">Action: Change one 'rule' in your workflow.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Information Diet</h2>
+        <div class="author">From: Digital Minimalism</div>
+        <div class="content">Treat information like food. High-quality inputs (books, direct experience) build strength; processed, sugary inputs (news, social media) build cognitive obesity.</div>
+        <div class="action">Action: Replace one 'sugar' input with a 'protein' one.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Least Effort</h2>
+        <div class="author">From: Atomic Habits</div>
+        <div class="content">Design your environment so the good habit is the path of least resistance. You don't need willpower if you have good environment design.</div>
+        <div class="action">Action: Make the good habit 'easier' to start.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Focusing Delusion</h2>
+        <div class="author">From: The Focusing Illusion</div>
+        <div class="content">"Nothing is as important as you think it is while you are thinking about it." This applies to both your biggest goals and your biggest problems.</div>
+        <div class="action">Action: Gain distance on your current 'big' problem.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Meaning of Work</h2>
+        <div class="author">From: Flow</div>
+        <div class="content">The state of flow—where you are so engaged you lose track of time—is the closest we get to human fulfillment. If you aren't in flow, you're just grinding.</div>
+        <div class="action">Action: Adjust the challenge level of a task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategy of Luck</h2>
+        <div class="author">From: The Almanack of Naval Ravikant</div>
+        <div class="content">Luck-type 4: You build a unique character, brand, and track record. Eventually, luck finds you because you have become a magnet for opportunity.</div>
+        <div class="action">Action: Build your 'magnetic' surface area.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Framing Strategy</h2>
+        <div class="author">From: Thinking, Fast and Slow</div>
+        <div class="content">The same problem presented in two different ways elicits different reactions. Always ask, "How would I view this if the framing were reversed?" to break the bias.</div>
+        <div class="action">Action: Reframe a problem negatively to see risk.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Agency Gap</h2>
+        <div class="author">From: Extreme Ownership</div>
+        <div class="content">The difference between a high performer and a low performer is almost always the willingness to accept ownership of the "gap"—the space where the process failed.</div>
+        <div class="action">Action: Claim ownership of a team failure.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Paradox of Performance</h2>
+        <div class="author">From: The Paradox of Performance</div>
+        <div class="content">High performance often contains the seeds of its own destruction (arrogance, complacency). The more successful you become, the more aggressively you must seek out dissenting voices.</div>
+        <div class="action">Action: Ask a critic for their honest opinion.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Cognitive Surplus</h2>
+        <div class="author">From: Cognitive Surplus</div>
+        <div class="content">We are moving from a world of consumers to a world of creators. Your value is no longer what you consume, but what you contribute to the collective knowledge base.</div>
+        <div class="action">Action: Create, don't just consume, today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Complexity</h2>
+        <div class="author">From: The Systems Bible</div>
+        <div class="content">A complex system that works is invariably found to have evolved from a simple system that worked. Don't build complexity; grow it from simple, working parts.</div>
+        <div class="action">Action: Strip a complex plan down to basics.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Signal and Noise</h2>
+        <div class="author">From: The Signal and the Noise</div>
+        <div class="content">Most feedback is noise. To improve, you must isolate the signal—the data that actually correlates with your long-term output—and discard the rest.</div>
+        <div class="action">Action: Identify one true signal in your data.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of Sacrifice</h2>
+        <div class="author">From: Essentialism</div>
+        <div class="content">The word 'priority' was singular for hundreds of years. Having many priorities is a linguistic contradiction. Pick the one that changes everything else.</div>
+        <div class="action">Action: Identify your *only* priority.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Luck of Timing</h2>
+        <div class="author">From: The Almanack of Naval Ravikant</div>
+        <div class="content">"Play long-term games with long-term people." Relationships compound just like interest. The highest returns come from working with people you trust over decades.</div>
+        <div class="action">Action: Reach out to a long-term contact.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Decision Audit</h2>
+        <div class="author">From: Thinking in Bets</div>
+        <div class="content">Keep a decision journal. Record not just what you decided, but the information you had and your state of mind at the time. Outcome bias hides the truth.</div>
+        <div class="action">Action: Start a decision journal.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Environment</h2>
+        <div class="author">From: Atomic Habits</div>
+        <div class="content">Willpower is a finite resource; environment design is infinite. Make the cues for your good habits obvious and the cues for your bad habits invisible.</div>
+        <div class="action">Action: Hide a 'bad' habit cue.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Meaning of Suffering</h2>
+        <div class="author">From: Man's Search for Meaning</div>
+        <div class="content">If there is a meaning in life at all, then there must be a meaning in suffering. It is an unavoidable part of life, like fate or death. You choose your reaction.</div>
+        <div class="action">Action: Find the meaning in a current burden.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Skill of Focus</h2>
+        <div class="author">From: Deep Work</div>
+        <div class="content">Focus is a muscle. If you allow yourself to be distracted, you are training your brain to be unable to focus. Schedule your 'focus training' daily.</div>
+        <div class="action">Action: Increase deep work time by 10%.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Rational Actor</h2>
+        <div class="author">From: The Rationality Quotient</div>
+        <div class="content">Intelligence is the engine, but rationality is the steering. Being smart is useless if your biases are driving you off the road. Actively seek your own errors.</div>
+        <div class="action">Action: Admit one error today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Architecture of Trust</h2>
+        <div class="author">From: The Speed of Trust</div>
+        <div class="content">Trust is built on consistency over time. If your words and actions don't align, your 'trust tax' will make everything you do take longer and cost more.</div>
+        <div class="action">Action: Align a word with an action.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Growth Mindset</h2>
+        <div class="author">From: Mindset</div>
+        <div class="content">Intelligence is not fixed. Every time you push yourself out of your comfort zone, you are literally changing the neural architecture of your brain.</div>
+        <div class="action">Action: Take a task you 'can't' do.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Feedback Loop</h2>
+        <div class="author">From: High Output Management</div>
+        <div class="content">The role of a leader is to create an environment where the best ideas win. This is only possible if you are ruthless about the truth and transparent about the process.</div>
+        <div class="action">Action: Reward an idea better than your own.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Focus</h2>
+        <div class="author">From: The ONE Thing</div>
+        <div class="content">Success is sequential, not simultaneous. You must do the right thing, then the next right thing. The list of tasks is a distraction; the sequence is a strategy.</div>
+        <div class="action">Action: Sequence your next three tasks.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Psychological Safety</h2>
+        <div class="author">From: The Culture Code</div>
+        <div class="content">Safety is the baseline for high performance. It doesn't mean being nice; it means creating an environment where being wrong is safe, but staying wrong is not.</div>
+        <div class="action">Action: Create safety for a 'wrong' idea.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Constraints</h2>
+        <div class="author">From: A Beautiful Constraint</div>
+        <div class="content">The biggest constraint is the belief that "we can't." Once you adopt "how can we?", the brain starts looking for the missing path.</div>
+        <div class="action">Action: Ask "How can we?" for a blocked path.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Final Framework</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">Treat your life as a scientific experiment. You are the lead researcher. Hypothesize, test, record, and adjust based solely on the evidence.</div>
+        <div class="action">Action: Document a test result today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Asymmetry of Action</h2>
+        <div class="author">From: The Black Swan</div>
+        <div class="content">Limit your exposure to catastrophic downside, but maximize your exposure to unlimited upside. A strategy that loses a little often but gains massively occasionally is mathematically superior to one that wins often but risks ruin.</div>
+        <div class="action">Action: Identify one 'unlimited upside' activity.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Conservation of Energy</h2>
+        <div class="author">From: The Power of Full Engagement</div>
+        <div class="content">Energy is the fuel for all performance. Your capacity to work is not governed by your time, but by your energy levels. Ritualize recovery periods to prevent the 'diminishing returns' phase of cognitive work.</div>
+        <div class="action">Action: Insert a 10-minute 'hard stop' recharge.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Inversion of Authority</h2>
+        <div class="author">From: The 48 Laws of Power</div>
+        <div class="content">Never trust a reputation blindly. Reputation is a social construct that often masks incompetence. Test the authority through small, low-stakes probes before relying on their output.</div>
+        <div class="action">Action: Probe the validity of a 'given' truth.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Cognitive Load Ceiling</h2>
+        <div class="author">From: The Organized Mind</div>
+        <div class="content">The human brain has a finite capacity for active working memory. When you hold too many concepts in your head, you lose the ability to synthesize them. Clear your "RAM" by externalizing all active tasks.</div>
+        <div class="action">Action: Dump your mental 'RAM' onto paper.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategy of Delay</h2>
+        <div class="author">From: The Art of War</div>
+        <div class="content">He who controls the tempo of the engagement wins. Never let your opponent (or your environment) force you into a state of reactive urgency. Dictate the speed of your own actions.</div>
+        <div class="action">Action: Slow down your next response.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Feedback Loop</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">Your mistakes are data points. If you experience a failure, do not attach shame; analyze the system fault that allowed the mistake to happen and rewrite the internal 'rule' to prevent a recurrence.</div>
+        <div class="action">Action: Convert a recent mistake into a rule.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Principle of Least Resistance</h2>
+        <div class="author">From: Atomic Habits</div>
+        <div class="content">Inertia is the strongest force in behavior. Change the physical or digital environment to make the 'wrong' action inconvenient and the 'right' action frictionless. Design the path.</div>
+        <div class="action">Action: Add friction to one bad habit.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Paradox of Choice</h2>
+        <div class="author">From: The Paradox of Choice</div>
+        <div class="content">The more options you have, the higher the 'opportunity cost' becomes, leading to analysis paralysis. Define your criteria beforehand so you can choose 'good enough' and move on.</div>
+        <div class="action">Action: Pre-define selection criteria.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The First-Order Trap</h2>
+        <div class="author">From: Superthinking</div>
+        <div class="content">Most people stop at the first consequence of an action. Second-order thinking requires you to look at the consequences of the consequences. Ask: 'And then what happens?'</div>
+        <div class="action">Action: Map two steps out for a decision.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Framing Effect</h2>
+        <div class="author">From: Predictably Irrational</div>
+        <div class="content">You are susceptible to how information is presented. Be aware of the 'decoy'—an option that exists solely to make another option look better. Ignore the decoy; evaluate the value in isolation.</div>
+        <div class="action">Action: Strip away the 'decoy' from an offer.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Sunk Cost Fallacy</h2>
+        <div class="author">From: The Art of Thinking Clearly</div>
+        <div class="content">Past investment (time, money, emotion) is irrelevant to future value. If a current path is not yielding results, the resources you've already spent are gone. Only the next move matters.</div>
+        <div class="action">Action: Cut a loss regardless of 'investment'.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Systems</h2>
+        <div class="author">From: Thinking in Systems</div>
+        <div class="content">Systems are defined by feedback loops. If you want a different result, don't change the effort; change the feedback loop that governs the result.</div>
+        <div class="action">Action: Identify the feedback loop in a routine.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Skill of Deliberate Practice</h2>
+        <div class="author">From: Peak</div>
+        <div class="content">Practice without immediate feedback is just repetition. You must actively seek out the 'stretch zone' where you are constantly failing at something slightly out of your reach.</div>
+        <div class="action">Action: Increase task difficulty by 10%.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Narrative Fallacy</h2>
+        <div class="author">From: The Black Swan</div>
+        <div class="content">The human brain forces randomness into a logical story. Be skeptical of any 'explanation' that makes history look inevitable. It is usually just retrospective pattern matching.</div>
+        <div class="action">Action: Challenge a 'logical' explanation.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Influence</h2>
+        <div class="author">From: Influence</div>
+        <div class="content">Social proof is a heuristic for 'correctness.' Use it to gain leverage, but defend against it when the crowd is acting out of fear or impulsive herd behavior.</div>
+        <div class="action">Action: Check for social proof bias.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Architecture of Focus</h2>
+        <div class="author">From: Digital Minimalism</div>
+        <div class="content">Your attention is your most scarce commodity. Protect it by creating 'digital boundaries' that forbid non-essential input during your highest-leverage windows of time.</div>
+        <div class="action">Action: Enable 'Do Not Disturb' for 2 hours.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Long-Term Game</h2>
+        <div class="author">From: The Long Game</div>
+        <div class="content">Impatience is the enemy of strategy. Most long-term goals fail because the results are not immediate. Trust the process; the compound effect is invisible in the short term.</div>
+        <div class="action">Action: Maintain the path for one more cycle.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Resilience Muscle</h2>
+        <div class="author">From: Option B</div>
+        <div class="content">Resilience is not a personality trait; it is a capability built through the experience of adversity. Do not avoid the obstacle; use it to calibrate your reaction.</div>
+        <div class="action">Action: Use a hardship to refine a process.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Cognitive Bias Audit</h2>
+        <div class="author">From: The Rationality Quotient</div>
+        <div class="content">You are not a rational being; you are a rationalizing being. You must actively hunt for the evidence that contradicts your current belief.</div>
+        <div class="action">Action: Seek a 'disconfirming' data point.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Strategy</h2>
+        <div class="author">From: Good Strategy Bad Strategy</div>
+        <div class="content">Strategy is the act of deciding what *not* to do. Without a clear "no" to secondary goals, your "yes" to your primary goal is meaningless.</div>
+        <div class="action">Action: Define what you are NOT doing.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategy Paradox</h2>
+        <div class="author">From: The Strategy Paradox</div>
+        <div class="content">The commitment required for success is often the same thing that causes failure when the environment shifts. Build a strategy that is firm in its goal but fluid in its execution.</div>
+        <div class="action">Action: Define one point of required flexibility.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Signal-to-Noise Ratio</h2>
+        <div class="author">From: The Signal and the Noise</div>
+        <div class="content">Prediction error is usually caused by mistaking noise for a signal. If the data is volatile, ignore the trend and focus on the underlying mechanics of the system.</div>
+        <div class="action">Action: Filter one noisy data stream.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>Inversion of Failure</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">When you fail, ask: 'What is the weakness in my internal machine that allowed this?' Don't blame the environment; blame the design of your own decision-making process.</div>
+        <div class="action">Action: Re-design a decision process.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Habit Stacking</h2>
+        <div class="author">From: Atomic Habits</div>
+        <div class="content">Don't rely on motivation; rely on established neural pathways. Attach a new behavior directly to an existing, non-negotiable habit to bypass the 'resistance' phase.</div>
+        <div class="action">Action: 'Stack' a new habit today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Cost of Complexity</h2>
+        <div class="author">From: The Checklist Manifesto</div>
+        <div class="content">Expertise is not enough. In complex systems, even the best minds fail due to memory gaps. Checklists aren't for the incompetent; they are for ensuring consistency in high-stakes environments.</div>
+        <div class="action">Action: Create a 'safety' checklist.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of the Pivot</h2>
+        <div class="author">From: The Lean Startup</div>
+        <div class="content">A pivot is not a failure; it is a tactical correction based on verified data. Measure, learn, build—in that order. Don't build until the data confirms the direction.</div>
+        <div class="action">Action: Validate one assumption before acting.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Focusing Delusion</h2>
+        <div class="author">From: The Focusing Illusion</div>
+        <div class="content">We overrate the importance of whatever we are currently focused on. To gain perspective, force yourself to step away and look at the 'macro' view of your life and goals.</div>
+        <div class="action">Action: Step away for 1 hour.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Pareto-Optimization</h2>
+        <div class="author">From: The 80/20 Principle</div>
+        <div class="content">80% of your results come from 20% of your activities. 80% of your problems come from 20% of your inputs. Identify the 'problematic' 20% and prune it.</div>
+        <div class="action">Action: Prune one high-effort, low-value task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Network Effect</h2>
+        <div class="author">From: The Tipping Point</div>
+        <div class="content">Ideas spread through 'connectors' and 'mavens'. If you want to scale an idea or a project, don't focus on the masses; focus on the few who act as hubs for your network.</div>
+        <div class="action">Action: Identify one key 'hub' person.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Cognitive Miser</h2>
+        <div class="author">From: Thinking, Fast and Slow</div>
+        <div class="content">System 2 is effortful; System 1 is lazy. For anything that requires long-term accuracy, you must force System 2. If it feels easy, you are likely relying on bias.</div>
+        <div class="action">Action: Force a 'hard' thinking session.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Sovereignty of Self</h2>
+        <div class="author">From: The Sovereign Individual</div>
+        <div class="content">Power is shifting from the nation-state to the individual. The ability to move, to think independently, and to leverage information is the new wealth.</div>
+        <div class="action">Action: Invest in a portable, high-value skill.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Art of Learning</h2>
+        <div class="author">From: Ultralearning</div>
+        <div class="content">High-intensity learning requires 'directness'—learning the skill in the environment where you will actually use it. Bypass theory; jump straight into the application.</div>
+        <div class="action">Action: Apply a skill in a live scenario.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Information Diet</h2>
+        <div class="author">From: Digital Minimalism</div>
+        <div class="content">Your input quality dictates your output quality. If you consume fragmented, low-utility content, your thinking will be fragmented. Curate your 'information sources' with extreme bias.</div>
+        <div class="action">Action: Unsubscribe from one low-value source.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Constraints</h2>
+        <div class="author">From: A Beautiful Constraint</div>
+        <div class="content">Constraint is the mother of innovation. When resources are limited, you are forced to be more creative. Never complain about lack of resources—use them to define the solution.</div>
+        <div class="action">Action: Define a constraint for a goal.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Second-Order Thinking</h2>
+        <div class="author">From: The Most Important Thing</div>
+        <div class="content">First-order thinking: 'This is a good idea.' Second-order thinking: 'This is a good idea, but it will have these unintended consequences.' Always look past the obvious.</div>
+        <div class="action">Action: List the second-order effects.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Stoic Filter</h2>
+        <div class="author">From: Meditations</div>
+        <div class="content">Amor Fati: Love what happens. Not just accepting it, but welcoming it as the exact fuel you need to develop the virtue you currently lack.</div>
+        <div class="action">Action: Welcome one frustration as 'fuel'.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Influence</h2>
+        <div class="author">From: Pre-Suasion</div>
+        <div class="content">What you show someone immediately *before* you make a request determines their likelihood of saying yes. Prime the environment for the result you want.</div>
+        <div class="action">Action: Prime your audience before speaking.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Decision Audit</h2>
+        <div class="author">From: Decisive</div>
+        <div class="content">Wide framing is the key to good decisions. Always ask, 'What if I did neither?' This simple question breaks the binary trap and forces you to find new alternatives.</div>
+        <div class="action">Action: Ask 'What if I do neither?'</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Architecture of Trust</h2>
+        <div class="author">From: The Speed of Trust</div>
+        <div class="content">Trust is not a soft skill; it is a hard economic asset. High trust increases speed and lowers costs. Build trust by keeping small promises consistently.</div>
+        <div class="action">Action: Keep one small promise today.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Last Word</h2>
+        <div class="author">From: Mastery</div>
+        <div class="content">You must love the process of learning more than the result. If you only care about the result, you will quit when the 'Dip' becomes difficult.</div>
+        <div class="action">Action: Find the joy in a difficult process.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Feedback Loop</h2>
+        <div class="author">From: High Output Management</div>
+        <div class="content">The value of any process is determined by its feedback loop. If your system takes too long to show you the result of your actions, you are flying blind. Shorten the cycle, even if it hurts.</div>
+        <div class="action">Action: Reduce a feedback loop by 50%.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Second-Order Effect</h2>
+        <div class="author">From: Thinking in Systems</div>
+        <div class="content">Every intervention in a system has a ripple effect. If you force a change, look for where the 'pressure' will manifest next. Good system managers anticipate the backlash before it happens.</div>
+        <div class="action">Action: Identify the 'backlash' to a new plan.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Cognitive Miser</h2>
+        <div class="author">From: Predictably Irrational</div>
+        <div class="content">Your brain will choose the path of least resistance every time. If you want to think clearly, you must force System 2 thinking (deliberate, effortful analysis) by creating artificial friction.</div>
+        <div class="action">Action: Create a 'thinking pause' for decisions.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Sunk Cost Fallacy</h2>
+        <div class="author">From: The Art of Thinking Clearly</div>
+        <div class="content">"I've come too far to turn back" is the mantra of losers. Future value is the only metric that matters. If the current trajectory isn't meeting the ROI, drop it—yesterday.</div>
+        <div class="action">Action: Abandon a failing, 'sunk' task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Principle of Asymmetry</h2>
+        <div class="author">From: Antifragile</div>
+        <div class="content">Look for opportunities with limited downside and high upside. If the cost of failure is fixed and the potential gain is exponential, the decision makes itself. Avoid the reverse.</div>
+        <div class="action">Action: Audit a project for its 'asymmetry'.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Framing Strategy</h2>
+        <div class="author">From: Decisive</div>
+        <div class="content">We suffer from 'narrow framing.' We see options as 'this or that.' The most effective decision-makers force themselves to expand the set: 'What else could we do?'</div>
+        <div class="action">Action: Generate one 'ignored' alternative.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Power of Constraints</h2>
+        <div class="author">From: A Beautiful Constraint</div>
+        <div class="content">Freedom without constraints leads to procrastination. Constraints force the brain to prioritize and innovate. If you don't have a deadline or a budget limit, invent one.</div>
+        <div class="action">Action: Set a strict artificial deadline.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Narrative Fallacy</h2>
+        <div class="author">From: The Black Swan</div>
+        <div class="content">Don't confuse 'a good story' with 'the truth.' When you have a neat, tidy explanation for why something happened, you have likely ignored the random noise.</div>
+        <div class="action">Action: Question the 'neat' explanation.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Diffusion</h2>
+        <div class="author">From: Diffusion of Innovations</div>
+        <div class="content">To change a system, don't waste energy on the 'laggards' who resist. Focus 100% of your energy on the 'early adopters' who are already primed for your idea.</div>
+        <div class="action">Action: Find your early adopter.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Authority Trap</h2>
+        <div class="author">From: Influence</div>
+        <div class="content">Titles, uniforms, and certifications are heuristics, not evidence. Always verify the underlying logic behind an expert's claim. Blind obedience is a luxury you cannot afford.</div>
+        <div class="action">Action: Verify one 'expert' claim.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Focus Trap</h2>
+        <div class="author">From: Deep Work</div>
+        <div class="content">Shallow work (emails, meetings, status updates) creates the illusion of productivity while preventing the creation of real value. Ruthlessly block out time for deep, singular focus.</div>
+        <div class="action">Action: Block 90 mins for 'Deep Work'.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategy of Silence</h2>
+        <div class="author">From: Never Split the Difference</div>
+        <div class="content">Silence is not empty; it is a tactical tool. Use it to force the other party to talk, reveal their hand, or concede. He who speaks first often loses the negotiation.</div>
+        <div class="action">Action: Wait 5 seconds before replying.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Feedback Hierarchy</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">A leader's value is in the quality of their rules. If you find yourself solving the same problem twice, the problem isn't the situation—it's the absence of a principle.</div>
+        <div class="action">Action: Write one 'principle' for a repeat task.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Information Diet</h2>
+        <div class="author">From: Digital Minimalism</div>
+        <div class="content">Fragmented, high-frequency information (social media, news alerts) destroys your ability to hold complex thoughts. Only consume information that adds depth to your mental models.</div>
+        <div class="action">Action: Delete one low-depth source.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Law of Inertia</h2>
+        <div class="author">From: Atomic Habits</div>
+        <div class="content">Environment is more powerful than willpower. Design your space so that the default action is the one that aligns with your goal. Reduce the 'activation energy'.</div>
+        <div class="action">Action: Change your environment to force a habit.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Focusing Delusion</h2>
+        <div class="author">From: The Focusing Illusion</div>
+        <div class="content">"Nothing is as important as it seems when you are focused on it." This applies to both your wins and your losses. Seek perspective; don't let the intensity of the moment dictate your strategy.</div>
+        <div class="action">Action: Step back from a 'big' problem.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Meaning of Work</h2>
+        <div class="author">From: Flow</div>
+        <div class="content">Performance is optimized when the challenge meets your skill level. If you're bored, increase the challenge; if you're anxious, build the skill. This is the 'Flow' protocol.</div>
+        <div class="action">Action: Adjust your challenge-to-skill ratio.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Strategy of Luck</h2>
+        <div class="author">From: The Almanack of Naval Ravikant</div>
+        <div class="content">Luck is a surface area you can cultivate. By building a unique track record and a reputation for high-integrity results, you become a magnet for 'Luck-type 4'—the kind that finds you.</div>
+        <div class="action">Action: Make your work visible.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Agency Gap</h2>
+        <div class="author">From: Extreme Ownership</div>
+        <div class="content">When things go wrong, blame is a trap. Accept full ownership. By owning the failure, you reclaim the power to fix it. If you blame external factors, you cede your control.</div>
+        <div class="action">Action: Claim ownership of a current friction.</div>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="card">
+        <h2>The Final Framework</h2>
+        <div class="author">From: Principles</div>
+        <div class="content">Truth is the goal. Everything else is a derivative. If a piece of data hurts your ego, you have the most valuable information you could possibly obtain. Protect that data.</div>
+        <div class="action">Action: Seek out a 'painful' truth.</div>
+    </div>
+</div>
