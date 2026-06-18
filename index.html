@@ -19,7 +19,8 @@
             height: 100dvh;
         }
         .card { 
-            display: flex; flex-direction: column; 
+            display: grid;
+            grid-template-rows: auto auto 1fr auto; 
             background: rgba(255, 255, 255, 0.05); 
             backdrop-filter: blur(20px); 
             border: 1px solid rgba(255, 255, 255, 0.1); 
@@ -30,12 +31,17 @@
             max-height: 80vh; 
             box-sizing: border-box;
         }
-        h2 { color: #888; font-size: 0.9rem; text-transform: uppercase; margin: 0 0 10px 0; }
-        .author { color: #555; font-size: 0.8rem; margin: 0 0 20px 0; }
-        .content { font-size: 1.25rem; line-height: 1.5; margin: 0 0 20px 0; overflow-y: auto; }
+        h2 { color: #888; font-size: 0.9rem; text-transform: uppercase; margin: 0 0 5px 0; }
+        .author { color: #555; font-size: 0.8rem; margin-bottom: 20px; }
+        .content { 
+            font-size: 1.25rem; line-height: 1.5; 
+            overflow-y: auto; 
+            margin-bottom: 20px;
+            padding-right: 5px;
+        }
         .action { 
             font-style: italic; color: #aaa; border-top: 1px solid #333; 
-            padding-top: 15px; font-size: 1.05rem; margin-top: auto;
+            padding-top: 15px; font-size: 1.05rem;
         }
     </style>
 </head>
