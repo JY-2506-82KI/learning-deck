@@ -35,13 +35,13 @@
         .author { color: #555; font-size: 0.8rem; margin-bottom: 15px; flex-shrink: 0; }
         
         .content { 
-            font-size: clamp(0.9rem, 5vw, 1.4rem); 
+            /* Font size is clamped, but we removed 'display: flex' and 'align-items: center' */
+            font-size: clamp(0.9rem, 4.5vw, 1.4rem); 
             line-height: 1.4; 
             flex-grow: 1;    
             margin-bottom: 15px;
-            display: flex;
-            align-items: center; 
-            overflow: hidden; 
+            overflow: hidden; /* This stops the overflow, keeping it inside the card */
+            display: block;   /* Standard paragraph flow */
         }
         
         .action { 
