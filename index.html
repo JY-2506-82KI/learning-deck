@@ -8,57 +8,58 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     
     <style>
-    body, html { 
-        margin: 0; padding: 0; 
-        height: 100%; width: 100%;
-        background: #0f0f0f; 
-        font-family: sans-serif;
-    }
-    
-    /* Use flexbox to take full height of the browser chrome */
-    .swiper { 
-        width: 100vw; 
-        height: 100vh;
-        /* Critical for vertical apps */
-        display: flex;
-    }
-    
-    .swiper-wrapper { 
-        width: 100%; 
-        height: 100%; 
-    }
+        /* Force absolute full screen */
+        body, html { 
+            margin: 0; padding: 0; 
+            height: 100vh; width: 100vw; 
+            background: #0f0f0f; 
+            overflow: hidden; 
+        }
+        
+        .swiper { 
+            width: 100vw; 
+            height: 100vh; 
+        }
+        
+        .swiper-wrapper { 
+            width: 100vw; 
+            height: 100vh; 
+        }
 
-    .swiper-slide { 
-        display: flex; 
-        align-items: center; 
-        justify-content: center; 
-        height: 100%; /* Force height to match wrapper */
-    }
+        .swiper-slide { 
+            width: 100vw; 
+            height: 100vh;
+            display: flex; 
+            align-items: center; 
+            justify-content: center;
+        }
 
-    .card { 
-        background: #1a1a1a; 
-        color: #fff; 
-        padding: 30px; 
-        border-radius: 20px; 
-        width: 85%; 
-        max-width: 400px;
-        box-sizing: border-box; /* Ensures padding doesn't push it out of view */
-        border: 1px solid #333;
-    }
-</style>
+        .card { 
+            background: #1a1a1a; 
+            color: #fff; 
+            padding: 25px; 
+            border-radius: 20px; 
+            width: 90vw; /* Responsive width */
+            max-width: 400px;
+            box-sizing: border-box;
+            border: 1px solid #333;
+        }
+    </style>
 </head>
 <body>
 
 <div class="swiper">
-    <div class="swiper-wrapper" id="card-container"></div>
+    <div class="swiper-wrapper" id="card-container">
+        </div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <script>
     const libraryData = [
-        { title: "The Asymmetry of Action", author: "From: The Black Swan", content: "Limit your exposure to catastrophic downside, but maximize your exposure to unlimited upside.", action: "Action: Identify one 'unlimited upside' activity." },
-        { title: "The Feedback Loop", author: "From: High Output Management", content: "The value of any process is determined by its feedback loop.", action: "Action: Reduce a feedback loop by 50%." }
+        { title: "The Asymmetry of Action", author: "From: The Black Swan", content: "Limit downside, maximize upside.", action: "Action: Identify one 'unlimited upside' activity." },
+        { title: "The Feedback Loop", author: "From: High Output Management", content: "Value is determined by feedback speed.", action: "Action: Reduce a loop by 50%." },
+        { title: "Inversion of Failure", author: "From: Principles", content: "Fix the design, not just the error.", action: "Action: Re-design a process." }
     ];
 
     function initLibrary() {
@@ -75,20 +76,18 @@
         `).join('');
 
         new Swiper('.swiper', {
-    direction: 'vertical',
-    slidesPerView: 1,
-    // CRITICAL: Force Swiper to handle height calculations internally
-    autoHeight: false, 
-    // This makes the swipe gesture much more responsive
-    resistance: false, 
-    // Ensures swiper doesn't get "confused" by the browser's dynamic UI
-    observer: true,
-    observeParents: true,
-    observeSlideChildren: true
-});
+            direction: 'vertical',
+            slidesPerView: 1,
+            spaceBetween: 0,
+            mousewheel: true,
+            // These three lines prevent Swiper from getting stuck
+            observer: true,
+            observeParents: true,
+            watchOverflow: false 
+        });
     }
 
-    window.addEventListener('DOMContentLoaded', initLibrary);
+    window.addEventListener('load', initLibrary);
 </script>
 </body>
 </html>
