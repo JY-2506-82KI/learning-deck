@@ -4,11 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Strategic Library</title>
-    
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     
     <style>
-        /* Force absolute full screen */
+        /* Force root to be absolute */
         body, html { 
             margin: 0; padding: 0; 
             height: 100vh; width: 100vw; 
@@ -17,21 +16,21 @@
         }
         
         .swiper { 
-            width: 100vw; 
-            height: 100vh; 
+            width: 100vw !important; 
+            height: 100vh !important; 
         }
         
         .swiper-wrapper { 
-            width: 100vw; 
-            height: 100vh; 
+            width: 100vw !important; 
+            height: 100vh !important; 
         }
 
         .swiper-slide { 
-            width: 100vw; 
-            height: 100vh;
-            display: flex; 
-            align-items: center; 
-            justify-content: center;
+            width: 100vw !important; 
+            height: 100vh !important;
+            display: flex !important; 
+            align-items: center !important; 
+            justify-content: center !important;
         }
 
         .card { 
@@ -39,10 +38,13 @@
             color: #fff; 
             padding: 25px; 
             border-radius: 20px; 
-            width: 90vw; /* Responsive width */
+            width: 90vw; 
             max-width: 400px;
             box-sizing: border-box;
             border: 1px solid #333;
+            /* Allow the card to be readable if it's too tall */
+            max-height: 80vh;
+            overflow-y: auto;
         }
     </style>
 </head>
@@ -56,34 +58,20 @@
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 <script>
-    const libraryData = [
-        { title: "The Asymmetry of Action", author: "From: The Black Swan", content: "Limit downside, maximize upside.", action: "Action: Identify one 'unlimited upside' activity." },
-        { title: "The Feedback Loop", author: "From: High Output Management", content: "Value is determined by feedback speed.", action: "Action: Reduce a loop by 50%." },
-        { title: "Inversion of Failure", author: "From: Principles", content: "Fix the design, not just the error.", action: "Action: Re-design a process." }
-    ];
-
+    // Assuming your data is already loaded in 'libraryData'
     function initLibrary() {
         const container = document.getElementById('card-container');
-        container.innerHTML = libraryData.map(entry => `
-            <div class="swiper-slide">
-                <div class="card">
-                    <h2>${entry.title}</h2>
-                    <div class="author">${entry.author}</div>
-                    <div class="content">${entry.content}</div>
-                    <div class="action">${entry.action}</div>
-                </div>
-            </div>
-        `).join('');
+        // Your existing mapping code here...
 
         new Swiper('.swiper', {
             direction: 'vertical',
             slidesPerView: 1,
-            spaceBetween: 0,
-            mousewheel: true,
-            // These three lines prevent Swiper from getting stuck
+            // These ensure the slider doesn't get 'stuck'
             observer: true,
             observeParents: true,
-            watchOverflow: false 
+            observerSlideChildren: true,
+            // Force re-calculation
+            resizeObserver: true 
         });
     }
 
