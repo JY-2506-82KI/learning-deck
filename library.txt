@@ -27,3 +27,137 @@
     <div class="content">Financial success is rarely about raw intelligence; it is about managing your own behavior. Housel emphasizes that the most critical element of wealth-building is 'survival.' Because the world is volatile and unpredictable, you must build a margin of safety into your life—financial and emotional—that allows you to stay in the game long enough for the compound interest of your decisions to work. Wealth is the ability to choose your own time; it is the freedom that status symbols actually subtract from.</div>
     <div class="action">Action: Audit your portfolio or savings for 'survival'—what is your runway if income stops for six months?</div>
 </div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The 12-Week Year</h2><div class="author">by Brian P. Moran</div>
+    <div class="content">Most people operate on annual goals, but 12 months is too long to maintain urgency. By compressing your planning horizon into 12-week cycles, you eliminate the "dead space" of the year. When every week counts as a month, procrastination disappears because the deadline is always imminent. This structure forces you to focus only on the high-impact actions that drive immediate results.</div>
+    <div class="action">Action: Define one major goal for the next 12 weeks and break it down into weekly execution tasks.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Fooled by Randomness</h2><div class="author">by Nassim Nicholas Taleb</div>
+    <div class="content">We often mistake luck for skill, especially in markets and business. Taleb argues that we see patterns where none exist and attribute success to strategy when it was often just survivor bias. To avoid being "fooled," you must distinguish between processes that are driven by skill and those dominated by probabilistic noise. Understanding the role of randomness allows you to remain humble in success and resilient in failure.</div>
+    <div class="action">Action: The next time you experience a success, list three external factors that may have contributed to it beyond your own effort.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Goal</h2><div class="author">by Eliyahu M. Goldratt</div>
+    <div class="content">In any complex system, throughput is limited by a single constraint—the bottleneck. Trying to improve non-bottleneck processes is a waste of time and energy; the entire system's performance is strictly tied to the capacity of its weakest link. Identifying and supporting your bottleneck is the most efficient way to increase your output, whether in a factory, a team, or your personal workflow.</div>
+    <div class="action">Action: Identify the 'bottleneck' in your current project—where is work piling up? Focus all efforts there.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Influence</h2><div class="author">by Robert Cialdini</div>
+    <div class="content">The 'Scarcity' principle is one of the most potent psychological triggers. When something becomes less available, we perceive it as more valuable. This is why limited-time offers and exclusive access work so effectively. You can apply this by realizing that your time and attention are the most scarce resources you own. Protect them with high barriers; if you are available to everyone, you are valuable to no one.</div>
+    <div class="action">Action: Apply 'scarcity' to your calendar—limit your availability to deep-work hours only.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Mindset</h2><div class="author">by Carol Dweck</div>
+    <div class="content">A 'growth mindset' is the belief that your abilities can be developed through dedication and hard work. Conversely, a 'fixed mindset' assumes character and intelligence are static traits. Those with a growth mindset view challenges as opportunities to get smarter, while those with a fixed mindset fear the embarrassment of failing. Your success is largely determined by your interpretation of your own setbacks.</div>
+    <div class="action">Action: Change your internal dialogue from "I'm not good at this" to "I'm not good at this... yet."</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Personal MBA</h2><div class="author">by Josh Kaufman</div>
+    <div class="content">Business is not a mysterious, complex set of rules; it is just the process of creating value for others and getting paid for it. Kaufman breaks business down into five parts: Value Creation, Marketing, Sales, Value Delivery, and Finance. If you understand these five simple pillars, you can diagnose any business problem or opportunity without needing an expensive degree.</div>
+    <div class="action">Action: Categorize your current work into one of the five pillars—are you creating value or just doing activity?</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Atomic Habits</h2><div class="author">by James Clear</div>
+    <div class="content">Habit stacking is the most efficient way to build new routines. By anchoring a new habit to an existing one—'After I [current habit], I will [new habit]'—you utilize the existing neural circuitry of your established routine. This eliminates the need to rely on willpower or motivation, which are unreliable, and makes the new behavior automatic.</div>
+    <div class="action">Action: Choose one new habit and stack it onto your morning coffee or evening shutdown routine.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Principles</h2><div class="author">by Ray Dalio</div>
+    <div class="content">Radical transparency is not about being blunt; it is about surfacing the truth to optimize the system. Dalio argues that meaningful work and meaningful relationships are the two goals, and they are achieved through radical truth-telling. By creating an environment where no one is afraid to express their opinion, you avoid the 'groupthink' that leads to catastrophic failures.</div>
+    <div class="action">Action: Ask a colleague for a 'radical' critique of your work and listen without defending yourself.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Getting Things Done</h2><div class="author">by David Allen</div>
+    <div class="content">Your brain is for having ideas, not for holding them. If you use your mental capacity to store tasks, you suffer from constant, low-level anxiety. By creating a 'trusted system' to capture, clarify, and organize your tasks, you clear your mental RAM for the creative work that actually matters. The goal is to reach a state of 'mind like water.'</div>
+    <div class="action">Action: Capture every single open task in your brain right now into a single digital 'Inbox.'</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Paradox of Choice</h2><div class="author">by Barry Schwartz</div>
+    <div class="content">We are taught that more choice equals more freedom, but in reality, an abundance of choice leads to paralysis and dissatisfaction. When we have too many options, we fear making the wrong one, leading to 'decision fatigue.' To increase your happiness and productivity, you must intentionally limit your choices, accepting 'good enough' options so you can focus your energy on what you chose.</div>
+    <div class="action">Action: Limit your decision time for low-stakes tasks (like lunch or emails) to 60 seconds.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Digital Minimalism</h2><div class="author">by Cal Newport</div>
+    <div class="content">Digital clutter is just as damaging as physical clutter. Minimalism is the philosophy of 'intentional technology use,' where you only allow tools that support your deep values. By performing a 30-day 'digital declutter,' you reset your brain’s dependency on dopamine hits, allowing you to reclaim the focus required for meaningful life and work.</div>
+    <div class="action">Action: Remove all non-essential apps from your phone for 48 hours to gauge your dependency.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>High Output Management</h2><div class="author">by Andrew Grove</div>
+    <div class="content">The output of a manager is the output of the organization they supervise or influence. Grove teaches that you should focus on 'leverage'—activities that impact many people or projects. A manager’s primary job is to improve the 'leverage' of their team by identifying and removing roadblocks. If you are not increasing your team's output, you are essentially a cost, not an asset.</div>
+    <div class="action">Action: Audit your meetings: Do they increase the output of your team, or just consume time?</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Second Mountain</h2><div class="author">by David Brooks</div>
+    <div class="content">The first mountain of life is about building your ego, career, and status. The second mountain is about service, community, and purpose. Many people reach the peak of the first mountain and feel empty because they realize status isn't the point of life. Real fulfillment comes when you stop asking 'What do I want from life?' and start asking 'What does life want from me?'</div>
+    <div class="action">Action: Volunteer your specific skills for a cause that has nothing to do with your career.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Effective Executive</h2><div class="author">by Peter Drucker</div>
+    <div class="content">Effectiveness is a habit that can be learned. It requires making 'contribution' the focus, rather than 'effort.' Many people are very busy doing things that don't matter. The effective executive knows that the key is to prioritize the few tasks that actually make a difference to the organization’s overall mission, and to delegate or eliminate the rest.</div>
+    <div class="action">Action: Write down your three biggest contributions; eliminate any task that doesn't align with them.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The 5 AM Club</h2><div class="author">by Robin Sharma</div>
+    <div class="content">The first hour of the day is the 'Victory Hour.' By waking up at 5 AM and focusing on movement, reflection, and growth, you gain a massive cognitive advantage before the rest of the world wakes up. This creates a psychological sense of 'winning' that carries over into the rest of the day, allowing you to protect your energy from the daily chaos.</div>
+    <div class="action">Action: Tomorrow, set your alarm 30 minutes earlier and do nothing but read or reflect for those 30 minutes.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Crucial Conversations</h2><div class="author">by Patterson et al.</div>
+    <div class="content">When stakes are high, emotions strong, and opinions vary, we often avoid the conversation or blow up. The master key to 'crucial conversations' is 'psychological safety'—making the other person feel safe enough to share their truth without fear of retaliation. If you can keep the dialogue flowing, you can solve any problem. If the dialogue stops, you have already lost.</div>
+    <div class="action">Action: Identify a 'crucial' conversation you've been avoiding; set a meeting with a focus on 'safety' first.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Start with Why</h2><div class="author">by Simon Sinek</div>
+    <div class="content">The 'Golden Circle' explains that most organizations communicate from the outside in (what they do, then how, then why). But the most innovative leaders communicate from the inside out (why, then how, then what). When you start with 'Why,' you aren't just selling a product; you are rallying people around a purpose. This is the difference between a transaction and a movement.</div>
+    <div class="action">Action: Redraft your professional 'about me'—does it lead with your purpose or your job title?</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Four Agreements</h2><div class="author">by Don Miguel Ruiz</div>
+    <div class="content">The agreement 'Don't take anything personally' is the most liberating concept you can adopt. What others say or do is a projection of their own reality, not yours. When you are immune to the opinions and actions of others, you avoid unnecessary suffering and free your mind to focus on your own growth and integrity, regardless of external chaos.</div>
+    <div class="action">Action: The next time someone criticizes you, ask: "Is this a reflection of them or me?"</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>Man's Search for Meaning</h2><div class="author">by Viktor Frankl</div>
+    <div class="content">We cannot always control what happens to us, but we can always control how we respond. Frankl observed that those who survived the Holocaust were the ones who found a sense of 'meaning' even in the most horrific circumstances. When you have a strong 'why,' you can endure almost any 'how.' Meaning is not found; it is created through your responsibility to your life.</div>
+    <div class="action">Action: Identify the one thing that gives your current work 'meaning' beyond a paycheck.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Lean Startup</h2><div class="author">by Eric Ries</div>
+    <div class="content">Most startups fail because they build a product nobody wants. The 'Build-Measure-Learn' loop is designed to minimize 'waste' by testing assumptions with a Minimum Viable Product (MVP). Instead of spending months building something perfect, you should focus on getting a prototype in front of a real user as fast as possible to see if your hypothesis is true.</div>
+    <div class="action">Action: Instead of building, find one way to validate your idea using a simple poll or conversation today.</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The 48 Laws of Power</h2><div class="author">by Robert Greene</div>
+    <div class="content">Power is an amoral game that is being played whether you choose to participate or not. Greene argues that most people are naive about the hidden dynamics of human interaction, leaving them vulnerable to those who understand the game. By studying these laws, you don't necessarily become Machiavellian; you gain the defensive wisdom to recognize when you are being manipulated and the offensive precision to navigate high-stakes environments without becoming a casualty of someone else's agenda.</div>
+    <div class="action">Action: Identify one situation where you felt 'outmaneuvered' recently; which law could have protected you?</div>
+</div></div>
+
+<div class="swiper-slide"><div class="card">
+    <h2>The Subtle Art of Not Giving a F*ck</h2><div class="author">by Mark Manson</div>
+    <div class="content">The 'subtle art' isn't about not caring at all—it’s about choosing what you care about. We are bombarded with infinite stimuli and pressures, leading to a state of constant anxiety. True freedom comes from selecting the few things that truly align with your values and ruthlessly ignoring everything else. When you accept that life is a series of problems, you stop trying to avoid them and start choosing which problems you actually enjoy solving.</div>
+    <div class="action">Action: List the three things you care most about; consciously decide to 'not give a f*ck' about everything else this week.</div>
+</div></div>
+
+
