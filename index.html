@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>Library</title>
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css"/>
     <style>
@@ -20,24 +21,26 @@
         }
         .card { 
             display: grid;
-            grid-template-rows: auto auto 1fr auto; 
+            grid-template-rows: min-content min-content 1fr min-content; 
             background: rgba(255, 255, 255, 0.05); 
             backdrop-filter: blur(20px); 
             border: 1px solid rgba(255, 255, 255, 0.1); 
             border-radius: 25px; 
-            padding: 30px; 
+            padding: 25px; 
             color: #eee; 
-            width: 88%; 
-            max-height: 80vh; 
+            width: 90%; 
+            height: 85dvh; 
             box-sizing: border-box;
+            overflow: hidden; 
         }
         h2 { color: #888; font-size: 0.9rem; text-transform: uppercase; margin: 0 0 5px 0; }
-        .author { color: #555; font-size: 0.8rem; margin-bottom: 20px; }
+        .author { color: #555; font-size: 0.8rem; margin-bottom: 15px; }
         .content { 
-            font-size: 1.25rem; line-height: 1.5; 
+            font-size: 1.25rem; line-height: 1.4; 
             overflow-y: auto; 
-            margin-bottom: 20px;
-            padding-right: 5px;
+            padding-right: 10px;
+            margin-bottom: 15px;
+            scrollbar-width: thin; 
         }
         .action { 
             font-style: italic; color: #aaa; border-top: 1px solid #333; 
