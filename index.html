@@ -8,37 +8,50 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     
     <style>
-        /* Force full screen and lock scrolling to Swiper only */
-        body, html { 
-            margin: 0; padding: 0; height: 100%; width: 100%;
-            background: #0f0f0f; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            overflow: hidden; 
-        }
-        
-        .swiper { 
-            width: 100vw; height: 100vh; 
-            touch-action: none; /* Disables native browser gestures */
-        }
-        
-        .swiper-wrapper { width: 100%; height: 100%; }
+    /* 1. Lockdown the root to prevent tiny scaling */
+    body, html { 
+        margin: 0; padding: 0; 
+        height: 100%; width: 100%;
+        background: #0f0f0f; 
+        font-family: -apple-system, sans-serif;
+        overflow: hidden; /* No scrollbars */
+    }
+    
+    /* 2. Force Swiper to be full screen */
+    .swiper { 
+        width: 100vw; height: 100vh; 
+        touch-action: none; 
+    }
+    
+    /* 3. Force the wrapper to match */
+    .swiper-wrapper { width: 100vw; height: 100vh; }
 
-        .swiper-slide { 
-            display: flex; align-items: center; justify-content: center; 
-            width: 100%; height: 100%;
-            padding: 20px; box-sizing: border-box;
-        }
+    /* 4. Ensure each slide forces full container size */
+    .swiper-slide { 
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+        width: 100vw !important; 
+        height: 100vh !important; 
+        box-sizing: border-box;
+    }
 
-        .card { 
-            background: #1a1a1a; color: #fff; padding: 30px; border-radius: 20px; 
-            width: 90%; max-width: 400px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-            border: 1px solid #333;
-        }
+    /* 5. Scale the card to look good on mobile, not tiny */
+    .card { 
+        background: #1a1a1a; 
+        color: #fff; 
+        padding: 40px; 
+        border-radius: 20px; 
+        width: 85vw; /* Almost full width */
+        max-width: 500px;
+        min-height: 50vh; /* Give it some vertical presence */
+        box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        border: 1px solid #333;
+    }
 
-        h2 { margin-top: 0; color: #00d4ff; font-size: 1.5rem; }
-        .author { font-size: 0.8rem; color: #888; margin-bottom: 15px; }
-        .content { line-height: 1.6; margin-bottom: 20px; }
-        .action { font-weight: bold; color: #ff9900; }
-    </style>
+    h2 { font-size: 1.8rem; color: #00d4ff; }
+    .content { font-size: 1.2rem; line-height: 1.6; }
+</style>
 </head>
 <body>
 
