@@ -5,85 +5,59 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>Strategic Library</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
-    
     <style>
-        /* Force the browser to ignore its own UI for height calculation */
-        body, html { 
-            margin: 0; padding: 0; 
-            height: 100%; width: 100%; 
-            background: #0f0f0f; 
-            overflow: hidden; 
-        }
-        
-        .swiper { 
-            width: 100vw; 
-            /* Use 'dvh' (dynamic viewport height) to account for mobile address bars */
-            height: 100dvh; 
-        }
-        
-        .swiper-slide { 
-            display: flex; 
-            align-items: center; 
-            justify-content: center; 
-            width: 100vw;
-            height: 100dvh;
-        }
-
-        .card { 
-            background: #1a1a1a; color: #fff; 
-            padding: 25px; border-radius: 20px; 
-            width: 85vw; max-width: 400px;
-            border: 1px solid #333;
-            box-sizing: border-box;
-        }
+        body, html { margin: 0; padding: 0; height: 100%; width: 100%; background: #0f0f0f; overflow: hidden; }
+        .swiper { width: 100vw; height: 100dvh; }
+        .swiper-slide { display: flex; align-items: center; justify-content: center; width: 100vw; height: 100dvh; }
+        .card { background: #1a1a1a; color: #fff; padding: 25px; border-radius: 20px; width: 85vw; max-width: 400px; border: 1px solid #333; box-sizing: border-box; }
+        h2 { color: #00d4ff; font-size: 1.4rem; }
     </style>
 </head>
 <body>
 
-<div class="swiper">
-    <div class="swiper-wrapper" id="card-container"></div>
-</div>
+<div class="swiper"><div class="swiper-wrapper" id="card-container"></div></div>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
 <script>
-    const libraryData = [/* Your 200 items */];
+    let currentDeck = 1;
+    const swiper = new Swiper('.swiper', {
+        direction: 'vertical',
+        slidesPerView: 1,
+        observer: true,
+        observeParents: true
+    });
 
-    function shuffle(array) {
-        let arr = [...array];
-        for (let i = arr.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [arr[i], arr[j]] = [arr[j], arr[i]];
-        }
-        return arr;
+    async function loadDeck(deckNumber) {
+        try {
+            const response = await fetch(`data_${deckNumber}.json`);
+            if (!response.ok) return; // Stop if no more files
+            const data = await response.json();
+            
+            // Randomize only the current chunk
+            data.sort(() => Math.random() - 0.5).forEach(entry => {
+                swiper.appendSlide(`
+                    <div class="swiper-slide">
+                        <div class="card">
+                            <h2>${entry.title}</h2>
+                            <div class="author">${entry.author}</div>
+                            <div class="content">${entry.content}</div>
+                            <div class="action">${entry.action}</div>
+                        </div>
+                    </div>
+                `);
+            });
+            swiper.update();
+        } catch (e) { console.error("Deck load failed"); }
     }
 
-    function initLibrary() {
-        const container = document.getElementById('card-container');
-        const shuffled = shuffle(libraryData);
-        
-        container.innerHTML = shuffled.map(entry => `
-            <div class="swiper-slide">
-                <div class="card">
-                    <h2>${entry.title}</h2>
-                    <div class="author">${entry.author}</div>
-                    <div class="content">${entry.content}</div>
-                    <div class="action">${entry.action}</div>
-                </div>
-            </div>
-        `).join('');
+    // Trigger next load when nearing the end
+    swiper.on('reachEnd', () => {
+        currentDeck++;
+        loadDeck(currentDeck);
+    });
 
-        new Swiper('.swiper', {
-            direction: 'vertical',
-            slidesPerView: 1,
-            observer: true,
-            observeParents: true,
-            // Force Swiper to re-calculate layout on load
-            updateOnWindowResize: true
-        });
-    }
-
-    window.addEventListener('load', initLibrary);
+    // Initial load
+    window.addEventListener('load', () => loadDeck(1));
 </script>
 </body>
 </html>
