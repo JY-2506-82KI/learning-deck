@@ -1,48 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    
+    <title>Strategic Library</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <style>
+        /* Essential Reset */
         body, html { 
             margin: 0; padding: 0; 
             height: 100%; width: 100%; 
             background: #0f0f0f; 
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
             overflow: hidden; 
         }
-
+        
         .swiper { 
-            width: 100vw; 
-            height: 100dvh; /* Dynamic viewport height */
+            width: 100vw; height: 100vh; 
         }
         
         .swiper-slide { 
-            display: flex; 
-            align-items: center; 
-            justify-content: center; 
-            width: 100vw; 
-            height: 100dvh;
+            display: flex; align-items: center; justify-content: center;
+            width: 100vw; height: 100vh;
         }
 
+        /* Large, readable card styling */
         .card { 
-            /* Force a larger footprint */
-            width: 90vw; 
-            max-width: 500px;
-            min-height: 400px;
-            
             background: #1a1a1a; 
             color: #fff; 
-            padding: 40px; /* Increased padding for better readability */
+            padding: 40px; 
             border-radius: 24px; 
+            width: 85vw; 
+            max-width: 500px;
+            min-height: 50vh;
             border: 1px solid #333;
             box-sizing: border-box;
-            
-            /* Center text and ensure font is readable */
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+            display: flex; flex-direction: column; justify-content: center;
         }
 
-        h2 { color: #00d4ff; font-size: 1.8rem; margin-top: 0; }
-        .content { font-size: 1.2rem; line-height: 1.6; }
-        .action { font-size: 1.1rem; color: #ff9900; margin-top: 20px; font-weight: bold; }
+        h2 { color: #00d4ff; font-size: 1.8rem; margin-top: 0; margin-bottom: 15px; }
+        .author { font-size: 0.9rem; color: #888; margin-bottom: 20px; }
+        .content { font-size: 1.3rem; line-height: 1.6; margin-bottom: 25px; }
+        .action { font-size: 1.1rem; color: #ff9900; font-weight: bold; }
     </style>
 </head>
+<body>
+
+<div class="swiper">
+    <div class="swiper-wrapper" id="card-container">
+        </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+    // Paste all 200 items into this array
+    const libraryData = [
+        { title: "The Feedback Loop", author: "From: High Output Management", content: "The value of any process is determined by its feedback loop. Shorten the cycle, even if it hurts.", action: "Action: Reduce a feedback loop by 50%." },
+        { title: "Asymmetry of Action", author: "From: The Black Swan", content: "Limit downside, maximize upside. If the cost of failure is fixed and the potential gain is exponential, the decision makes itself.", action: "Action: Identify one 'unlimited upside' activity." }
+        // ... add all remaining 200 objects here ...
+    ];
+
+    function initLibrary() {
+        const container = document.getElementById('card-container');
+        
+        // Shuffle the data
+        const shuffled = [...libraryData].sort(() => Math.random() - 0.5);
+        
+        // Build the slides
+        container.innerHTML = shuffled.map(entry => `
+            <div class="swiper-slide">
+                <div class="card">
+                    <h2>${entry.title}</h2>
+                    <div class="author">${entry.author}</div>
+                    <div class="content">${entry.content}</div>
+                    <div class="action">${entry.action}</div>
+                </div>
+            </div>
+        `).join('');
+
+        // Initialize Swiper
+        new Swiper('.swiper', {
+            direction: 'vertical',
+            slidesPerView: 1,
+            observer: true,
+            observeParents: true,
+            speed: 300
+        });
+    }
+
+    // Delay load to ensure DOM is ready
+    window.addEventListener('load', initLibrary);
+</script>
+</body>
+</html>
