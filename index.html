@@ -6,83 +6,40 @@
     <title>Strategic Library</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <style>
-        body, html { 
-            margin: 0; padding: 0; 
-            height: 100vh !important; width: 100vw !important; 
-            background: #0f0f0f; 
-            overflow: hidden !important; 
-        }
-        
-        /* Force the Swiper container to be the exact size of the screen */
-        .swiper { 
-            width: 100vw !important; 
-            height: 100vh !important; 
-        }
-        
-        .swiper-wrapper { 
-            width: 100vw !important; 
-            height: 100vh !important; 
-        }
-
-        .swiper-slide { 
-            width: 100vw !important; 
-            height: 100vh !important;
-            display: flex !important; 
-            align-items: center !important; 
-            justify-content: center !important;
-        }
-
-        .card { 
-            background: #1a1a1a; 
-            color: #fff; 
-            padding: 40px; 
-            border-radius: 24px; 
-            width: 85vw !important; 
-            max-width: 500px;
-            border: 1px solid #333;
-            box-sizing: border-box;
-        }
+        body, html { margin: 0; padding: 0; height: 100%; width: 100%; background: #0f0f0f; overflow: hidden; }
+        .swiper { width: 100vw; height: 100vh; }
+        .swiper-slide { display: flex; align-items: center; justify-content: center; width: 100vw; height: 100vh; }
+        .card { background: #1a1a1a; color: #fff; padding: 40px; border-radius: 24px; width: 85vw; max-width: 500px; border: 1px solid #333; box-sizing: border-box; }
+        h2 { color: #00d4ff; }
     </style>
 </head>
 <body>
 
-<div class="swiper">
-    <div class="swiper-wrapper" id="card-container"></div>
-</div>
+<div class="swiper"><div class="swiper-wrapper"></div></div>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
+    // 1. Keep your data in a simple array
     const libraryData = [ /* Your 200 items */ ];
 
-    function initLibrary() {
-        const container = document.getElementById('card-container');
-        const shuffled = [...libraryData].sort(() => Math.random() - 0.5);
-        
-        container.innerHTML = shuffled.map(entry => `
-            <div class="swiper-slide">
+    // 2. Randomize BEFORE Swiper touches it
+    const shuffled = [...libraryData].sort(() => Math.random() - 0.5);
+
+    // 3. Initialize Swiper using the Virtual module
+    new Swiper('.swiper', {
+        direction: 'vertical',
+        slidesPerView: 1,
+        virtual: {
+            slides: shuffled.map(entry => `
                 <div class="card">
                     <h2>${entry.title}</h2>
                     <div class="author">${entry.author}</div>
                     <div class="content">${entry.content}</div>
+                    <div class="action">${entry.action}</div>
                 </div>
-            </div>
-        `).join('');
-
-        // Initialize with force-render parameters
-        new Swiper('.swiper', {
-            direction: 'vertical',
-            slidesPerView: 1,
-            // 'loop' is disabled because it often causes 
-            // calculation bugs with vertical sliders
-            loop: false, 
-            observer: true,
-            observeParents: true,
-            // Forces the slider to recalculate every time it loads
-            updateOnWindowResize: true
-        });
-    }
-
-    window.addEventListener('load', initLibrary);
+            `),
+        },
+    });
 </script>
 </body>
 </html>
