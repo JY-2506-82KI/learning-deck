@@ -20,14 +20,12 @@
     
     .swiper-slide { 
         display: flex; 
-        align-items: center; /* This centers the card vertically */
+        align-items: center; 
         justify-content: center; 
         width: 100vw; 
         height: 100vh;
-        /* Adds a tiny bit of breathing room so it doesn't hug the edges */
-        padding-top: env(safe-area-inset-top);
-        padding-bottom: env(safe-area-inset-bottom);
-        box-sizing: border-box;
+        /* Manual Nudge: Pulls the whole card up slightly to visually center it */
+        margin-top: -5vh; 
     }
 
     .card { 
