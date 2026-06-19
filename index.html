@@ -5,30 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Strategic Library</title>
     <style>
-    /* 1. Ensure the container doesn't shift when the mobile UI hides/shows */
-    body, html { 
-        margin: 0; padding: 0; 
-        height: 100dvh; width: 100vw; 
-        background: #0f0f0f; 
-        overflow: hidden; 
-        /* Prevents the mobile browser from 'bouncing' or shifting */
-        overscroll-behavior: none; 
-    }
-    
-    .swiper { 
-        width: 100vw; 
-        height: 100dvh; 
-    }
-    
-    .swiper-slide { 
-        display: flex; 
-        align-items: center; 
-        justify-content: center; 
-        width: 100vw; 
-        height: 100dvh;
-        /* Force zero margin to stop the 'following cards are too high' issue */
-        margin: 0 !important;
-    }
+    /* ... (keep body, html, swiper, and slide styles from before) ... */
 
     .card { 
         background: #1a1a1a; 
@@ -39,12 +16,33 @@
         max-width: 450px;
         height: 75vh; 
         
-        border: 1px solid #333;
+        /* Restoring your borders */
+        border: 1px solid #333; 
         box-sizing: border-box;
         
         display: flex; 
         flex-direction: column; 
         justify-content: center;
+    }
+
+    /* Restoring your brand colors */
+    h2 { 
+        color: #00d4ff !important; /* The Blue */
+        font-size: 1.6rem; 
+        margin-top: 0; 
+    }
+    
+    .author { 
+        font-size: 0.9rem; 
+        color: #888; /* The Gray */
+        margin-bottom: 20px; 
+    }
+
+    .action { 
+        font-size: 1.2rem; 
+        color: #ff9900 !important; /* The Orange */
+        font-weight: bold; 
+        margin-top: 20px;
     }
 </style>
 </head>
