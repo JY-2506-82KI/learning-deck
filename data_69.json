@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "content": "“We must cultivate our garden.”",
+    "action": "Context: The retreat from futile, abstract theorizing to the management of one’s own immediate domain."
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "content": "“It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...”",
+    "action": "Context: The observation that systemic contradictions often exist simultaneously."
+  },
+  {
+    "title": "Civil Disobedience",
+    "author": "Henry David Thoreau",
+    "content": "“If the machine of government is of such a nature that it requires you to be the agent of injustice to another, then, I say, break the law.”",
+    "action": "Context: The definition of the individual's moral override mechanism in a corrupted system."
+  },
+  {
+    "title": "The Age of Reason",
+    "author": "Thomas Paine",
+    "content": "“My own mind is my own church.”",
+    "action": "Context: The declaration of absolute intellectual independence from institutional dogma."
+  },
+  {
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "content": "“Two souls, alas, are dwelling in my breast; and one is striving to forsake its brother.”",
+    "action": "Context: The inherent friction between competing internal impulses."
+  }
+]
