@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "content": "“He who fights with monsters should look to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you.”",
+    "action": "Context: The warning regarding the corrupting influence of the methods one uses to combat an adversary."
+  },
+  {
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "content": "“It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.”",
+    "action": "Context: The fundamental rule for systems maintenance; resilience is found in agility, not static power."
+  },
+  {
+    "title": "Leviathan",
+    "author": "Thomas Hobbes",
+    "content": "“No arts; no letters; no society; and which is worst of all, continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short.”",
+    "action": "Context: The baseline scenario for a society that has lost all standardized infrastructure and social protocol."
+  }
+]
