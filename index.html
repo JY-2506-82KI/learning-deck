@@ -33,48 +33,51 @@
         }
     });
 
+    // Randomize helper
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+
+    // Function to append slides to Swiper
+    function appendDataToSwiper(data) {
+        const shuffled = shuffleArray(data);
+        shuffled.forEach(entry => {
+            swiper.appendSlide(`
+                <div class="swiper-slide">
+                    <div class="card">
+                        <h2>${entry.title}</h2>
+                        <div class="author">${entry.author}</div>
+                        <div class="content">${entry.content}</div>
+                        <div class="action">${entry.action}</div>
+                    </div>
+                </div>
+            `);
+        });
+        swiper.update();
+    }
+
+    // Load next file in sequence
     async function loadNextDeck() {
         deckIndex++;
         try {
             const response = await fetch(`data_${deckIndex}.json`);
-            if (!response.ok) return; // Stop if no more files
-            
+            if (!response.ok) return;
             const data = await response.json();
-            data.forEach(entry => {
-                swiper.appendSlide(`
-                    <div class="swiper-slide">
-                        <div class="card">
-                            <h2>${entry.title}</h2>
-                            <div class="author">${entry.author}</div>
-                            <div class="content">${entry.content}</div>
-                            <div class="action">${entry.action}</div>
-                        </div>
-                    </div>
-                `);
-            });
-            swiper.update();
+            appendDataToSwiper(data);
         } catch (e) {
-            console.log("No more data files found.");
+            console.log("No more files to load.");
         }
     }
 
     // Initial Load
     fetch('data_1.json')
         .then(res => res.json())
-        .then(data => {
-            data.forEach(entry => {
-                swiper.appendSlide(`
-                    <div class="swiper-slide">
-                        <div class="card">
-                            <h2>${entry.title}</h2>
-                            <div class="author">${entry.author}</div>
-                            <div class="content">${entry.content}</div>
-                            <div class="action">${entry.action}</div>
-                        </div>
-                    </div>
-                `);
-            });
-        });
+        .then(data => appendDataToSwiper(data))
+        .catch(err => console.error("Initial load failed:", err));
 </script>
 </body>
 </html>
