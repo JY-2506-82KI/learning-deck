@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Federalist Papers",
+    "author": "James Madison",
+    "content": "“If men were angels, no government would be necessary.”",
+    "action": "Context: The justification for building redundant systems of control to manage the inevitable risks of human behavior."
+  },
+  {
+    "title": "Common Sense",
+    "author": "Thomas Paine",
+    "content": "“Government, even in its best state, is but a necessary evil; in its worst state, an intolerable one.”",
+    "action": "Context: The assessment of the 'cost of operation' for any centralized social structure."
+  },
+  {
+    "title": "The Communist Manifesto",
+    "author": "Karl Marx & Friedrich Engels",
+    "content": "“The history of all hitherto existing society is the history of class struggles.”",
+    "action": "Context: The identification of friction—or 'struggle'—as the primary driver of historical change."
+  },
+  {
+    "title": "Reflections on the Revolution in France",
+    "author": "Edmund Burke",
+    "content": "“Those who don't know history are destined to repeat it.”",
+    "action": "Context: The critical necessity of utilizing historical data to avoid repeating structural errors."
+  },
+  {
+    "title": "Das Kapital",
+    "author": "Karl Marx",
+    "content": "“Capital is dead labour, that, vampire-like, only lives by sucking living labour.”",
+    "action": "Context: A definition of economic resources as a parasitic mechanism if not actively managed."
+  }
+]
