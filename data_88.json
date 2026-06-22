@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Strategy of Conflict",
+    "author": "Thomas Schelling",
+    "content": "“The power to hurt is bargaining power. To exploit it is diplomacy.”",
+    "action": "Record: Utilize the threat of damage as a functional asset in negotiation."
+  },
+  {
+    "title": "Game Theory",
+    "author": "Drew Fudenberg & Jean Tirole",
+    "content": "“In a non-cooperative game, players maximize their utility based on the anticipated moves of others.”",
+    "action": "Record: Always model the 'rational' move of the adversary; assume they are playing for their own survival, not yours."
+  },
+  {
+    "title": "The Evolution of Cooperation",
+    "author": "Robert Axelrod",
+    "content": "“Tit-for-tat is the most robust strategy in the iterated prisoner's dilemma.”",
+    "action": "Record: In recurring interactions, use conditional retaliation to enforce stable cooperation."
+  },
+  {
+    "title": "Theory of Games and Economic Behavior",
+    "author": "John von Neumann & Oskar Morgenstern",
+    "content": "“The zero-sum game is a conflict where one player's gain is exactly equal to the other player's loss.”",
+    "action": "Record: Recognize when you are in a zero-sum environment; trying to 'cooperate' in these scenarios is an operational failure."
+  },
+  {
+    "title": "Prisoner's Dilemma",
+    "author": "William Poundstone",
+    "content": "“The paradox is that individual rationality leads to collective irrationality.”",
+    "action": "Record: Audit your current alliances for hidden incentives that may lead to mutual destruction."
+  }
+]
