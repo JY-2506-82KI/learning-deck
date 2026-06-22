@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Hedgehog Concept",
+    "author": "From: Good to Great",
+    "content": "Focus only on what you can be the best in the world at, what drives your economic engine, and what you are passionate about.",
+    "action": "Action: Identify which of these three circles is currently the weakest in your professional focus."
+  },
+  {
+    "title": "Delegation by Objective",
+    "author": "From: The Effective Executive",
+    "content": "Delegate the 'what' and 'why,' but allow the person responsible to define the 'how.'",
+    "action": "Action: Specify the desired outcome of a task for a team member, then step back from the execution method."
+  },
+  {
+    "title": "The Peter Principle",
+    "author": "From: The Peter Principle",
+    "content": "In a hierarchy, every employee tends to rise to their level of incompetence. Focus on constant skill acquisition to avoid this.",
+    "action": "Action: Identify one skill required for your next level of responsibility and start learning it."
+  },
+  {
+    "title": "Situational Leadership",
+    "author": "From: Leadership and the One Minute Manager",
+    "content": "Adjust your leadership style based on the readiness and competence of the individual team member.",
+    "action": "Action: Match your management style to the skill level of a specific collaborator today."
+  },
+  {
+    "title": "The Tyranny of the Urgent",
+    "author": "From: The Tyranny of the Urgent",
+    "content": "The urgent often crowds out the important. Discernment is the highest form of leadership.",
+    "action": "Action: Set aside a block of time specifically for non-urgent but high-impact strategic work."
+  }
+]
