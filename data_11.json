@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Occam’s Razor",
+    "author": "From: The Great Mental Models",
+    "content": "When presented with competing hypotheses, the simplest explanation is usually the correct one.",
+    "action": "Action: Strip a convoluted plan down to its simplest necessary steps."
+  },
+  {
+    "title": "Inversion",
+    "author": "From: Poor Charlie’s Almanack",
+    "content": "Don't just think about how to succeed; think about how to fail and then avoid those things.",
+    "action": "Action: Spend 10 minutes listing exactly how to ruin your current project, then create a plan to prevent those specific actions."
+  },
+  {
+    "title": "Hanlon’s Razor",
+    "author": "From: The Great Mental Models",
+    "content": "Never attribute to malice that which is adequately explained by stupidity or misunderstanding.",
+    "action": "Action: Replace an 'assumption of intent' with an 'assumption of misunderstanding' in a tense situation."
+  },
+  {
+    "title": "Map vs. Territory",
+    "author": "From: The Great Mental Models",
+    "content": "A model is a simplification. Never mistake your mental model for the actual complexity of reality.",
+    "action": "Action: Go into the 'field'—actually test your hypothesis rather than just planning it."
+  },
+  {
+    "title": "Opportunity Cost (Refined)",
+    "author": "From: Poor Charlie’s Almanack",
+    "content": "The true cost of any action is the next best thing you could have done with that time or money.",
+    "action": "Action: Compare your current task to your next best alternative. Are you truly spending your resources wisely?"
+  }
+]
