@@ -1,0 +1,32 @@
+[
+  {
+    "title": "1791: The Haitian Revolution",
+    "author": "Historical Fact",
+    "content": "An enslaved population in the French colony of Saint-Domingue revolted, leading to the establishment of the first free Black republic in the world in 1804. It disrupted the global sugar economy.",
+    "action": "Action: Identify a 'disruptive' force in your industry. Don't fight it—understand how it changes the 'global' economy of your project."
+  },
+  {
+    "title": "1903: First Flight at Kitty Hawk",
+    "author": "Historical Fact",
+    "content": "The Wright brothers achieved the first powered, controlled flight. Their success was based on hundreds of systematic 'glider' experiments, focusing on *control* rather than just *power*.",
+    "action": "Action: Are you focused on 'power' (adding features) or 'control' (testing and stabilizing the interface)? Switch to 'control' today."
+  },
+  {
+    "title": "1648: The Peace of Westphalia",
+    "author": "Historical Fact",
+    "content": "A series of peace treaties that ended the Thirty Years' War in Europe. It codified the concept of state sovereignty and the idea that territorial borders are absolute.",
+    "action": "Action: Define the 'territory' of your project. What is absolutely *yours* to control, and what is 'foreign' territory you shouldn't touch?"
+  },
+  {
+    "title": "1853: Commodore Perry’s Expedition to Japan",
+    "author": "Historical Fact",
+    "content": "U.S. naval ships arrived in Edo Bay, ending Japan’s long-standing policy of national isolation (Sakoku) through the implied threat of superior naval technology.",
+    "action": "Action: Is your project 'isolated' from new tech or data? What happens if you intentionally 'open the gates' to see how your system responds?"
+  },
+  {
+    "title": "1969: The Moon Landing",
+    "author": "Historical Fact",
+    "content": "Apollo 11 successfully landed humans on the moon. The project required the coordination of over 400,000 people and millions of individual, functional parts working in sequence.",
+    "action": "Action: If you feel a project is too big, remember: it’s just a sequence of thousands of small, 'functional' parts. Map the sequence."
+  }
+]
