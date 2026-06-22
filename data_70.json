@@ -1,0 +1,32 @@
+[
+  {
+    "title": "King Lear",
+    "author": "William Shakespeare",
+    "content": "“As flies to wanton boys, are we to the gods; they kill us for their sport.”",
+    "action": "Context: The realization of the extreme vulnerability of the individual to forces beyond their influence."
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "content": "“As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect.”",
+    "action": "Context: The immediate and irreversible shift in an individual's operational utility to the collective."
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "content": "“The horror! The horror!”",
+    "action": "Context: The final data point encountered when one reaches the absolute boundary of a failed organizational mission."
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "content": "“Happy families are all alike; every unhappy family is unhappy in its own way.”",
+    "action": "Context: The observation that success is often a standardized, stable state, while failure is highly unique."
+  },
+  {
+    "title": "Oedipus Rex",
+    "author": "Sophocles",
+    "content": "“Call no man happy till he has passed the final boundary of his life and reached the end without a pang of pain.”",
+    "action": "Context: The acknowledgement that system-wide integrity can only be fully measured at the moment of closure."
+  }
+]
