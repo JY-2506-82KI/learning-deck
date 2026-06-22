@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "content": "“Someone must have slandered Josef K., for without having done anything wrong, he was arrested one morning.”",
+    "action": "Record: The realization that an individual can be rendered obsolete by an opaque, non-responsive bureaucratic machine."
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "content": "“Community, Identity, Stability.”",
+    "action": "Record: The identification of \"stability\" as a weaponized protocol to suppress individual variance."
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "content": "“We need not to be let alone. We need to be really bothered once in a while.”",
+    "action": "Record: The necessity of friction and intellectual discomfort to prevent systemic stagnation."
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "content": "“Better never means better for everyone. It always means worse, for some.”",
+    "action": "Record: The recognition that every \"optimized\" system generates winners and losers; calculate your position carefully."
+  },
+  {
+    "title": "Darkness at Noon",
+    "author": "Arthur Koestler",
+    "content": "“The Party denied the free will of the individual—and at the same time exacted his utter self-sacrifice.”",
+    "action": "Record: Documenting the logical contradiction required to maintain total state control."
+  }
+]
