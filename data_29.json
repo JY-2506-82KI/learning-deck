@@ -1,0 +1,32 @@
+[
+  {
+    "title": "On the Limits of Reason",
+    "author": "From: Notes from Underground by Fyodor Dostoevsky",
+    "content": "Man is a creature that walks on two legs and is ungrateful. He is not a purely rational machine, and his greatest 'mistakes' often define his humanity.",
+    "action": "Action: Acknowledge an irrationality in your decision-making and build a system to compensate for it."
+  },
+  {
+    "title": "The OODA Loop",
+    "author": "From: John Boyd",
+    "content": "Observe, Orient, Decide, Act. The speed at which you move through this cycle determines your competitive edge.",
+    "action": "Action: Shorten the time between 'deciding' and 'acting' on your next task."
+  },
+  {
+    "title": "The Law of Unintended Consequences",
+    "author": "From: Systems Thinking",
+    "content": "Interventions in complex systems always have secondary effects. Always ask: 'What happens next?'",
+    "action": "Action: Think one step beyond your current project—what is the second-order result?"
+  },
+  {
+    "title": "The Minimum Viable Product",
+    "author": "From: The Lean Startup",
+    "content": "Build the simplest version that allows you to learn. Perfection is an iteration, not a starting point.",
+    "action": "Action: Strip your next deliverable down to the single most critical feature."
+  },
+  {
+    "title": "The Endowment Effect",
+    "author": "From: Dan Ariely",
+    "content": "We value things more simply because we own them. Objectivity requires looking at your work as if you were a buyer, not a creator.",
+    "action": "Action: Ask yourself, 'If I didn't create this, would I use it?' and adjust accordingly."
+  }
+]
