@@ -1,0 +1,32 @@
+[
+  {
+    "title": "1215: The Magna Carta",
+    "author": "Historical Fact",
+    "content": "Signed by King John of England at Runnymede, the charter established the principle that everyone, including the king, is subject to the law. It was an attempt to limit the power of a centralized authority.",
+    "action": "Action: Create a 'standard' for your project that even 'you' (the authority figure) must follow. Does it improve consistency?"
+  },
+  {
+    "title": "1776: The Publication of 'The Wealth of Nations'",
+    "author": "Historical Fact",
+    "content": "Adam Smith published his magnum opus, arguing that the 'invisible hand' of the market—driven by individual self-interest—often leads to better outcomes than central planning.",
+    "action": "Action: Look at your project tasks. Are you trying to 'centrally plan' too much? Where can you let individual components self-optimize?"
+  },
+  {
+    "title": "1930: The Smoot-Hawley Tariff Act",
+    "author": "Historical Fact",
+    "content": "The U.S. raised tariffs on over 20,000 imported goods, intended to protect local industry. It backfired, triggering a global trade war that deepened the Great Depression.",
+    "action": "Action: Are you implementing a 'protectionist' policy in your code or project that is actually causing more harm than good?"
+  },
+  {
+    "title": "1815: The Battle of Waterloo",
+    "author": "Historical Fact",
+    "content": "Napoleon’s final defeat. His forces were exhausted, his communications were frayed, and he relied on a plan that assumed his enemies would not coordinate their movements.",
+    "action": "Action: When planning, never assume your 'competitor' or 'external hurdle' will be disorganized. Assume they will coordinate perfectly."
+  },
+  {
+    "title": "1948: The Marshall Plan",
+    "author": "Historical Fact",
+    "content": "The U.S. provided over $13 billion to rebuild Western European economies after WWII. The goal was to prevent the spread of poverty, which was seen as a breeding ground for systemic instability.",
+    "action": "Action: What 'unstable' part of your project needs an 'injection' of resources to prevent it from causing a larger collapse later?"
+  }
+]
