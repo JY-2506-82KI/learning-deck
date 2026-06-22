@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "content": "“If you know the enemy and know yourself, you need not fear the result of a hundred battles.”",
+    "action": "Record: The fundamental requirement for complete data parity between internal capacity and external threat."
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "content": "“It is much safer to be feared than loved, if one of the two must be lacking.”",
+    "action": "Record: The cold-calculation that structural stability in a state is maintained by predictability and consequence, not sentiment."
+  },
+  {
+    "title": "The Grand Chessboard",
+    "author": "Zbigniew Brzezinski",
+    "content": "“The three grand imperatives of imperial geostrategy are to prevent collusion and maintain security dependence among the vassals, to keep tributaries pliant and protected, and to keep the barbarians from coming together.”",
+    "action": "Record: The tactical protocol for managing a global power-projection network."
+  },
+  {
+    "title": "Diplomacy",
+    "author": "Henry Kissinger",
+    "content": "“A country that demands moral perfection in its foreign policy will achieve neither perfection nor security.”",
+    "action": "Record: The assessment that the pursuit of idealism is an operational liability in the context of state survival."
+  },
+  {
+    "title": "The Art of Worldly Wisdom",
+    "author": "Baltasar Gracián",
+    "content": "“Do not show your cards. The knowing never reveal their entire hand, but play it by degrees.”",
+    "action": "Record: The defensive utility of information asymmetry in high-stakes negotiations."
+  }
+]
