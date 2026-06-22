@@ -1,0 +1,32 @@
+[
+  {
+    "title": "1723: The Discovery of Mine La Motte",
+    "author": "Historical Fact",
+    "content": "Philip-François Renault and M. La Motte discovered lead deposits at the head of the St. Francois River. This site became the nucleus of the 'Old Lead Belt,' marking the beginning of organized European mineral exploitation in Missouri.",
+    "action": "Action: Identify the 'source' of your own project's resources. Where does your raw data or 'fuel' originate, and is that source stable?"
+  },
+  {
+    "title": "1870: The Missouri School of Mines Founded",
+    "author": "Historical Fact",
+    "content": "Following the intense mining boom in the Ozarks, the state established the School of Mines at Rolla. It was a direct response to the need for technical education to handle the complex extraction processes of the era.",
+    "action": "Action: Is your current project becoming 'complex'? Do you need to pause and invest in specialized training or documentation before proceeding?"
+  },
+  {
+    "title": "1906: Federal Mill No. 3 Construction",
+    "author": "Historical Fact",
+    "content": "Built in St. Francois County, this became the largest lead processing plant in the world, featuring 1,000 miles of mine tunnels and 250 miles of underground railroad tracks.",
+    "action": "Action: When you scale, are you building for 'efficiency' or 'capacity'? Ensure your internal infrastructure (database/files) can handle the scale you’re aiming for."
+  },
+  {
+    "title": "1923: St. Joe Lead's Total Consolidation",
+    "author": "Historical Fact",
+    "content": "By 1933, the St. Joseph Lead Company had acquired all its competition in the region, becoming the sole employer for thousands of miners, effectively creating a 'company town' ecosystem.",
+    "action": "Action: Are you becoming too dependent on one tool, platform, or partner? Identify a 'diversification' strategy to avoid vendor lock-in."
+  },
+  {
+    "title": "1972: Closure of the Federal Mill Complex",
+    "author": "Historical Fact",
+    "content": "After two centuries of operation, the 'Old Lead Belt' veins played out. The facility closure forced a massive economic shift toward the 'New Lead Belt' around Viburnum.",
+    "action": "Action: Every system has an expiration date. What is your 'exit strategy' for when your current primary tool/process becomes obsolete?"
+  }
+]
