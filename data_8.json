@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Long Game",
+    "author": "From: Principles",
+    "content": "Don't mistake current progress for the end goal. Most strategic gains are realized over years, not weeks.",
+    "action": "Action: Review your 5-year goal and the next step toward it."
+  },
+  {
+    "title": "Signal vs. Noise",
+    "author": "From: The Signal and the Noise",
+    "content": "The world is full of data (noise), but very little of it is information (signal). Filter aggressively.",
+    "action": "Action: Unsubscribe from one information source today."
+  },
+  {
+    "title": "The Endowment Effect",
+    "author": "From: Thinking, Fast and Slow",
+    "content": "We overvalue what we already own. When evaluating your strategies, ask: 'Would I build this today if I didn't already have it?'",
+    "action": "Action: Challenge the value of a 'legacy' process."
+  },
+  {
+    "title": "Redundancy for Resilience",
+    "author": "From: Antifragile",
+    "content": "Efficiency is the enemy of reliability. Redundancy—having a backup system—is the only way to survive the unknown.",
+    "action": "Action: Build a backup for your most critical project file."
+  },
+  {
+    "title": "Energy Management",
+    "author": "From: The Power of Full Engagement",
+    "content": "Time is finite; energy is renewable. Manage your energy, not your time.",
+    "action": "Action: Schedule your most demanding task for your peak energy hour."
+  }
+]
