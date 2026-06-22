@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Collapse of Complex Societies",
+    "author": "Joseph Tainter",
+    "content": "“Societies collapse when the costs of maintaining their complexity begin to outweigh the benefits.”",
+    "action": "Record: The diagnostic indicator for identifying when a system has become too expensive to support its own infrastructure."
+  },
+  {
+    "title": "Black Swan",
+    "author": "Nassim Nicholas Taleb",
+    "content": "“History does not crawl, it jumps.”",
+    "action": "Record: The rejection of linear forecasting in favor of identifying rare, high-impact, systemic shock events."
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "content": "“We can be blind to the obvious, and we are also blind to our blindness.”",
+    "action": "Record: The documentation of cognitive bias as a technical error in human decision-making systems."
+  },
+  {
+    "title": "The Strategy of Conflict",
+    "author": "Thomas Schelling",
+    "content": "“The power to hurt is bargaining power. To exploit it is diplomacy—vicious diplomacy, but diplomacy.”",
+    "action": "Record: The cold identification of deterrence and coercion as functional tools in strategic negotiation."
+  },
+  {
+    "title": "Team of Rivals",
+    "author": "Doris Kearns Goodwin",
+    "content": "“Lincoln's success was due to his ability to incorporate his competitors into his own administrative structure.”",
+    "action": "Record: The methodology of centralizing competing interests to neutralize external friction and gain internal control."
+  }
+]
