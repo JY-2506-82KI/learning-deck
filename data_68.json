@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Analects",
+    "author": "Confucius",
+    "content": "“By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.”",
+    "action": "Context: A breakdown of the cost and efficacy of different learning modalities."
+  },
+  {
+    "title": "Bhagavad Gita",
+    "author": "Unknown (Attributed to Vyasa)",
+    "content": "“You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.”",
+    "action": "Context: The decoupling of effort from outcome to maintain long-term operational sustainability."
+  },
+  {
+    "title": "The Epic of Gilgamesh",
+    "author": "Unknown",
+    "content": "“For where is the man who can clamber to heaven? Only the gods live forever under the sun. As for mankind, numbered are their days; whatever they achieve is but wind.”",
+    "action": "Context: The confrontation with systemic mortality and the limits of legacy."
+  },
+  {
+    "title": "The Art of Worldly Wisdom",
+    "author": "Baltasar Gracián",
+    "content": "“Do not show your cards. The knowing never reveal their entire hand, but play it by degrees.”",
+    "action": "Context: The strategic utility of information asymmetry in interpersonal dynamics."
+  },
+  {
+    "title": "The Prophet",
+    "author": "Kahlil Gibran",
+    "content": "“Your children are not your children. They are the sons and daughters of Life's longing for itself.”",
+    "action": "Context: The recognition of independent agency in those we help cultivate."
+  }
+]
