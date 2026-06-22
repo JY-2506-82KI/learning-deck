@@ -24,7 +24,9 @@
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
-    let deckIndex = 1;
+    // Configuration: Update this number when you add new data files
+    const totalDecks = 5; 
+
     const swiper = new Swiper('.swiper', {
         direction: 'vertical',
         slidesPerView: 1,
@@ -42,42 +44,38 @@
         return array;
     }
 
-    // Function to append slides to Swiper
-    function appendDataToSwiper(data) {
-        const shuffled = shuffleArray(data);
-        shuffled.forEach(entry => {
-            swiper.appendSlide(`
-                <div class="swiper-slide">
-                    <div class="card">
-                        <h2>${entry.title}</h2>
-                        <div class="author">${entry.author}</div>
-                        <div class="content">${entry.content}</div>
-                        <div class="action">${entry.action}</div>
-                    </div>
-                </div>
-            `);
-        });
-        swiper.update();
-    }
-
-    // Load next file in sequence
+    // Logic to fetch a random file
     async function loadNextDeck() {
-        deckIndex++;
+        // Pick a random number between 1 and totalDecks
+        const randomDeck = Math.floor(Math.random() * totalDecks) + 1;
+        
         try {
-            const response = await fetch(`data_${deckIndex}.json`);
-            if (!response.ok) return;
+            const response = await fetch(`data_${randomDeck}.json`);
+            if (!response.ok) throw new Error("File not found");
+            
             const data = await response.json();
-            appendDataToSwiper(data);
+            const shuffled = shuffleArray(data);
+            
+            shuffled.forEach(entry => {
+                swiper.appendSlide(`
+                    <div class="swiper-slide">
+                        <div class="card">
+                            <h2>${entry.title}</h2>
+                            <div class="author">${entry.author}</div>
+                            <div class="content">${entry.content}</div>
+                            <div class="action">${entry.action}</div>
+                        </div>
+                    </div>
+                `);
+            });
+            swiper.update();
         } catch (e) {
-            console.log("No more files to load.");
+            console.error("Error loading deck:", e);
         }
     }
 
     // Initial Load
-    fetch('data_1.json')
-        .then(res => res.json())
-        .then(data => appendDataToSwiper(data))
-        .catch(err => console.error("Initial load failed:", err));
+    loadNextDeck();
 </script>
 </body>
 </html>
