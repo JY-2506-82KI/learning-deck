@@ -12,10 +12,10 @@
     "action": "Action: Remove two 'potential paths' from your current project and commit to one."
   },
   {
-    "title": "The Pre-Mortem Analysis",
-    "author": "From: Gary Klein",
-    "content": "Instead of asking if it will work, ask what would cause it to die in six months. This turns pessimism into an engineering requirement.",
-    "action": "Action: Spend 5 minutes imagining the 'death' of your project and list the three most likely causes."
+    "title": "The Antifragile Principle",
+    "author": "From: Nassim Taleb",
+    "content": "Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, or stressors.",
+    "action": "Action: Alter your project workflow to be slightly more 'chaotic' on purpose to see how it reacts."
   },
   {
     "title": "The Law of Triviality",
