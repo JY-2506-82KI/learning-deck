@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Occam’s Razor",
+    "author": "From: The Great Mental Models",
+    "content": "When presented with competing hypotheses, the simplest explanation is usually the correct one.",
+    "action": "Action: Strip a convoluted plan down to its simplest necessary steps."
+  },
+  {
+    "title": "Inversion",
+    "author": "From: Poor Charlie’s Almanack",
+    "content": "Don't just think about how to succeed; think about how to fail and then avoid those things.",
+    "action": "Action: Spend 10 minutes listing exactly how to ruin your current project, then create a plan to prevent those specific actions."
+  },
+  {
+    "title": "Hanlon’s Razor",
+    "author": "From: The Great Mental Models",
+    "content": "Never attribute to malice that which is adequately explained by stupidity or misunderstanding.",
+    "action": "Action: Replace an 'assumption of intent' with an 'assumption of misunderstanding' in a tense situation."
+  },
+  {
+    "title": "First Principles Thinking",
+    "author": "From: The Art of Thinking Clearly",
+    "content": "Boil things down to their fundamental truths and reason up from there, rather than reasoning by analogy.",
+    "action": "Action: Strip a complex problem down to its basic, unchangeable facts."
+  },
+  {
+    "title": "Circle of Competence",
+    "author": "From: Poor Charlie’s Almanack",
+    "content": "You don't have to be an expert on everything. You only need to know the perimeter of your own competence.",
+    "action": "Action: Define the one area where you are truly an expert."
+  }
+]
