@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "content": "“In spite of everything I still believe that people are really good at heart.”",
+    "action": "Context: The maintenance of a baseline belief system despite empirical data suggesting the contrary."
+  },
+  {
+    "title": "Relativity: The Special and General Theory",
+    "author": "Albert Einstein",
+    "content": "“Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.”",
+    "action": "Context: The requirement for non-linear thinking to transcend the current limitations of established data."
+  },
+  {
+    "title": "A Room of One's Own",
+    "author": "Virginia Woolf",
+    "content": "“Intellectual freedom depends upon material things.”",
+    "action": "Context: The recognition that cognitive output requires a stable, protected physical environment."
+  },
+  {
+    "title": "The Book of Five Rings",
+    "author": "Miyamoto Musashi",
+    "content": "“You should not have any particular fondness for a particular weapon, or anything else, for that matter. Too much is the same as not enough.”",
+    "action": "Context: The danger of attachment to a specific tool or methodology, which reduces overall adaptability."
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "content": "“I am invisible, understand, simply because people refuse to see me.”",
+    "action": "Context: The observation of how observer bias—or denial—functions to erase an individual's presence from a system."
+  }
+]
