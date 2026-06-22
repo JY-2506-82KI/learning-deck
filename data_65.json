@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "content": "“Thoughts without content are empty, intuitions without concepts are blind.”",
+    "action": "Context: The necessity of pairing raw sensory input (intuition) with structured framework (concept) to create usable data."
+  },
+  {
+    "title": "Being and Nothingness",
+    "author": "Jean-Paul Sartre",
+    "content": "“Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.”",
+    "action": "Context: The reality that absolute agency is not a gift, but a perpetual burden of accountability."
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "content": "“The first method for estimating the intelligence of a ruler is to look at the men he has around him.”",
+    "action": "Context: The external indicator of an administrator's competence and potential for success."
+  },
+  {
+    "title": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "content": "“He who knows others is wise; he who knows himself is enlightened.”",
+    "action": "Context: The distinction between external analysis and internal calibration."
+  },
+  {
+    "title": "Fear and Trembling",
+    "author": "Søren Kierkegaard",
+    "content": "“Life is not a problem to be solved, but a reality to be experienced.”",
+    "action": "Context: The limitation of analytical approaches when applied to the subjective state of existence."
+  }
+]
