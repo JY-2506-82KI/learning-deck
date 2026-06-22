@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Kelly Criterion",
+    "author": "From: Fortune's Formula",
+    "content": "The mathematical strategy for determining the optimal size of a series of bets to maximize long-term growth while minimizing ruin.",
+    "action": "Action: Review your position sizing in Core 25 against your risk tolerance."
+  },
+  {
+    "title": "Asymmetric Risk",
+    "author": "From: Skin in the Game",
+    "content": "Seek positions where the downside is known and limited, but the upside is unknown and potentially massive.",
+    "action": "Action: Review your watchlist—which asset offers the highest 'asymmetry'?"
+  },
+  {
+    "title": "Fragility vs. Antifragility",
+    "author": "From: Antifragile",
+    "content": "Fragile things break under stress; robust things resist; antifragile things improve. Your strategy should benefit from the chaos of the market.",
+    "action": "Action: Stress-test your current portfolio holdings—what happens if volatility increases by 50%?"
+  },
+  {
+    "title": "Optionality",
+    "author": "From: The Black Swan",
+    "content": "Having options is the best defense against an uncertain future. Never commit 100% of your resources to a single, inflexible path.",
+    "action": "Action: Ensure you have 'optionality' in your liquid cash positions."
+  },
+  {
+    "title": "The Narrative Fallacy",
+    "author": "From: The Black Swan",
+    "content": "We create stories to explain the past, but the past was mostly random. Do not let 'the story' of a stock cloud your objective analysis.",
+    "action": "Action: Separate the 'story' of an asset from the raw data of its performance."
+  }
+]
