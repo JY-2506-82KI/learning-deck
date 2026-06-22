@@ -1,0 +1,32 @@
+[
+  {
+    "title": "On the Architecture of the Wild",
+    "author": "From: John Muir",
+    "content": "The clearest way into the Universe is through a forest wilderness. When you are lost in the details of a project, step back and view the larger ecosystem of your goals.",
+    "action": "Action: Step away from your desk for 15 minutes; observe a natural process (even if it's just weather or traffic) and relate its patience to your current project."
+  },
+  {
+    "title": "The Principle of Adaptation",
+    "author": "From: Charles Darwin",
+    "content": "It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change. Your systems must be as fluid as the environment they inhabit.",
+    "action": "Action: Identify one 'fixed' rule in your workflow and create a scenario where you would intentionally break it."
+  },
+  {
+    "title": "The Focusing Illusion",
+    "author": "From: Daniel Kahneman",
+    "content": "Nothing in life is as important as you think it is while you are thinking about it. Give your current crisis the appropriate, measured level of concern—no more, no less.",
+    "action": "Action: Scale your current 'urgent' stress level down from a 9 to a 4."
+  },
+  {
+    "title": "The Law of Reciprocity",
+    "author": "From: Robert Cialdini",
+    "content": "Human beings are hard-wired to return favors. Strategic generosity—giving value before asking for it—is the most reliable way to build a network.",
+    "action": "Action: Send one brief, helpful resource to a colleague or collaborator with no expectation of a return favor."
+  },
+  {
+    "title": "The Feedback Loop",
+    "author": "From: Systems Theory",
+    "content": "Negative feedback loops stabilize a system; positive feedback loops accelerate it. You need both to survive and thrive.",
+    "action": "Action: Create a 'check' (negative loop) that prevents you from going off-track during your next deep-work session."
+  }
+]
