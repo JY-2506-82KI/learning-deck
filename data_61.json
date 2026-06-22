@@ -1,0 +1,32 @@
+[
+  {
+    "title": "1869: The Golden Spike (Promontory Summit)",
+    "author": "Historical Fact",
+    "content": "The completion of the First Transcontinental Railroad. It required the manual displacement of over 20 million cubic yards of earth and the creation of a unified logistical gauge across 1,912 miles of track.",
+    "action": "Record: The moment physical geography was subordinated to a standardized, unified transport gauge."
+  },
+  {
+    "title": "1913: The Highland Park Assembly Line",
+    "author": "Historical Fact",
+    "content": "Henry Ford implemented the moving chassis assembly line. It reduced the time to build a Model T from 12.5 hours to 93 minutes by synchronizing human labor to the speed of a conveyor belt.",
+    "action": "Record: The shift from 'craft-based' production to 'rate-based' industrial throughput."
+  },
+  {
+    "title": "1935: The Boulder Canyon Project (Hoover Dam)",
+    "author": "Historical Fact",
+    "content": "The pouring of 3.25 million cubic yards of concrete in a continuous process that took two years. The concrete had to be cooled by a massive, custom-built refrigeration plant to prevent thermal cracking during curing.",
+    "action": "Record: The extreme resource allocation required to stabilize a singular, large-scale structural foundation."
+  },
+  {
+    "title": "1942: The Manhattan Project (Oak Ridge)",
+    "author": "Historical Fact",
+    "content": "The construction of the K-25 plant in Tennessee, which at the time was the largest building under one roof in the world. Its sole purpose was the gaseous diffusion of Uranium-235.",
+    "action": "Record: The necessity of building an entire 'city-sized' infrastructure to isolate a single, specific technical requirement."
+  },
+  {
+    "title": "1958: The Launch of Explorer 1",
+    "author": "Historical Fact",
+    "content": "The first U.S. satellite, designed and built in 84 days by the Jet Propulsion Laboratory. It confirmed the existence of the Van Allen radiation belts using a total of 31 transistors.",
+    "action": "Record: The capability to deploy highly complex sensory hardware in record time when the objective is clearly defined."
+  }
+]
