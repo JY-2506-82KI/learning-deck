@@ -1,0 +1,32 @@
+[
+  {
+    "title": "1941: The Attack on Pearl Harbor",
+    "author": "Historical Fact",
+    "content": "On December 7, 1941, the Imperial Japanese Navy launched a surprise military strike against the U.S. naval base at Pearl Harbor, Hawaii Territory. It was a high-stakes gamble intended to neutralize the U.S. Pacific Fleet, but it failed to destroy the fuel storage or repair facilities.",
+    "action": "Action: When you score a 'win' on a project, check if you missed the critical infrastructure (like fuel or repairs) that will allow your opponent or the problem to recover."
+  },
+  {
+    "title": "1869: Completion of the Transcontinental Railroad",
+    "author": "Historical Fact",
+    "content": "The First Transcontinental Railroad was completed at Promontory Summit, Utah, on May 10, 1869. It reduced travel time across the U.S. from months to days, fundamentally shifting the economic geography of the nation.",
+    "action": "Action: Identify a 'bottleneck' in your workflow that currently takes months; what would it take to turn that into a 'days' process?"
+  },
+  {
+    "title": "1914: The Start of World War I",
+    "author": "Historical Fact",
+    "content": "Following the assassination of Archduke Franz Ferdinand, a series of complex, interlocking secret treaties and mobilization schedules forced the major powers into a war that few of their leaders actually wanted.",
+    "action": "Action: Review your 'dependencies'—are you locked into a chain reaction where one small failure forces you into a much larger, unwanted commitment?"
+  },
+  {
+    "title": "1455: The Gutenberg Bible",
+    "author": "Historical Fact",
+    "content": "Johannes Gutenberg perfected the movable-type printing press in Mainz, Germany. By 1455, the Gutenberg Bible was produced, marking the beginning of the 'Printing Revolution' and the rapid dissemination of information.",
+    "action": "Action: If you have a 'best practice' or a piece of 'unique knowledge,' document it and share it. What is your version of 'movable type' for your project?"
+  },
+  {
+    "title": "1962: The Cuban Missile Crisis",
+    "author": "Historical Fact",
+    "content": "During a 13-day confrontation in October 1962, the U.S. and Soviet Union stood on the brink of nuclear war. The crisis ended through a series of back-channel communications and secret concessions.",
+    "action": "Action: When a negotiation or project conflict reaches a breaking point, stop the public posturing and look for a 'back-channel' solution."
+  }
+]
