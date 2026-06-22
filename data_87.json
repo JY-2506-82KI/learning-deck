@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Cybernetics",
+    "author": "Norbert Wiener",
+    "content": "“Information is information, not matter or energy.”",
+    "action": "Record: Treat the flow of data as the primary lever for controlling any physical or social system."
+  },
+  {
+    "title": "Introduction to Systems Thinking",
+    "author": "Donella Meadows",
+    "content": "“The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system’s behavior.”",
+    "action": "Record: Identify the hidden objective of a system to predict its inevitable output, regardless of its stated rules."
+  },
+  {
+    "title": "General System Theory",
+    "author": "Ludwig von Bertalanffy",
+    "content": "“The organism is not a machine, but a system of parts in dynamic interaction.”",
+    "action": "Record: Analyze parts only through the lens of their interaction within the larger structure; independent analysis is error-prone."
+  },
+  {
+    "title": "The Fifth Discipline",
+    "author": "Peter Senge",
+    "content": "“Systems thinking is a discipline for seeing wholes. It is a framework for seeing interrelationships rather than things.”",
+    "action": "Record: Map the feedback loops of a situation before acting; circular causality is more common than linear cause-and-effect."
+  },
+  {
+    "title": "Introduction to Cybernetics",
+    "author": "W. Ross Ashby",
+    "content": "“Only variety can destroy variety.”",
+    "action": "Record: To successfully manage a complex threat, you must possess at least as much internal complexity (options) as the threat itself."
+  }
+]
