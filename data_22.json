@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Seven Cs of Communication",
+    "author": "From: Effective Business Communication",
+    "content": "Communication should be Clear, Concise, Concrete, Correct, Coherent, Complete, and Courteous.",
+    "action": "Action: Review your last sent email; shorten it by 25% while maintaining clarity."
+  },
+  {
+    "title": "Active Listening",
+    "author": "From: The 7 Habits of Highly Effective People",
+    "content": "Seek first to understand, then to be understood. Listening is an active, not passive, process.",
+    "action": "Action: Practice summarizing a colleague’s point back to them before offering a rebuttal."
+  },
+  {
+    "title": "High-Context vs. Low-Context",
+    "author": "From: The Culture Map",
+    "content": "High-context cultures rely on nuance and implicit messages; low-context cultures prioritize explicit, detailed communication.",
+    "action": "Action: Adjust your communication style to be more explicit if the audience requires high clarity."
+  },
+  {
+    "title": "The Feedback Loop",
+    "author": "From: Radical Candor",
+    "content": "Effective feedback provides both direct challenge and personal care, balancing honesty with supportive intent.",
+    "action": "Action: Prepare feedback for a peer that focuses on specific behaviors rather than character traits."
+  },
+  {
+    "title": "Non-Violent Communication",
+    "author": "From: Nonviolent Communication",
+    "content": "Observing without evaluating, expressing feelings, identifying needs, and making actionable requests.",
+    "action": "Action: Reframe a critical thought into an observation followed by a specific request."
+  }
+]
