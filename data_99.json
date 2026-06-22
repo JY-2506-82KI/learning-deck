@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Influence: The Psychology of Persuasion",
+    "author": "Robert Cialdini",
+    "content": "“A well-known principle of human behavior says that when we ask someone to do us a favor we will be more successful if we will provide a reason.”",
+    "action": "Record: Rationalization is a tool; providing a logical wrapper for a request significantly increases the probability of compliance."
+  },
+  {
+    "title": "The Art of Seduction",
+    "author": "Robert Greene",
+    "content": "“The first step to seduction is to learn to cast a spell... by focusing on the target’s needs and desires.”",
+    "action": "Record: Influence is not about your output; it is about calibrating your signal to the internal psychological requirements of the target."
+  },
+  {
+    "title": "Propaganda",
+    "author": "Edward Bernays",
+    "content": "“The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society.”",
+    "action": "Record: Public opinion is a manufactured product; understand the delivery mechanisms of information to shape reality before the target does."
+  },
+  {
+    "title": "Games People Play",
+    "author": "Eric Berne",
+    "content": "“Every game is basically dishonest, and the pay-off must be dramatic.”",
+    "action": "Record: Identify the 'script' or 'game' an individual is playing in a social interaction to bypass their defensive posturing."
+  },
+  {
+    "title": "Social Engineering: The Art of Human Hacking",
+    "author": "Christopher Hadnagy",
+    "content": "“If you can make a person believe that you are who you say you are, then you can make them do almost anything.”",
+    "action": "Record: Identity and context are the primary exploits; control the context, and you control the authorization level of the interaction."
+  }
+]
