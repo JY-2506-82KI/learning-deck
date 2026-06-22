@@ -1,0 +1,32 @@
+[
+  {
+    "title": "On the Danger of Certainty",
+    "author": "From: The Book of Five Rings by Miyamoto Musashi",
+    "content": "Do not have any favorite weapon. To become over-reliant on one tool or one method is to become predictable, and thus vulnerable.",
+    "action": "Action: Temporarily abandon your favorite productivity tool or method for 24 hours to test your adaptability."
+  },
+  {
+    "title": "On the Architecture of Silence",
+    "author": "From: The Tao Te Ching",
+    "content": "He who knows does not speak. He who speaks does not know. True leadership is found in observation, not in the noise of command.",
+    "action": "Action: In your next meeting, try to speak 50% less than usual and focus entirely on observing team dynamics."
+  },
+  {
+    "title": "The Availability Heuristic",
+    "author": "From: Thinking, Fast and Slow by Daniel Kahneman",
+    "content": "We judge the frequency or probability of an event by how easily examples come to mind. Don't let your 'recent' memories dictate your 'long-term' strategy.",
+    "action": "Action: List three facts about your project that contradict your current 'feeling' about it."
+  },
+  {
+    "title": "The 5 Whys",
+    "author": "From: The Toyota Way",
+    "content": "Surface-level problems are just symptoms. Ask 'why' five times to reach the root cause.",
+    "action": "Action: Take one recurring problem you face and run the '5 Whys' on it."
+  },
+  {
+    "title": "The Gambler’s Fallacy",
+    "author": "From: Probability Theory",
+    "content": "The past does not influence the probability of a future independent event. Each decision is a clean slate.",
+    "action": "Action: Don't let a 'streak' of success or failure influence your next tactical decision."
+  }
+]
