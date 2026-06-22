@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Stockdale Paradox",
+    "author": "From: Good to Great",
+    "content": "You must maintain unwavering faith that you will prevail, while simultaneously confronting the most brutal facts of your current reality.",
+    "action": "Action: List your most brutal fact and pair it with an unwavering goal."
+  },
+  {
+    "title": "The Margin of Safety",
+    "author": "From: The Art of Thinking Clearly",
+    "content": "In life and strategy, always build in a buffer. If you operate at the absolute edge of your capacity, a single surprise will destroy your plan.",
+    "action": "Action: Add a 20% buffer to your next project timeline."
+  },
+  {
+    "title": "Redundancy for Resilience",
+    "author": "From: Antifragile",
+    "content": "Efficiency is the enemy of reliability. Redundancy—having a backup system—is the only way to survive the unknown.",
+    "action": "Action: Build a backup for your most critical project file."
+  },
+  {
+    "title": "Negative Visualization",
+    "author": "From: A Guide to the Good Life",
+    "content": "Imagine the loss of what you currently value. This prevents complacency and prepares you for the inevitable changes in life.",
+    "action": "Action: Spend 5 minutes imagining the absence of your most important resource."
+  },
+  {
+    "title": "Second-Order Thinking",
+    "author": "From: The Art of Thinking Clearly",
+    "content": "Don't just ask 'and then what?'. Ask 'and then what after that?'. Poor decision-makers only see the immediate consequence.",
+    "action": "Action: Trace the consequences of your next decision three steps forward."
+  }
+]
