@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Myth of Originality",
+    "author": "From: Steal Like an Artist",
+    "content": "Nothing is entirely original. Innovation is the act of remixing existing ideas into a new context.",
+    "action": "Action: Combine two unrelated concepts from your library into a new idea."
+  },
+  {
+    "title": "Deliberate Practice",
+    "author": "From: Peak",
+    "content": "Practice is not just repetition. It is focused, goal-oriented activity designed to improve a specific weakness.",
+    "action": "Action: Practice a weakness for 20 minutes, not just your strengths."
+  },
+  {
+    "title": "The 2-Minute Rule",
+    "author": "From: Getting Things Done",
+    "content": "If a task takes less than two minutes, do it immediately. Don't archive it, don't defer it.",
+    "action": "Action: Clear your inbox of all 'under 2-minute' tasks."
+  },
+  {
+    "title": "Strategic Inaction",
+    "author": "From: The Art of Thinking Clearly",
+    "content": "Sometimes the most strategic move is to do absolutely nothing. Not every problem requires an intervention.",
+    "action": "Action: Identify one 'active' project you should pause."
+  },
+  {
+    "title": "The Power of Defaults",
+    "author": "From: Predictably Irrational",
+    "content": "People stick to the path of least resistance. Make the 'right' choice the default choice in your environment.",
+    "action": "Action: Change a digital setting to force a more productive default."
+  }
+]
