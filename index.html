@@ -4,54 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Strategic Library</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <style>
-    /* Force everything to black - no white background allowed */
-    body, html { 
-        margin: 0; padding: 0; 
-        height: 100dvh; width: 100vw; 
-        background-color: #0f0f0f !important; 
-        overflow: hidden; 
-    }
-
-    /* Fixed container prevents off-center drift */
-    .swiper { 
-        position: fixed;
-        top: 0; left: 0;
-        width: 100vw; 
-        height: 100dvh; 
-        background-color: #0f0f0f;
-    }
-
-    .swiper-slide { 
-        display: flex; 
-        align-items: center; 
-        justify-content: center; 
-        width: 100vw; 
-        height: 100dvh;
-        /* Ensures no margin bleed */
-        margin: 0 !important; 
-    }
-
-    .card { 
-        background-color: #1a1a1a !important; /* Force dark gray card */
-        color: #fff; 
-        padding: 35px; 
-        border-radius: 24px; 
-        width: 85vw; 
-        max-width: 450px;
-        height: 70vh; 
-        border: 1px solid #333;
-        box-sizing: border-box;
-        display: flex; 
-        flex-direction: column; 
-        justify-content: center;
-    }
-
-    h2 { color: #00d4ff !important; font-size: 1.6rem; margin: 0 0 15px 0; }
-    .author { font-size: 0.9rem; color: #888; margin-bottom: 20px; }
-    .content { font-size: 1.3rem; line-height: 1.5; margin-bottom: 25px; }
-    .action { font-size: 1.2rem; color: #ff9900 !important; font-weight: bold; }
-</style>
+        body, html { margin: 0; padding: 0; height: 100dvh; width: 100vw; background-color: #0f0f0f !important; overflow: hidden; }
+        .swiper { position: fixed; top: 0; left: 0; width: 100vw; height: 100dvh; background-color: #0f0f0f; }
+        .swiper-slide { display: flex; align-items: center; justify-content: center; width: 100vw; height: 100dvh; margin: 0 !important; }
+        .card { background-color: #1a1a1a !important; color: #fff; padding: 35px; border-radius: 24px; width: 85vw; max-width: 450px; height: 70vh; border: 1px solid #333; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; }
+        h2 { color: #00d4ff !important; font-size: 1.6rem; margin: 0 0 15px 0; }
+        .author { font-size: 0.9rem; color: #888; margin-bottom: 20px; }
+        .content { font-size: 1.3rem; line-height: 1.5; margin-bottom: 25px; }
+        .action { font-size: 1.2rem; color: #ff9900 !important; font-weight: bold; }
+    </style>
 </head>
 <body>
 
@@ -59,35 +22,59 @@
     <div class="swiper-wrapper" id="target"></div>
 </div>
 
-<script>
-    // 1. Data
-    const libraryData = [
-        { title: "The Feedback Loop", author: "From: High Output Management", content: "The value of any process is determined by its feedback loop. Shorten the cycle, even if it hurts.", action: "Action: Reduce a feedback loop by 50%." },
-        { title: "The Second-Order Effect", author: "From: Thinking in Systems", content: "Every intervention in a system has a ripple effect. Good system managers anticipate the backlash before it happens.", action: "Action: Identify the 'backlash' to a new plan." },
-        { title: "The Cognitive Miser", author: "From: Predictably Irrational", content: "Your brain will choose the path of least resistance. Create artificial friction to force deliberate thinking.", action: "Action: Create a 'thinking pause' for decisions." },
-        { title: "The Sunk Cost Fallacy", author: "From: The Art of Thinking Clearly", content: "\"I've come too far to turn back\" is a trap. Future value is the only metric that matters.", action: "Action: Abandon a failing task." },
-        { title: "The Principle of Asymmetry", author: "From: Antifragile", content: "Look for opportunities with limited downside and high upside. Avoid the reverse.", action: "Action: Audit a project for its 'asymmetry'." }
-    ];
-
-    // 2. Render without any external library dependencies first
-    const target = document.getElementById('target');
-    const shuffled = [...libraryData].sort(() => Math.random() - 0.5);
-
-    target.innerHTML = shuffled.map(entry => `
-        <div class="swiper-slide">
-            <div class="card">
-                <h2>${entry.title}</h2>
-                <div class="author">${entry.author}</div>
-                <div class="content">${entry.content}</div>
-                <div class="action">${entry.action}</div>
-            </div>
-        </div>
-    `).join('');
-</script>
-
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
-    new Swiper('.swiper', { direction: 'vertical', slidesPerView: 1 });
+    let deckIndex = 1;
+    const swiper = new Swiper('.swiper', {
+        direction: 'vertical',
+        slidesPerView: 1,
+        on: {
+            reachEnd: () => loadNextDeck()
+        }
+    });
+
+    async function loadNextDeck() {
+        deckIndex++;
+        try {
+            const response = await fetch(`data_${deckIndex}.json`);
+            if (!response.ok) return; // Stop if no more files
+            
+            const data = await response.json();
+            data.forEach(entry => {
+                swiper.appendSlide(`
+                    <div class="swiper-slide">
+                        <div class="card">
+                            <h2>${entry.title}</h2>
+                            <div class="author">${entry.author}</div>
+                            <div class="content">${entry.content}</div>
+                            <div class="action">${entry.action}</div>
+                        </div>
+                    </div>
+                `);
+            });
+            swiper.update();
+        } catch (e) {
+            console.log("No more data files found.");
+        }
+    }
+
+    // Initial Load
+    fetch('data_1.json')
+        .then(res => res.json())
+        .then(data => {
+            data.forEach(entry => {
+                swiper.appendSlide(`
+                    <div class="swiper-slide">
+                        <div class="card">
+                            <h2>${entry.title}</h2>
+                            <div class="author">${entry.author}</div>
+                            <div class="content">${entry.content}</div>
+                            <div class="action">${entry.action}</div>
+                        </div>
+                    </div>
+                `);
+            });
+        });
 </script>
 </body>
 </html>
