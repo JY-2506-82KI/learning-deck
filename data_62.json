@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "content": "“All my means are sane, my motive and my object mad.”",
+    "action": "Context: The moment of total, conscious detachment from rationality in the pursuit of an singular objective."
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "content": "“The soul becomes dyed with the color of its thoughts. Dip it therefore in the dye of such thoughts as these: that wherever a man can live, there he can also live well.”",
+    "action": "Context: The assertion that internal state is the primary determinant of environmental quality."
+  },
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "content": "“And may we not say that the most gifted minds, when they are ill-educated, become practically the worst?”",
+    "action": "Context: The recognition that raw intellectual capability without structural guidance is a liability."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "content": "“Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.”",
+    "action": "Context: The identification of burden as an unavoidable consequence of high-level consciousness."
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "content": "“I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to live, and not, when I came to die, discover that I had not lived.”",
+    "action": "Context: The strategic decision to isolate oneself to achieve a clear, objective analysis of the human condition."
+  }
+]
