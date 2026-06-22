@@ -1,0 +1,32 @@
+[
+  {
+    "title": "On the Necessity of Perspective",
+    "author": "From: Mark Twain",
+    "content": "The difference between the right word and the almost right word is the difference between lightning and a lightning bug. Precision is not pedantry; it is clarity.",
+    "action": "Action: Rewrite your current project’s 'mission statement' into one single, precise sentence."
+  },
+  {
+    "title": "The Paradox of Choice",
+    "author": "From: Barry Schwartz",
+    "content": "When we have too many options, we become paralyzed. The joy of a clean, single path is often greater than the anxiety of endless possibility.",
+    "action": "Action: Remove two 'potential paths' from your current project and commit to one."
+  },
+  {
+    "title": "The Pre-Mortem Analysis",
+    "author": "From: Gary Klein",
+    "content": "Instead of asking if it will work, ask what would cause it to die in six months. This turns pessimism into an engineering requirement.",
+    "action": "Action: Spend 5 minutes imagining the 'death' of your project and list the three most likely causes."
+  },
+  {
+    "title": "The Law of Triviality",
+    "author": "From: C. Northcote Parkinson",
+    "content": "Organizations spend the most time discussing the simplest items because everyone can understand them, ignoring the complex, important items.",
+    "action": "Action: Review your agenda for the next team meeting—is it filled with 'simple' items that hide the 'important' ones?"
+  },
+  {
+    "title": "The Bystander Effect",
+    "author": "From: Social Psychology",
+    "content": "The more people who know about a problem, the less likely any one person is to solve it. Shared responsibility is often diffused responsibility.",
+    "action": "Action: If a task has multiple stakeholders, take ownership of one specific sub-task today."
+  }
+]
