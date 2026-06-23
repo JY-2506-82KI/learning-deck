@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "content": "“But man is not made for defeat. A man can be destroyed but not defeated.”",
+    "action": "Endurance is the ultimate victory."
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "content": "“I'll be all around in the dark. I'll be ever'-where—wherever you look. Wherever they's a fight so hungry people can eat, I'll be there.”",
+    "action": "Act for the greater cause."
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "content": "“Be true! Be true! Be true! Show freely to the world, if not your worst, yet some trait whereby the worst may be inferred!”",
+    "action": "Authenticity precludes manipulation."
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "content": "“The world breaks every one and afterward many are strong at the broken places.”",
+    "action": "Failure is a hardening agent."
+  },
+  {
+    "title": "Song of Myself",
+    "author": "Walt Whitman",
+    "content": "“Do I contradict myself? Very well then I contradict myself, (I am large, I contain multitudes.)”",
+    "action": "Embrace your internal complexity."
+  }
+]
