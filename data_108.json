@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "content": "“The mind of man is capable of anything—because everything is in it, all the past as well as all the future.”",
+    "action": "Own your internal darkness."
+  },
+  {
+    "title": "A Good Man is Hard to Find",
+    "author": "Flannery O'Connor",
+    "content": "“She would of been a good woman if it had been somebody there to shoot her every minute of her life.”",
+    "action": "Do not wait for crisis to act."
+  },
+  {
+    "title": "Native Son",
+    "author": "Richard Wright",
+    "content": "“What I killed for must've been good!”",
+    "action": "Examine the roots of your drive."
+  },
+  {
+    "title": "The Glass Menagerie",
+    "author": "Tennessee Williams",
+    "content": "“I have been foolish, but I have been honest.”",
+    "action": "Prioritize truth over appearance."
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "content": "“Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat.”",
+    "action": "Play regardless of the outcome."
+  }
+]
