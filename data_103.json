@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "content": "“I'm standing on the edge of some crazy cliff. What I have to do, I have to catch everybody if they start to go over the cliff.”",
+    "action": "Know your protective limits."
+  },
+  {
+    "title": "Absalom, Absalom!",
+    "author": "William Faulkner",
+    "content": "“The past is never dead. It's not even past.”",
+    "action": "Own your history, don't repeat it."
+  },
+  {
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "content": "“The bird that would soar above the level plain of tradition and prejudice must have strong wings.”",
+    "action": "Prepare for the climb."
+  },
+  {
+    "title": "Death of a Salesman",
+    "author": "Arthur Miller",
+    "content": "“I don't say he's a great man. Willy Loman never made a lot of money. His name was never in the paper. But he's a human being, and a terrible thing is happening to him.”",
+    "action": "Value the person over the production."
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "content": "“Clocks slay time... time is dead as long as it is being clicked off by little wheels; only when the clock stops does time come to life.”",
+    "action": "Live outside the mechanical grind."
+  }
+]
