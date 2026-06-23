@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "content": "“All right, then, I'll go to hell.”",
+    "action": "Trust your conscience over convention."
+  },
+  {
+    "title": "The Fall of the House of Usher",
+    "author": "Edgar Allan Poe",
+    "content": "“I feel that the period will sooner or later arrive when I must abandon life and reason together, in some struggle with the grim phantasm, Fear.”",
+    "action": "Name your fears to disarm them."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "content": "“It is not down in any map; true places never are.”",
+    "action": "Trust intuition over data."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "content": "“So we beat on, boats against the current, borne back ceaselessly into the past.”",
+    "action": "Focus on the destination, not the drag."
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "content": "“Timshel—‘Thou mayest.’ It does not say you must. It does not say you shall. It says you may.”",
+    "action": "You have the power to choose."
+  }
+]
