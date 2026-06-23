@@ -1,0 +1,32 @@
+[
+  {
+    "title": "A Raisin in the Sun",
+    "author": "Lorraine Hansberry",
+    "content": "“It’s life, Mama! ... It’s all simply a matter of dreams.”",
+    "action": "Protect your vision from compromise."
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "content": "“You have to carry the fire.”",
+    "action": "Maintain your purpose in adversity."
+  },
+  {
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "content": "“My mother is a fish.”",
+    "action": "Accept the absurdity of internal logic."
+  },
+  {
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "content": "“I am a poor man, but I am a man of my word.”",
+    "action": "Integrity is your final asset."
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "content": "“Isn't it pretty to think so?”",
+    "action": "Distinguish reality from desire."
+  }
+]
