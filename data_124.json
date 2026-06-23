@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Ambition",
+    "author": "Alexander Hamilton",
+    "content": "“A nation which can prefer disgrace to danger is prepared for a master, and deserves one.”",
+    "action": "Choose risk over submissiveness."
+  },
+  {
+    "title": "The Weight",
+    "author": "Abraham Lincoln",
+    "content": "“Nearly all men can stand adversity, but if you want to test a man's character, give him power.”",
+    "action": "Watch your character under influence."
+  },
+  {
+    "title": "The Constraint",
+    "author": "James Madison",
+    "content": "“If men were angels, no government would be necessary.”",
+    "action": "Systematize around human fallibility."
+  },
+  {
+    "title": "The Influence",
+    "author": "Frederick Douglass",
+    "content": "“Power concedes nothing without a demand. It never did and it never will.”",
+    "action": "Demand your terms clearly."
+  },
+  {
+    "title": "The Legacy",
+    "author": "Theodore Roosevelt",
+    "content": "“Far and away the best prize that life has to offer is the chance to work hard at work worth doing.”",
+    "action": "Prioritize high-value labor."
+  }
+]
