@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "content": "“I wanted to live deep and suck out all the marrow of life.”",
+    "action": "Commit to maximum intensity in your current focus."
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "content": "“Do I contradict myself? Very well then I contradict myself, I am large, I contain multitudes.”",
+    "action": "Accept the complexity and evolution of your own identity."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "content": "“So we beat on, boats against the current, borne back ceaselessly into the past.”",
+    "action": "Acknowledge the momentum of your own history."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "content": "“It is not down in any map; true places never are.”",
+    "action": "Trust your intuition when navigating uncharted territory."
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "content": "“The world breaks everyone and afterward many are strong at the broken places.”",
+    "action": "Use your past failures as structural reinforcement."
+  }
+]
