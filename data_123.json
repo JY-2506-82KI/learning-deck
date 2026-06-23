@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Foundation",
+    "author": "Louisa May Alcott",
+    "content": "“I am not afraid of storms, for I am learning how to ship my sail.”",
+    "action": "View current challenges as necessary skill development."
+  },
+  {
+    "title": "The Framework",
+    "author": "Mark Twain",
+    "content": "“The secret of getting ahead is getting started.”",
+    "action": "Prioritize momentum over perfect preparation."
+  },
+  {
+    "title": "The Stress Test",
+    "author": "Emily Dickinson",
+    "content": "“Character is not cut in marble—it is not something that is laid down for us—it is something that we forge.”",
+    "action": "Use pressure to solidify your principles."
+  },
+  {
+    "title": "The Restoration",
+    "author": "Maya Angelou",
+    "content": "“We may encounter many defeats but we must not be defeated.”",
+    "action": "Reframe setbacks as temporary data points."
+  },
+  {
+    "title": "The Structure",
+    "author": "Will Durant",
+    "content": "“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”",
+    "action": "Codify your best practices into your daily rhythm."
+  }
+]
