@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Selection",
+    "author": "Henry David Thoreau",
+    "content": "“Our life is frittered away by detail. Simplify, simplify, simplify!”",
+    "action": "Eliminate the non-essential."
+  },
+  {
+    "title": "The Perception",
+    "author": "William James",
+    "content": "“The art of being wise is the art of knowing what to overlook.”",
+    "action": "Filter out irrelevant noise."
+  },
+  {
+    "title": "The Expression",
+    "author": "Mark Twain",
+    "content": "“Substitute 'damn' every time you're inclined to write 'very'; your editor will delete it and the writing will be just as it should be.”",
+    "action": "Remove unnecessary qualifiers."
+  },
+  {
+    "title": "The Discipline",
+    "author": "Ernest Hemingway",
+    "content": "“Prose is architecture, not interior decoration.”",
+    "action": "Focus on structural integrity."
+  },
+  {
+    "title": "The Truth",
+    "author": "Flannery O'Connor",
+    "content": "“The truth does not change according to our ability to stomach it.”",
+    "action": "Face facts without sugarcoating."
+  }
+]
