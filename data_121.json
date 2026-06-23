@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Vision",
+    "author": "Carl Sandburg",
+    "content": "“Nothing happens unless first a dream.”",
+    "action": "Articulate the vision before attempting the architecture."
+  },
+  {
+    "title": "The Divergence",
+    "author": "Henry David Thoreau",
+    "content": "“If a man does not keep pace with his companions, perhaps it is because he hears a different drummer.”",
+    "action": "Accept the isolation that comes with non-standard objectives."
+  },
+  {
+    "title": "The Immersion",
+    "author": "Willa Cather",
+    "content": "“That is happiness; to be dissolved into something complete and great.”",
+    "action": "Surrender your ego to the demands of the craft."
+  },
+  {
+    "title": "The Obligation",
+    "author": "Robert Frost",
+    "content": "“The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep.”",
+    "action": "Prioritize your commitments over the temptation of retreat."
+  },
+  {
+    "title": "The Impact",
+    "author": "Ralph Waldo Emerson",
+    "content": "“To leave the world a bit better, whether by a healthy child, a garden patch, or a redeemed social condition.”",
+    "action": "Measure the finality of your work by its tangible impact."
+  }
+]
