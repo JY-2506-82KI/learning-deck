@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Republic",
+    "author": "Plato",
+    "content": "“Until philosophers are kings, or the kings and princes of this world have the spirit and power of philosophy... cities will never have rest from their evils.”",
+    "action": "Lead with your values."
+  },
+  {
+    "title": "The Nicomachean Ethics",
+    "author": "Aristotle",
+    "content": "“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”",
+    "action": "Build better habits."
+  },
+  {
+    "title": "Phaedo",
+    "author": "Plato",
+    "content": "“The soul is in the very likeness of the divine, and immortal, and intellectual, and uniform, and indissoluble, and unchangeable.”",
+    "action": "Protect your focus."
+  },
+  {
+    "title": "Enchiridion",
+    "author": "Epictetus",
+    "content": "“Some things are within our power, while others are not.”",
+    "action": "Ignore the noise."
+  },
+  {
+    "title": "Apology",
+    "author": "Plato",
+    "content": "“The unexamined life is not worth living.”",
+    "action": "Check your progress."
+  }
+]
