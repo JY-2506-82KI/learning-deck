@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Art of Loving",
+    "author": "Erich Fromm",
+    "content": "“Love is an action, a practice.”",
+    "action": "Commit to active effort."
+  },
+  {
+    "title": "Common Sense",
+    "author": "Thomas Paine",
+    "content": "“A long habit of not thinking a thing wrong, gives it a superficial appearance of being right.”",
+    "action": "Question your assumptions."
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "content": "“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”",
+    "action": "Verify your core data."
+  },
+  {
+    "title": "The Social Contract",
+    "author": "Jean-Jacques Rousseau",
+    "content": "“Man is born free, and everywhere he is in chains.”",
+    "action": "Identify your self-imposed limitations."
+  },
+  {
+    "title": "The Elements of Style",
+    "author": "William Strunk Jr. & E.B. White",
+    "content": "“Omit needless words.”",
+    "action": "Simplify your execution."
+  }
+]
