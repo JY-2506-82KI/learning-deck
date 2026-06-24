@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "content": "“The best revenge is to be unlike him who performed the injury.”",
+    "action": "Maintain your character under fire."
+  },
+  {
+    "title": "A Man for All Seasons",
+    "author": "Robert Bolt",
+    "content": "“I think that when a man takes an oath, he's holding his own self in his own hands. Like water. And if he opens his fingers then—he needn't hope to find himself again.”",
+    "action": "Honor your commitments."
+  },
+  {
+    "title": "Churchill: A Life",
+    "author": "Martin Gilbert",
+    "content": "“Success is not final, failure is not fatal: it is the courage to continue that counts.”",
+    "action": "Stay in the fight."
+  },
+  {
+    "title": "The Last Lion",
+    "author": "William Manchester",
+    "content": "“History will be kind to me for I intend to write it.”",
+    "action": "Define your own narrative."
+  },
+  {
+    "title": "Washington: A Life",
+    "author": "Ron Chernow",
+    "content": "“It is better to offer no excuse than a bad one.”",
+    "action": "Own your outcomes."
+  }
+]
