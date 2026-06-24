@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Souls of Black Folk",
+    "author": "W.E.B. Du Bois",
+    "content": "“It is a peculiar sensation, this double-consciousness, this sense of always looking at one's self through the eyes of others.”",
+    "action": "Remove external validation."
+  },
+  {
+    "title": "The Second Sex",
+    "author": "Simone de Beauvoir",
+    "content": "“One is not born, but rather becomes, a woman.”",
+    "action": "Define your own identity."
+  },
+  {
+    "title": "The Age of Reason",
+    "author": "Thomas Paine",
+    "content": "“My own mind is my own church.”",
+    "action": "Protect your mental autonomy."
+  },
+  {
+    "title": "The Hero with a Thousand Faces",
+    "author": "Joseph Campbell",
+    "content": "“The cave you fear to enter holds the treasure you seek.”",
+    "action": "Confront your biggest risk."
+  },
+  {
+    "title": "A Room of One's Own",
+    "author": "Virginia Woolf",
+    "content": "“Intellectual freedom depends upon material things.”",
+    "action": "Secure your operating capital."
+  }
+]
