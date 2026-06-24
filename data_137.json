@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "content": "“Our life is frittered away by detail. Simplify, simplify.”",
+    "action": "Cut one non-essential layer from your current process."
+  },
+  {
+    "title": "The Analects",
+    "author": "Confucius",
+    "content": "“It does not matter how slowly you go as long as you do not stop.”",
+    "action": "Maintain your current momentum; ignore the rate of progress."
+  },
+  {
+    "title": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "content": "“He who knows that enough is enough will always have enough.”",
+    "action": "Define the threshold where 'good enough' becomes 'done'."
+  },
+  {
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "content": "“Thoughts without content are empty, intuitions without concepts are blind.”",
+    "action": "Verify your strategy is supported by hard, factual data."
+  },
+  {
+    "title": "Essays",
+    "author": "Michel de Montaigne",
+    "content": "“The greatest thing in the world is to know how to belong to oneself.”",
+    "action": "Assert full ownership of your decision-making."
+  }
+]
