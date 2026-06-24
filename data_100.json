@@ -3,30 +3,30 @@
     "title": "The Fountainhead",
     "author": "Ayn Rand",
     "content": "“I don't build in order to have clients. I have clients in order to build.”",
-    "action": "Record: Reverse the service model. Do not adapt your architecture to accommodate the environment; force the environment to accommodate your architecture."
+    "action": "Force the environment to fit your architecture."
   },
   {
     "title": "Walden",
     "author": "Henry David Thoreau",
     "content": "“If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.”",
-    "action": "Record: Reject systemic synchronization. Your operational cadence is set by your own objectives, regardless of external demand or social expectation."
+    "action": "Set your own operational cadence."
   },
   {
     "title": "The Art of Worldly Wisdom",
     "author": "Baltasar Gracián",
     "content": "“Be master of yourself; it is the final and greatest art.”",
-    "action": "Record: Systemic failure is usually an internal leak of focus. Lockdown your cognitive and operational boundaries; permit no uninvited external variables."
+    "action": "Seal your boundaries against external noise."
   },
   {
     "title": "Self-Reliance",
     "author": "Ralph Waldo Emerson",
     "content": "“To believe your own thought, to believe that what is true for you in your private heart is true for all men—that is genius.”",
-    "action": "Record: Trust your internal diagnostic data over market sentiment or consensus opinion. If the model is sound, the external data will eventually align."
+    "action": "Prioritize internal data over market consensus."
   },
   {
     "title": "The Book of Five Rings",
     "author": "Miyamoto Musashi",
     "content": "“You must understand that there are different levels of speed. There is the speed of things and the speed of the mind.”",
-    "action": "Record: Maintain the gap. Let the systems you monitor move at their chaotic speed while you maintain the calculated, superior speed of your own internal processing."
+    "action": "Maintain your own processing speed, regardless of chaos."
   }
 ]
