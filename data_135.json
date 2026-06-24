@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Raven",
+    "author": "Edgar Allan Poe",
+    "content": "“Deep into that darkness peering, long I stood there wondering, fearing.”",
+    "action": "Face the uncertainty you are avoiding."
+  },
+  {
+    "title": "Sonnet 18",
+    "author": "William Shakespeare",
+    "content": "“So long as men can breathe or eyes can see, So long lives this, and this gives life to thee.”",
+    "action": "Produce work that survives your own time."
+  },
+  {
+    "title": "Dover Beach",
+    "author": "Matthew Arnold",
+    "content": "“And we are here as on a darkling plain... where ignorant armies clash by night.”",
+    "action": "Define your position in a chaotic environment."
+  },
+  {
+    "title": "The Tyger",
+    "author": "William Blake",
+    "content": "“What immortal hand or eye, Could frame thy fearful symmetry?”",
+    "action": "Analyze the structure of your greatest challenge."
+  },
+  {
+    "title": "Ode on a Grecian Urn",
+    "author": "John Keats",
+    "content": "“Beauty is truth, truth beauty,—that is all Ye know on earth, and all ye need to know.”",
+    "action": "Strip your project down to the essential truth."
+  }
+]
