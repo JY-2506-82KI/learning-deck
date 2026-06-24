@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Oregon Trail",
+    "author": "Francis Parkman",
+    "content": "“The path was hard, but the destination was inevitable.”",
+    "action": "Commit to the route regardless of the cost."
+  },
+  {
+    "title": "Roughing It",
+    "author": "Mark Twain",
+    "content": "“The time has come to stop talking and start doing.”",
+    "action": "End the analysis; begin the execution."
+  },
+  {
+    "title": "The Wilderness Hunter",
+    "author": "Theodore Roosevelt",
+    "content": "“The credit belongs to the man who is actually in the arena.”",
+    "action": "Enter the conflict you are currently avoiding."
+  },
+  {
+    "title": "Two Years Before the Mast",
+    "author": "Richard Henry Dana Jr.",
+    "content": "“There is no substitute for hard work.”",
+    "action": "Double your labor on the essential task."
+  },
+  {
+    "title": "Autobiography",
+    "author": "Davy Crockett",
+    "content": "“Be always sure you are right—then go ahead.”",
+    "action": "Verify your data, then strike."
+  }
+]
