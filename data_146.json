@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Thinking in Systems",
+    "author": "Donella Meadows",
+    "content": "“Systems can't be controlled, but they can be designed and redesigned.”",
+    "action": "Tweak your system."
+  },
+  {
+    "title": "Extreme Ownership",
+    "author": "Jocko Willink",
+    "content": "“Leaders must own everything in their world. There is no one else to blame.”",
+    "action": "Take full responsibility."
+  },
+  {
+    "title": "Antifragile",
+    "author": "Nassim Taleb",
+    "content": "“Wind extinguishes a candle and energizes fire.”",
+    "action": "Capitalize on volatility."
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "content": "“What we choose to focus on and what we choose to ignore—plays in defining the quality of our life.”",
+    "action": "Protect your concentration."
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "content": "“We can be blind to the obvious, and we are also blind to our blindness.”",
+    "action": "Identify your biases."
+  }
+]
