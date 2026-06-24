@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Song of Myself",
+    "author": "Walt Whitman",
+    "content": "“I celebrate myself, and sing myself... I am large, I contain multitudes.”",
+    "action": "Acknowledge your own complexity and refuse to be defined by a single role."
+  },
+  {
+    "title": "The Road Not Taken",
+    "author": "Robert Frost",
+    "content": "“I took the one less traveled by, And that has made all the difference.”",
+    "action": "Make the non-consensus choice on a current operational dilemma."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "content": "“I know not all that may be coming, but be it what it will, I'll go to it laughing.”",
+    "action": "Aggressively pursue the unknown objective without fearing the outcome."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "content": "“So we beat on, boats against the current, borne back ceaselessly into the past.”",
+    "action": "Identify one 'past' habit pulling you backward and cut it."
+  },
+  {
+    "title": "Civil Disobedience",
+    "author": "Henry David Thoreau",
+    "content": "“If a man does not keep pace with his companions, perhaps it is because he hears a different drummer.”",
+    "action": "Ignore a standard industry convention that provides no real value."
+  }
+]
