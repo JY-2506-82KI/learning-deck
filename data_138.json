@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Federalist Papers",
+    "author": "Alexander Hamilton, James Madison, John Jay",
+    "content": "“If men were angels, no government would be necessary.”",
+    "action": "Audit for human error."
+  },
+  {
+    "title": "A Vindication of the Rights of Woman",
+    "author": "Mary Wollstonecraft",
+    "content": "“I do not wish them to have power over men; but over themselves.”",
+    "action": "Assert your independence."
+  },
+  {
+    "title": "The Protestant Ethic and the Spirit of Capitalism",
+    "author": "Max Weber",
+    "content": "“Waste of time is thus the first and in principle the deadliest of all sins.”",
+    "action": "Eliminate wasted time."
+  },
+  {
+    "title": "The Varieties of Religious Experience",
+    "author": "William James",
+    "content": "“The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.”",
+    "action": "Change your perspective."
+  },
+  {
+    "title": "Principia Mathematica",
+    "author": "Isaac Newton",
+    "content": "“To every action there is always opposed an equal reaction.”",
+    "action": "Prepare for blowback."
+  }
+]
