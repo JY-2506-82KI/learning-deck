@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Interpretation of Dreams",
+    "author": "Sigmund Freud",
+    "content": "“Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways.”",
+    "action": "Address hidden frustrations."
+  },
+  {
+    "title": "On Liberty",
+    "author": "John Stuart Mill",
+    "content": "“The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others.”",
+    "action": "Check your boundaries."
+  },
+  {
+    "title": "The Origins of Totalitarianism",
+    "author": "Hannah Arendt",
+    "content": "“The ideal subject of totalitarian rule is not the convinced Nazi or the convinced Communist, but people for whom the distinction between fact and fiction no longer exists.”",
+    "action": "Verify your raw data."
+  },
+  {
+    "title": "Self-Reliance",
+    "author": "Ralph Waldo Emerson",
+    "content": "“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.”",
+    "action": "Trust your internal compass."
+  },
+  {
+    "title": "Das Kapital",
+    "author": "Karl Marx",
+    "content": "“Capital is dead labor, which, vampire-like, lives only by sucking living labor, and lives the more, the more labor it sucks.”",
+    "action": "Optimize your resource allocation."
+  }
+]
