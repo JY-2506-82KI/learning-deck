@@ -3,30 +3,30 @@
     "title": "The Eisenhower Matrix",
     "author": "From: The 7 Habits of Highly Effective People",
     "content": "Distinguish between the urgent and the important. Most people spend their lives reacting to the urgent, leaving no time for the important.",
-    "action": "Action: Move one task from 'urgent' to 'important' or delete it."
+    "action": "Prioritize importance over urgency."
   },
   {
     "title": "First Principles Thinking",
     "author": "From: The Art of Thinking Clearly",
     "content": "Boil things down to their fundamental truths and reason up from there, rather than reasoning by analogy.",
-    "action": "Action: Strip a complex problem down to its basic, unchangeable facts."
+    "action": "Simplify to core facts."
   },
   {
     "title": "Circle of Competence",
     "author": "From: Poor Charlie’s Almanack",
     "content": "You don't have to be an expert on everything. You only need to know the perimeter of your own competence.",
-    "action": "Action: Define the one area where you are truly an expert."
+    "action": "Map your expertise."
   },
   {
     "title": "The Pareto Principle (80/20)",
     "author": "From: The 80/20 Principle",
     "content": "80% of your results come from 20% of your efforts. Identify that 20% and double down.",
-    "action": "Action: Identify the 20% of your work driving 80% of your value."
+    "action": "Double down on high-value work."
   },
   {
     "title": "Opportunity Cost",
     "author": "From: The Art of Thinking Clearly",
     "content": "Every choice is a trade-off. The cost of an action is the value of the next best alternative you didn't choose.",
-    "action": "Action: Identify what you are 'giving up' to pursue your current top goal."
+    "action": "Acknowledge the tradeoff."
   }
 ]
