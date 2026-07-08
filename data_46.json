@@ -3,30 +3,30 @@
     "title": "Emergent Behavior",
     "author": "From: Complex Adaptive Systems",
     "content": "The whole is more than the sum of its parts. You cannot design the outcome directly; you design the environment, and the outcome emerges.",
-    "action": "Action: Stop trying to force a specific outcome; instead, optimize the environment that makes that outcome possible."
+    "action": "Optimize the environment, not the outcome."
   },
   {
     "title": "The Law of Requisite Variety",
     "author": "From: W. Ross Ashby",
     "content": "To control a complex system, the controller must have at least as much variety in its actions as the system it is trying to control.",
-    "action": "Action: If your project is stuck, you are likely lacking enough 'variety' in your approach. Test one entirely new method today."
+    "action": "Apply a new method to unstick the project."
   },
   {
     "title": "Self-Organizing Criticality",
     "author": "From: Per Bak",
     "content": "Systems naturally build up to a point of instability, where a small event triggers a major cascade. This is how evolution and progress occur.",
-    "action": "Action: When you feel your current project is reaching a 'critical' point of tension, don't retreat—lean into the instability."
+    "action": "Lean into project instability."
   },
   {
     "title": "The Principle of Feedback Damping",
     "author": "From: Cybernetics",
     "content": "To stabilize a system that is oscillating wildly, you must increase damping. Stop the over-reaction; increase your stability first.",
-    "action": "Action: If your project feels chaotic, implement a 'cooling-off' phase where no new changes are introduced for 48 hours."
+    "action": "Implement a 48-hour cooling-off phase."
   },
   {
     "title": "State Space Mapping",
     "author": "From: Dynamical Systems",
     "content": "A system's behavior is dictated by its state. By mapping all possible states, you can predict the system's trajectory.",
-    "action": "Action: Spend 10 minutes mapping out every potential 'state' your current project could end up in."
+    "action": "Map all potential project states."
   }
 ]
