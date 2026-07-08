@@ -3,30 +3,30 @@
     "title": "The Eisenhower Matrix",
     "author": "From: The 7 Habits of Highly Effective People",
     "content": "Distinguish between the urgent and the important. Most people spend their lives reacting to the urgent, leaving no time for the important.",
-    "action": "Action: Move one task from 'urgent' to 'important' or delete it."
+    "action": "Prioritize importance over urgency."
   },
   {
     "title": "The Pareto Principle (80/20)",
     "author": "From: The 80/20 Principle",
     "content": "80% of your results come from 20% of your efforts. Identify that 20% and double down.",
-    "action": "Action: Identify the 20% of your work driving 80% of your value."
+    "action": "Focus on high-value 20%."
   },
   {
     "title": "Single-Tasking",
     "author": "From: The Productivity Project",
     "content": "Multitasking is a myth; you are simply switching tasks rapidly and paying a 'switching cost' in cognitive performance.",
-    "action": "Action: Set a timer for 60 minutes of single-tasking."
+    "action": "Single-task for 60 minutes."
   },
   {
     "title": "The 2-Minute Rule",
     "author": "From: Getting Things Done",
     "content": "If a task takes less than two minutes, do it immediately. Don't archive it, don't defer it.",
-    "action": "Action: Clear your inbox of all 'under 2-minute' tasks."
+    "action": "Do small tasks immediately."
   },
   {
     "title": "Energy Management",
     "author": "From: The Power of Full Engagement",
     "content": "Time is finite; energy is renewable. Manage your energy, not your time.",
-    "action": "Action: Schedule your most demanding task for your peak energy hour."
+    "action": "Align work with peak energy."
   }
 ]
