@@ -3,30 +3,30 @@
     "title": "The Wealth of Nations",
     "author": "Adam Smith",
     "content": "“It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.”",
-    "action": "Context: The recognition of self-interest as the primary engine for large-scale economic supply chains."
+    "action": "Leverage individual self-interest to drive your supply chains."
   },
   {
     "title": "On War",
     "author": "Carl von Clausewitz",
     "content": "“Everything in war is very simple, but the simplest thing is difficult.”",
-    "action": "Context: The delta between strategic planning and the execution of those plans in a high-entropy environment."
+    "action": "Account for the friction that makes simple execution difficult."
   },
   {
     "title": "The Interpretation of Dreams",
     "author": "Sigmund Freud",
     "content": "“The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind.”",
-    "action": "Context: The assertion that non-linear, irrational thought is a data stream reflecting the deeper state of the system."
+    "action": "Use irrational data streams to diagnose your system's underlying state."
   },
   {
     "title": "Social Contract",
     "author": "Jean-Jacques Rousseau",
     "content": "“Man is born free, and everywhere he is in chains.”",
-    "action": "Context: The foundational tension between innate human state and the requirements of collective infrastructure."
+    "action": "Balance your need for individual freedom against infrastructure requirements."
   },
   {
     "title": "Principia Mathematica",
     "author": "Isaac Newton",
     "content": "“If I have seen further it is by standing on the shoulders of Giants.”",
-    "action": "Context: The acknowledgment that complex progress is cumulative, relying on the stability of existing foundations."
+    "action": "Build your progress upon established, stable foundations."
   }
 ]
