@@ -3,30 +3,30 @@
     "title": "On the Architecture of Quiet",
     "author": "From: The Book of Tea by Kakuzo Okakura",
     "content": "The art of living lies in a constant readjustment to our surroundings. To find tranquility, one must embrace the 'emptiness'—the space between thoughts where true insight resides.",
-    "action": "Action: Practice 10 minutes of complete 'mindfulness' where you observe thoughts without reacting to them."
+    "action": "Practice 10 minutes of non-reactive observation."
   },
   {
     "title": "The Eisenhower Matrix (Refined)",
     "author": "From: Stephen Covey",
     "content": "Urgency is a reaction; importance is a choice. We must prioritize the 'Important-but-Not-Urgent' quadrant to ensure long-term growth.",
-    "action": "Action: Identify one project that hasn't moved in a month and commit to one hour on it."
+    "action": "Dedicate one hour to a stagnant project."
   },
   {
     "title": "The Pareto Principle (Applied)",
     "author": "From: Richard Koch",
     "content": "80% of value comes from 20% of effort. Effectiveness is not about doing more; it is about doing less of the wrong things.",
-    "action": "Action: Audit your weekly task list and cross out the bottom 20% by impact."
+    "action": "Eliminate the lowest 20% impact tasks."
   },
   {
     "title": "The Pre-Mortem",
     "author": "From: Daniel Kahneman",
     "content": "Imagine you are six months in the future and your project has failed. What caused it? Identifying the 'why' now allows for preventative systems.",
-    "action": "Action: Write down the most likely reason your current top priority could fail."
+    "action": "Document a failure scenario for top priorities."
   },
   {
     "title": "The Margin of Safety",
     "author": "From: Benjamin Graham",
     "content": "Efficiency is fragile; redundancy is robust. A plan without a buffer is not a plan, but a gamble.",
-    "action": "Action: Add a 20% time buffer to your next deliverable's deadline."
+    "action": "Include 20% buffer in deadlines."
   }
 ]
