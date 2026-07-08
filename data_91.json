@@ -3,30 +3,30 @@
     "title": "The fish rots from the head",
     "author": "Systemic Diagnosis",
     "content": "“A collapse of output or morale in a system is fundamentally a failure of the leadership/governance layer.”",
-    "action": "Record: When analyzing system failure, do not look at the bottom-level units; audit the decision-making at the top."
+    "action": "Audit top-level decision-making during system failure."
   },
   {
     "title": "Loose lips sink ships",
     "author": "Operational Security",
     "content": "“In high-stakes environments, the smallest uncontrolled information leak provides the enemy with the vector for destruction.”",
-    "action": "Record: Treat all internal data as classified. Asymmetry is maintained only through silence."
+    "action": "Maintain strict internal data security."
   },
   {
     "title": "No good deed goes unpunished",
     "author": "Game Theory / Incentives",
     "content": "“Actions that prioritize external benefit over self-interest often violate the incentive structure of the current system, resulting in immediate friction.”",
-    "action": "Record: Before acting, model the systemic incentives. If your action disrupts the equilibrium, prepare for immediate retaliation."
+    "action": "Model systemic incentives before disrupting equilibrium."
   },
   {
     "title": "The devil is in the details",
     "author": "Engineering Forensics",
     "content": "“Large-scale failure is rarely caused by the obvious architecture; it is triggered by overlooked, minor, or low-level technical specifics.”",
-    "action": "Record: Perform deep audits on the secondary and tertiary variables; high-level success masks low-level rot."
+    "action": "Perform deep audits on tertiary variables."
   },
   {
     "title": "Better the devil you know",
     "author": "Risk Management",
     "content": "“A known, hostile threat is strategically superior to an unknown variable because its behavior is predictable and actionable.”",
-    "action": "Record: Prioritize risk-predictability over risk-avoidance. Unknown variables are the primary source of system rupture."
+    "action": "Prioritize risk predictability over avoidance."
   }
 ]
