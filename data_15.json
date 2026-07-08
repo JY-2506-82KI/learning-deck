@@ -2,31 +2,31 @@
   {
     "title": "Stock and Flow",
     "author": "From: Thinking in Systems",
-    "content": "A stock is the level of something (e.g., your portfolio value); a flow is the rate of change (e.g., contributions or withdrawals). Focus on the flows to change the stocks.",
-    "action": "Action: Define the 'flow' that most influences your Roth growth."
+    "content": "A stock is the level of something; a flow is the rate of change. Focus on the flows to change the stocks.",
+    "action": "Calibrate contribution flows to maximize growth rates."
   },
   {
     "title": "Balancing vs. Reinforcing Loops",
     "author": "From: The Fifth Discipline",
-    "content": "Reinforcing loops create exponential growth (good or bad); balancing loops provide stability and limits. Understand which one governs your current system.",
-    "action": "Action: Identify the 'limit' in your current strategy—is it a balancing loop you need to break?"
+    "content": "Reinforcing loops create exponential growth; balancing loops provide stability and limits. Understand which one governs your current system.",
+    "action": "Distinguish between necessary stability and restrictive limits."
   },
   {
     "title": "Systemic Delay",
     "author": "From: The Fifth Discipline",
     "content": "In any complex system, there is a time lag between action and result. Do not confuse a lack of immediate result with a lack of progress.",
-    "action": "Action: Identify a 'long-game' strategy you are currently waiting on and reaffirm its logic."
+    "action": "Maintain conviction in long-term strategies despite feedback lag."
   },
   {
     "title": "Leverage Points",
     "author": "From: Thinking in Systems",
     "content": "Places within a complex system where a small shift in one thing can produce big changes in everything.",
-    "action": "Action: If you could change one 'input' to your portfolio, which has the highest leverage?"
+    "action": "Identify and exploit high-leverage input variables."
   },
   {
     "title": "The Boundary Constraint",
     "author": "From: Systems Thinking",
     "content": "A system is defined by its boundaries. When you feel stuck, it is usually because you are operating within a boundary you have the power to redefine.",
-    "action": "Action: Question one 'rule' you have set for your own decision-making process."
+    "action": "Audit and redefine self-imposed constraints on decision-making."
   }
 ]
