@@ -3,30 +3,30 @@
     "title": "On the Architecture of Entropy",
     "author": "From: The Second Law of Thermodynamics",
     "content": "Systems naturally trend toward disorder. Without the constant application of energy (effort/maintenance), your projects will naturally decay.",
-    "action": "Action: Perform a 'maintenance' audit—what part of your workflow is currently sliding into disorder?"
+    "action": "Audit workflow for decay."
   },
   {
     "title": "The Theory of Constraints",
     "author": "From: Eliyahu Goldratt",
     "content": "Every complex system has one bottleneck. Improving anything other than the bottleneck is an illusion of progress.",
-    "action": "Action: Find the single biggest delay in your current project and apply all your focus there."
+    "action": "Focus efforts on the primary bottleneck."
   },
   {
     "title": "The Availability Bias",
     "author": "From: Psychology",
     "content": "We judge importance by how recently we heard about something. Don't let the 'loudest' task be the 'most important' task.",
-    "action": "Action: Filter your to-do list: ignore all recent requests and focus only on the mission-critical items."
+    "action": "Ignore noise; prioritize mission-critical tasks."
   },
   {
     "title": "The Hindsight Bias",
     "author": "From: Daniel Kahneman",
     "content": "We believe past events were more predictable than they actually were. This gives us false confidence in our ability to predict the future.",
-    "action": "Action: Acknowledge that your next project's outcome is inherently uncertain and build a 'plan B'."
+    "action": "Prepare a Plan B for uncertainty."
   },
   {
     "title": "The Law of Diffusion of Innovation",
     "author": "From: Everett Rogers",
     "content": "Change happens in waves. Don't be frustrated if others don't 'get' your idea yet; wait for the system to catch up.",
-    "action": "Action: If you are hitting resistance on a new project idea, identify one 'early adopter' to test it with instead of trying to convince everyone."
+    "action": "Test ideas with an early adopter."
   }
 ]
