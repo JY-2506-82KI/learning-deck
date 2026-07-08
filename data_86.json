@@ -3,30 +3,30 @@
     "title": "The Wealth of Nations",
     "author": "Adam Smith",
     "content": "“The division of labour... is the great cause of the increase of public opulence.”",
-    "action": "Record: Quantifying the efficiency gains of specialization while noting the resulting dependency on the broader system."
+    "action": "Specialize for efficiency but guard against dependency."
   },
   {
     "title": "Small Is Beautiful",
     "author": "E.F. Schumacher",
     "content": "“Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius—and a lot of courage—to move in the opposite direction.”",
-    "action": "Record: The strategic value of reducing complexity to lower the risk of systemic failure."
+    "action": "Simplify systems to reduce failure risk."
   },
   {
     "title": "Skin in the Game",
     "author": "Nassim Nicholas Taleb",
     "content": "“You cannot make a decision for someone else if you do not bear the consequences.”",
-    "action": "Record: The absolute requirement for incentive alignment between decision-maker and the system impacted by those decisions."
+    "action": "Align incentives so decision-makers share consequences."
   },
   {
     "title": "The Theory of the Leisure Class",
     "author": "Thorstein Veblen",
     "content": "“Conspicuous consumption... serves as a signal of high-level system capability.”",
-    "action": "Record: Identifying performative metrics as proxies for status or power within a hierarchy."
+    "action": "Distinguish substance from performance."
   },
   {
     "title": "Basic Economics",
     "author": "Thomas Sowell",
     "content": "“There are no solutions, only trade-offs.”",
-    "action": "Record: Removing moral preference from analysis and focusing solely on the net cost-benefit outcome of every action."
+    "action": "Ignore sentiment; analyze net outcomes."
   }
 ]
