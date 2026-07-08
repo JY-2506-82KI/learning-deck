@@ -3,30 +3,30 @@
     "title": "The Flywheel Effect",
     "author": "From: Good to Great",
     "content": "Sustainable success comes from the accumulation of small wins that eventually create unstoppable momentum.",
-    "action": "Action: Identify one 'small win' that contributes to your long-term goal."
+    "action": "Identify one small win for your long-term goal."
   },
   {
     "title": "Conway’s Law",
     "author": "From: The Mythical Man-Month",
     "content": "Organizations design systems that mirror their own communication structures. To change your output, you must change your team's communication.",
-    "action": "Action: Audit your communication channels for bottlenecks."
+    "action": "Audit your communication channels for bottlenecks."
   },
   {
     "title": "Pre-Mortem Analysis",
     "author": "From: Thinking in Bets",
     "content": "Before starting a project, assume it has failed. Ask yourself: 'What went wrong?' This uncovers hidden risks.",
-    "action": "Action: Run a pre-mortem on your next major task."
+    "action": "Perform a pre-mortem on your next major task."
   },
   {
     "title": "Single-Tasking",
     "author": "From: The Productivity Project",
     "content": "Multitasking is a myth; you are simply switching tasks rapidly and paying a 'switching cost' in cognitive performance.",
-    "action": "Action: Set a timer for 60 minutes of single-tasking."
+    "action": "Complete 60 minutes of uninterrupted single-tasking."
   },
   {
     "title": "Accountability Partners",
     "author": "From: The 4-Hour Workweek",
     "content": "External commitment to a peer dramatically increases the likelihood of follow-through compared to internal willpower alone.",
-    "action": "Action: Commit to a progress report deadline with a peer."
+    "action": "Set a progress report deadline with a peer."
   }
 ]
