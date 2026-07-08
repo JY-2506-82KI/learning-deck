@@ -3,30 +3,30 @@
     "title": "The Code Book",
     "author": "Simon Singh",
     "content": "“The history of human interaction is a constant battle between those who want to keep information secret and those who want to expose it.”",
-    "action": "Record: Security is not a state, but an ongoing, high-stakes arms race; assume any secret is eventually discoverable."
+    "action": "Assume all secrets are temporary; design accordingly."
   },
   {
     "title": "Shannon's Information Theory",
     "author": "Claude Shannon",
     "content": "“The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point.”",
-    "action": "Record: Reduce all operational data to its simplest signal to prevent noise from corrupting the message."
+    "action": "Simplify signals to eliminate corruption."
   },
   {
     "title": "The RSA Algorithm",
     "author": "Rivest, Shamir, & Adleman",
     "content": "“Public-key cryptography enables secure communication without the need for a pre-shared secret key.”",
-    "action": "Record: Leverage asymmetric structures to operate safely in untrusted environments; decouple identity from trust."
+    "action": "Use asymmetric structures in untrusted environments."
   },
   {
     "title": "The Bitcoin Whitepaper",
     "author": "Satoshi Nakamoto",
     "content": "“A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.”",
-    "action": "Record: Trust is a vulnerability; build systems that rely on cryptographic verification rather than centralized gatekeepers."
+    "action": "Replace centralized trust with verifiable protocols."
   },
   {
     "title": "Gödel's Incompleteness Theorems",
     "author": "Kurt Gödel",
     "content": "“In any consistent formal system, there are statements that cannot be proven or disproven within that system.”",
-    "action": "Record: Acknowledge that all logical systems have an inherent limit; do not rely on a single framework for absolute truth."
+    "action": "Diversify frameworks; reject singular absolute truth."
   }
 ]
