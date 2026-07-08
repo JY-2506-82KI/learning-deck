@@ -3,30 +3,30 @@
     "title": "The 10-10-10 Framework",
     "author": "From: How to Decide",
     "content": "Evaluate a decision by how you will feel about it in 10 minutes, 10 months, and 10 years.",
-    "action": "Action: Apply the 10-10-10 lens to a current unresolved decision."
+    "action": "Use the 10-10-10 lens."
   },
   {
     "title": "Pre-Mortem Analysis",
     "author": "From: Thinking in Bets",
     "content": "Imagine a project has failed in the future. Working backward to determine the cause reveals hidden vulnerabilities.",
-    "action": "Action: List three potential failure points for a project before execution begins."
+    "action": "Find failure points first."
   },
   {
     "title": "The Sunk Cost Fallacy",
     "author": "From: The Art of Thinking Clearly",
     "content": "Past investments of time or money should not influence current decisions; only future potential matters.",
-    "action": "Action: Identify an ongoing activity you would stop today if you were starting from scratch."
+    "action": "Ignore past investments."
   },
   {
     "title": "The Wisdom of Crowds",
     "author": "From: The Wisdom of Crowds",
     "content": "Aggregating diverse, independent opinions often yields more accurate results than relying on a single 'expert' opinion.",
-    "action": "Action: Seek perspectives from two people with different backgrounds on a critical issue."
+    "action": "Get diverse perspectives."
   },
   {
     "title": "Opportunity Costs",
     "author": "From: Basic Economics",
     "content": "The cost of any choice is the value of the best alternative you have to forgo to pursue it.",
-    "action": "Action: List the most valuable alternative you are setting aside for your current primary objective."
+    "action": "Identify what you forfeit."
   }
 ]
