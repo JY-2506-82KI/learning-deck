@@ -3,30 +3,30 @@
     "title": "1777: The Saratoga Campaign",
     "author": "Historical Fact",
     "content": "The British Army was forced to surrender after its supply lines from Canada were severed and it was caught in a geographic trap in the Hudson River valley. It was the first time an entire British field army was captured.",
-    "action": "Record: The dependence of a modern, professional force on continuous, vulnerable supply lines."
+    "action": "Audit your project's dependence on vulnerable supply lines."
   },
   {
     "title": "1864: Sherman’s March to the Sea",
     "author": "Historical Fact",
     "content": "General Sherman abandoned his own supply lines entirely, forcing his army to 'live off the land.' He successfully moved 62,000 men across 285 miles of hostile territory with no central logistics train.",
-    "action": "Record: The viability of extreme operational independence when logistics are decoupled from a central base."
+    "action": "Test your project's resilience by decoupling it from central support."
   },
   {
     "title": "1918: The Meuse-Argonne Offensive",
     "author": "Historical Fact",
     "content": "The largest and deadliest operation in U.S. military history. 1.2 million American soldiers were deployed, requiring the movement of 28,000 tons of ammunition daily. It brought the U.S. industrial machine directly to the front line.",
-    "action": "Record: The transition point where industrial throughput capacity became the primary determinant of battlefield success."
+    "action": "Increase your industrial throughput to meet peak demand."
   },
   {
     "title": "1942: The Battle of Midway (Station HYPO)",
     "author": "Historical Fact",
     "content": "U.S. Navy codebreakers identified the target (Midway) by analyzing the frequency of traffic patterns and deciphering the Japanese 'AF' code. This allowed the U.S. to position its limited assets at the exact point of enemy convergence.",
-    "action": "Record: The force-multiplier effect of superior information regarding the timing and location of an opponent's intent."
+    "action": "Use intelligence to predict and intercept opposition intent."
   },
   {
     "title": "1950: The Inchon Landing (Operation Chromite)",
     "author": "Historical Fact",
     "content": "General MacArthur conducted an amphibious landing at Inchon despite extreme tidal ranges (up to 30 feet) and narrow approach channels. The success relied on an incredibly tight 3-hour window of high tide for the landing craft.",
-    "action": "Record: The necessity of precise, high-stakes operational timing when working against extreme environmental constraints."
+    "action": "Align your high-stakes actions with critical timing windows."
   }
 ]
