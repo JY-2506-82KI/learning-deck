@@ -3,30 +3,30 @@
     "title": "On War",
     "author": "Carl von Clausewitz",
     "content": "“Everything in war is very simple, but the simplest thing is difficult. The difficulties accumulate and end by producing a kind of friction.”",
-    "action": "Record: Systems are inherently prone to decay and resistance; expect 'friction' in every operation and build in buffers to compensate."
+    "action": "Expect operational friction; build buffers to compensate."
   },
   {
     "title": "The Infinite Game",
     "author": "Simon Sinek",
     "content": "“In a finite game, there are known players, fixed rules, and an agreed-upon objective. In an infinite game, players come and go, and the rules are changeable.”",
-    "action": "Record: Classify every system you engage with—if the goal is survival and longevity, stop playing like the end is in sight."
+    "action": "Differentiate between finite tactics and infinite longevity."
   },
   {
     "title": "Thinking, Fast and Slow",
     "author": "Daniel Kahneman",
     "content": "“A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.”",
-    "action": "Record: Understand the cognitive biases of your stakeholders; control the narrative loop to influence perception, as perception becomes the operational reality."
+    "action": "Control narrative loops to align perception with operational reality."
   },
   {
     "title": "The Black Swan",
     "author": "Nassim Nicholas Taleb",
     "content": "“It is not about the visible but the hidden; we are not prepared for the unknown, we are only prepared for the expected.”",
-    "action": "Record: Build 'antifragile' systems that benefit from volatility rather than just trying to predict and avoid it."
+    "action": "Design systems to be antifragile; leverage volatility."
   },
   {
     "title": "Meditations",
     "author": "Marcus Aurelius",
     "content": "“The happiness of your life depends upon the quality of your thoughts: therefore, guard accordingly.”",
-    "action": "Record: The internal system (the mind) is the final defensive line; if the internal environment is compromised, all external power is effectively nullified."
+    "action": "Maintain internal environmental integrity to protect external power."
   }
 ]
