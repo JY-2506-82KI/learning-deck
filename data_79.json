@@ -3,30 +3,30 @@
     "title": "Normal Accidents",
     "author": "Charles Perrow",
     "content": "“Complex, tightly-coupled systems are prone to inevitable, unpredictable failure.”",
-    "action": "Record: System failure is not a bug; it is a feature of high-complexity environments."
+    "action": "Accept that failure is an inherent feature of your high-complexity environments."
   },
   {
     "title": "The Challenger Launch Decision",
     "author": "Diane Vaughan",
     "content": "“The normalization of deviance occurs when minor failures are accepted as routine until they lead to catastrophe.”",
-    "action": "Record: Monitor the 'drift' from safety standards; don't wait for a hard failure."
+    "action": "Identify and arrest the 'drift' from safety standards before catastrophe occurs."
   },
   {
     "title": "To Engineer is Human",
     "author": "Henry Petroski",
     "content": "“Success is the worst teacher; failure provides the forensic data necessary for true innovation.”",
-    "action": "Record: Analyze the rupture points to understand the limits of the design."
+    "action": "Examine your system's rupture points to define its design limits."
   },
   {
     "title": "Chernobyl: The History",
     "author": "Serhii Plokhy",
     "content": "“The disaster was a result of a design flaw covered up by a culture of absolute institutional secrecy.”",
-    "action": "Record: Institutional secrecy is the primary accelerator of localized disaster into global catastrophe."
+    "action": "Eliminate institutional secrecy to prevent localized failures from scaling."
   },
   {
     "title": "Too Big to Fail",
     "author": "Andrew Ross Sorkin",
     "content": "“The systemic risk of the 2008 collapse lay in the interconnectedness of institutions that were all betting on the same flawed model.”",
-    "action": "Record: Diversify the models; if the whole system relies on one assumption, it is already bankrupt."
+    "action": "Diversify your underlying assumptions to avoid systemic bankruptcy."
   }
 ]
