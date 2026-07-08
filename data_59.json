@@ -3,30 +3,30 @@
     "title": "1932: The Buffalo River Flood Control Debates",
     "author": "Historical Fact",
     "content": "Early 20th-century engineers proposed several large dams on Ozark rivers. The eventual rejection of these dams in favor of preservation saved the free-flowing nature of the Buffalo River.",
-    "action": "Action: Before you 'dam' a river (automate/force a process), ask if the 'wild' flow provides more value than the controlled output."
+    "action": "Determine if your current workflow benefits more from 'wild' exploration than 'controlled' automation."
   },
   {
     "title": "1811: The New Madrid Earthquakes",
     "author": "Historical Fact",
     "content": "A series of massive seismic events caused the Mississippi River to flow backward and created Reelfoot Lake. It remains one of the largest intraplate seismic events in history.",
-    "action": "Action: Identify the 'tectonic' risks in your project—the rare, high-impact events you haven't planned for. Even if they are unlikely, acknowledge them."
+    "action": "Create a contingency plan for rare, high-impact 'tectonic' project risks."
   },
   {
     "title": "1940: The Creation of the Ozark National Scenic Riverways",
     "author": "Historical Fact",
     "content": "The establishment of the ONSR was the first time a national park system protected a 'river' rather than a landmark, preserving the Current and Jacks Fork rivers in their native state.",
-    "action": "Action: Protect the 'process' (the river) more than the 'product' (the landmark). If the process is healthy, the products will follow."
+    "action": "Prioritize the health of your project's processes over individual product outputs."
   },
   {
     "title": "1840: The Natchitoches Trace",
     "author": "Historical Fact",
     "content": "A major pre-existing trade route used by Native Americans, then French traders, and finally American settlers. It defined the early geography of human movement through the Ozark hills.",
-    "action": "Action: Use the 'paths of least resistance' that your predecessors have already carved out (existing libraries, templates, standard APIs)."
+    "action": "Utilize existing, proven standards and templates rather than reinventing paths."
   },
   {
     "title": "1950: The Rise of the Poultry Industry",
     "author": "Historical Fact",
     "content": "Corporate leaders like Tyson Foods and Walmart shifted the regional economy from self-subsistence farming to high-intensity industrial processing, permanently altering the labor market.",
-    "action": "Action: If your project is about to go from 'hobby' to 'industrial', have you prepared for the change in scale and pressure?"
+    "action": "Prepare your infrastructure for a transition from hobbyist scale to industrial volume."
   }
 ]
