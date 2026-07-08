@@ -3,30 +3,30 @@
     "title": "Environmental Design",
     "author": "From: Atomic Habits",
     "content": "You do not rise to the level of your goals; you fall to the level of your systems. Design your environment to make good habits the path of least resistance.",
-    "action": "Action: Physically reorganize your workspace to support your top priority."
+    "action": "Reorganize physical workspace to prioritize primary objectives."
   },
   {
     "title": "Decision Hygiene",
     "author": "From: How to Decide",
     "content": "Good decisions require good data. Before making a choice, identify what data you are missing that would change your mind.",
-    "action": "Action: List one piece of information that would cause you to reverse your current decision."
+    "action": "Define the specific data threshold that would trigger a decision reversal."
   },
   {
     "title": "The Planning Fallacy",
     "author": "From: Thinking, Fast and Slow",
     "content": "We consistently underestimate how long tasks will take. Always add a 50% buffer to your best-case estimate.",
-    "action": "Action: Multiply your estimated completion time for your next task by 1.5."
+    "action": "Apply a 1.5x multiplier to all upcoming project time estimates."
   },
   {
     "title": "Negative Space",
     "author": "From: The Design of Everyday Things",
     "content": "What you *don't* do is just as important as what you do. Create space for reflection by saying 'no' to non-essential inputs.",
-    "action": "Action: Identify one recurring meeting or commitment to cancel."
+    "action": "Eliminate one redundant commitment to preserve cognitive bandwidth."
   },
   {
     "title": "Cognitive Load Management",
     "author": "From: Deep Work",
     "content": "Your brain has a limited budget for deep thought. Protect this budget by ruthlessly eliminating shallow, reactive work.",
-    "action": "Action: Designate the first two hours of your day as 'No-Email' zones."
+    "action": "Enforce a 'No-Email' block during the first two hours of the workday."
   }
 ]
