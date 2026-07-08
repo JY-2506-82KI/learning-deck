@@ -3,30 +3,30 @@
     "title": "The Principle of Modular Independence",
     "author": "From: Software Architecture",
     "content": "A system is only as resilient as its weakest coupling. When one component fails, it should not cascade into the rest. Decouple your tasks to protect your progress.",
-    "action": "Action: Isolate your current project’s most unstable element; create a 'buffer' so that its failure doesn't halt the entire system."
+    "action": "Create a buffer for unstable elements."
   },
   {
     "title": "The Design for Disassembly",
     "author": "From: Industrial Engineering",
     "content": "Products should be as easy to take apart as they are to build. If your processes are locked in, you cannot iterate. Maintain the ability to pivot.",
-    "action": "Action: Review a recurring process; could you redesign it to be more modular so you can replace parts of it later?"
+    "action": "Redesign processes for modularity."
   },
   {
     "title": "The Throughput Limitation",
     "author": "From: Queueing Theory",
     "content": "The speed of a system is defined by its bottleneck. Adding resources anywhere else is merely creating 'work in progress' inventory, not finished results.",
-    "action": "Action: Stop adding 'new' features to your current project and spend the entire session clearing the primary bottleneck."
+    "action": "Focus exclusively on clearing the bottleneck."
   },
   {
     "title": "The Orthogonality Principle",
     "author": "From: Systems Design",
     "content": "Changes in one area should not require changes in another. Orthogonal design ensures that your systems are independent and maintainable.",
-    "action": "Action: Check your workflow—does changing a 'data source' force you to re-do your entire 'formatting' process? Separate them."
+    "action": "Separate data sources from formatting."
   },
   {
     "title": "The Feedback Lag",
     "author": "From: Control Theory",
     "content": "The time between an action and its result is a critical variable. When the lag is long, we tend to over-correct. Patience is the antidote to volatility.",
-    "action": "Action: Identify a long-lag process; document the current input and commit to waiting for the result before making further changes."
+    "action": "Wait for results before further changes."
   }
 ]
