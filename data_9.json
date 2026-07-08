@@ -3,30 +3,30 @@
     "title": "Loss Aversion",
     "author": "From: Thinking, Fast and Slow",
     "content": "The pain of losing is psychologically about twice as powerful as the joy of gaining. This leads to irrational risk-avoidance.",
-    "action": "Action: List one 'safe' decision you are making only to avoid loss, and re-evaluate it."
+    "action": "Identify and re-evaluate 'safe' decisions driven by loss aversion."
   },
   {
     "title": "The Anchoring Effect",
     "author": "From: Predictably Irrational",
     "content": "Your first piece of information sets the 'anchor' for all subsequent judgments. Be wary of the first number you see in a negotiation.",
-    "action": "Action: When researching a price or timeline, gather three sources before settling on a mental anchor."
+    "action": "Gather multiple data points to avoid setting premature mental anchors."
   },
   {
     "title": "Confirmation Bias",
     "author": "From: The Art of Thinking Clearly",
     "content": "You subconsciously filter out information that contradicts your existing beliefs. The antidote is seeking disconfirming evidence.",
-    "action": "Action: Actively look for one argument that proves your current main project hypothesis wrong."
+    "action": "Actively hunt for data that contradicts your current project hypothesis."
   },
   {
     "title": "The Availability Heuristic",
     "author": "From: Thinking, Fast and Slow",
     "content": "We judge the probability of an event by how easily examples come to mind. This is why we fear rare events and ignore common ones.",
-    "action": "Action: Differentiate between a 'memorable' risk and a 'probable' risk in your workflow."
+    "action": "Distinguish between memorable risks and statistically probable ones."
   },
   {
     "title": "Choice Architecture",
     "author": "From: Nudge",
     "content": "The way choices are presented significantly impacts the decision made. Design your environment to make good choices easier.",
-    "action": "Action: Simplify your environment to reduce 'decision fatigue' during your workday."
+    "action": "Modify your environment to minimize daily decision fatigue."
   }
 ]
