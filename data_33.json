@@ -3,30 +3,30 @@
     "title": "On the Architecture of Lies",
     "author": "From: Mark Twain",
     "content": "A lie can travel halfway around the world while the truth is putting on its shoes. In a project, slow-moving truth is more valuable than fast-moving rumors.",
-    "action": "Action: Today, prioritize 'brutal transparency' in a status report, even if the facts are inconvenient."
+    "action": "Prioritize brutal transparency."
   },
   {
     "title": "The Stockdale Paradox",
     "author": "From: Jim Collins (Good to Great)",
     "content": "You must maintain unwavering faith that you will prevail in the end, regardless of the difficulties, AND at the same time have the discipline to confront the most brutal facts of your current reality.",
-    "action": "Action: Write down the 'brutal fact' currently threatening your project and a counter-strategy for it."
+    "action": "Confront facts with a strategy."
   },
   {
     "title": "The Map-Territory Relation",
     "author": "From: Alfred Korzybski",
     "content": "The map is not the territory. Your project plan is just a representation; it is not the actual work. Do not fall in love with the documentation.",
-    "action": "Action: Spend 15 minutes engaging with the actual 'work' (the code, the soil, the logs) rather than managing the plan."
+    "action": "Engage with real work."
   },
   {
     "title": "The Zeigarnik Effect",
     "author": "From: Bluma Zeigarnik",
     "content": "Our brains remember uncompleted tasks better than completed ones. This creates a 'tension' that drains energy until the task is closed.",
-    "action": "Action: Identify one 'open loop' that is nagging at you and either finish it or formally schedule it for a later date."
+    "action": "Close open loops."
   },
   {
     "title": "The Halo Effect",
     "author": "From: Edward Thorndike",
     "content": "If you like one trait of a person or project, you assume all their other traits are good. This blinds you to specific flaws.",
-    "action": "Action: Pick one project you love and perform a 'stress test' to find its single weakest component."
+    "action": "Stress-test your favorite project."
   }
 ]
