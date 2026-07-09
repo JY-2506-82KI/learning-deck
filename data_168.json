@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Birds silent in the woods",
+    "observation": "A sudden, eerie lack of bird song in an area where they are usually active.",
+    "effect": "A predator is likely nearby, causing the local wildlife to freeze."
+  },
+  {
+    "title": "Sunsets with a green flash",
+    "observation": "A brief glimpse of green light right as the sun dips below the horizon.",
+    "effect": "Extremely clear, dust-free atmospheric conditions are present."
+  },
+  {
+    "title": "High-altitude cloud movement",
+    "observation": "Wispy clouds moving in a direction different from surface winds.",
+    "effect": "A significant change in air pressure or weather patterns is shifting."
+  },
+  {
+    "title": "Bees avoiding flowers",
+    "observation": "Bees staying inside the hive or clustered around the entrance instead of foraging.",
+    "effect": "The bees sense an upcoming sharp drop in temperature or major storm."
+  },
+  {
+    "title": "Crickets chirping speed",
+    "observation": "The frequency of cricket chirps increases as the ambient temperature rises.",
+    "effect": "You can estimate the air temperature by counting chirps per minute."
+  }
+]
