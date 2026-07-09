@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Earthquakes Lights",
+    "observation": "Flashes of light or glowing orbs appearing in the sky or near the ground before or during seismic activity.",
+    "effect": "Stress on crystal-rich rocks generates intense electrical charges through the piezoelectric effect."
+  },
+  {
+    "title": "Singing Sands",
+    "observation": "Dunes or beaches producing a loud, low-frequency humming or booming sound when walked upon.",
+    "effect": "Specific grain size and friction between sand particles create resonant acoustic vibrations."
+  },
+  {
+    "title": "Moonbows",
+    "observation": "A faint, colorless, or white rainbow appearing in the sky at night under strong moonlight.",
+    "effect": "Refraction of moonlight through water droplets, similar to a rainbow but with much lower light intensity."
+  },
+  {
+    "title": "Sun Pillars",
+    "observation": "A vertical shaft of light extending upward from the sun during sunrise or sunset.",
+    "effect": "Sunlight reflects off the surfaces of millions of horizontally oriented ice crystals suspended in the atmosphere."
+  },
+  {
+    "title": "Pingo Growth",
+    "observation": "The sudden formation of a large ice-cored mound in permafrost regions, sometimes leading to a loud explosion.",
+    "effect": "Subsurface water trapped under pressure expands as it freezes, forcing the ground upward."
+  }
+]
