@@ -1,27 +1,27 @@
 [
   {
-    "title": "Leaves turning inside out",
-    "observation": "Trees showing the silvery underside of their leaves.",
-    "effect": "An approaching storm or high winds are likely."
+    "title": "Persistent morning fog",
+    "observation": "Heavy mist that lingers well past sunrise in a valley.",
+    "effect": "A calm, clear, and sunny day is typically set to follow."
   },
   {
-    "title": "Low-flying swallows",
-    "observation": "Swallows and other birds flying very close to the ground.",
-    "effect": "Insects are driven down by atmospheric pressure, signaling rain."
+    "title": "Spiderwebs in the grass",
+    "observation": "Dew-covered webs appearing thick and widespread across a field in the early morning.",
+    "effect": "The air is stable and humidity is high, favoring dry, pleasant conditions."
   },
   {
-    "title": "Red sky at night",
-    "observation": "The sunset turns the western horizon a deep, vibrant red.",
-    "effect": "Clear, stable weather is moving in from the west."
+    "title": "Pine cones closing tight",
+    "observation": "Pine cones on the ground or tree limbs tightly sealing their scales.",
+    "effect": "The surrounding air moisture is increasing, often ahead of a weather change."
   },
   {
-    "title": "Cows lying down",
-    "observation": "An entire herd of cattle decides to lie down in the pasture.",
-    "effect": "A change in weather, typically precipitation, is imminent."
+    "title": "Tree frogs calling",
+    "observation": "An unusually loud and collective chorus of tree frogs during the day.",
+    "effect": "They are reacting to rising humidity levels, indicating damp weather is approaching."
   },
   {
-    "title": "Increased fragrance of flowers",
-    "observation": "Gardens and woods smell much stronger than usual.",
-    "effect": "High humidity is intensifying the scent, often preceding rain."
+    "title": "Smoke rising straight",
+    "observation": "Smoke from a chimney or campfire rising in a thin, vertical column without dispersing.",
+    "effect": "High-pressure air is present, suggesting settled and fair weather."
   }
 ]
