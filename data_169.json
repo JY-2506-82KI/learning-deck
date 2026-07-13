@@ -1,27 +1,32 @@
 [
   {
     "title": "Halo around the moon",
-    "observation": "A large, faint ring of light circling the moon at night.",
-    "effect": "High-altitude ice crystals are present, signaling a change in air mass."
+    "author": "Atmospheric Optics",
+    "content": "A large, faint ring of light circling the moon at night.",
+    "action": "High-altitude ice crystals are present, signaling a change in air mass."
   },
   {
     "title": "Ants moving their eggs",
-    "observation": "Ants frantically transporting their eggs to higher ground.",
-    "effect": "The colony senses an upcoming flood or prolonged saturated soil conditions."
+    "author": "Entomological Indicator",
+    "content": "Ants frantically transporting their eggs to higher ground.",
+    "action": "The colony senses an upcoming flood or prolonged saturated soil conditions."
   },
   {
     "title": "Sun dogs appearing",
-    "observation": "Bright spots of light appearing on either side of the sun.",
-    "effect": "Light is refracting through suspended ice crystals, often predicting a weather shift."
+    "author": "Atmospheric Optics",
+    "content": "Bright spots of light appearing on either side of the sun.",
+    "action": "Light is refracting through suspended ice crystals, often predicting a weather shift."
   },
   {
     "title": "Fish jumping at the surface",
-    "observation": "Fish repeatedly breaking the water's surface in still conditions.",
-    "effect": "Changing barometric pressure is affecting the oxygen levels in the water."
+    "author": "Biological Indicator",
+    "content": "Fish repeatedly breaking the water's surface in still conditions.",
+    "action": "Changing barometric pressure is affecting the oxygen levels in the water."
   },
   {
     "title": "Sharp, clear mountain views",
-    "observation": "Distances seem shorter and horizons appear exceptionally crisp.",
-    "effect": "The air has very low moisture and particulate content, usually preceding cold air."
+    "author": "Meteorological Observation",
+    "content": "Distances seem shorter and horizons appear exceptionally crisp.",
+    "action": "The air has very low moisture and particulate content, usually preceding cold air."
   }
 ]
