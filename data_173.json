@@ -1,27 +1,32 @@
 [
   {
     "title": "Wombat Excrement",
-    "fact": "Wombats are the only known animal in the world that produces cube-shaped feces, which helps prevent the droppings from rolling away when they mark their territory on rocks and logs.",
-    "context": "Their intestines have varying elastic properties that mold the shape."
+    "author": "Biological Observation",
+    "content": "Wombats are the only known animal in the world that produces cube-shaped feces, which helps prevent the droppings from rolling away when they mark their territory on rocks and logs.",
+    "action": "Their intestines have varying elastic properties that mold the shape."
   },
   {
     "title": "The Eiffel Tower's Growth",
-    "fact": "The Eiffel Tower can grow up to 15 centimeters taller during the summer due to thermal expansion, as the iron structure heats up and expands in the sun.",
-    "context": "Iron reacts to temperature changes by increasing its volume."
+    "author": "Structural Physics",
+    "content": "The Eiffel Tower can grow up to 15 centimeters taller during the summer due to thermal expansion, as the iron structure heats up and expands in the sun.",
+    "action": "Iron reacts to temperature changes by increasing its volume."
   },
   {
     "title": "Cloud Weight",
-    "fact": "A typical cumulus cloud—those fluffy, white ones seen on a sunny day—can weigh about 1.1 million pounds, which is roughly equivalent to the weight of 100 elephants.",
-    "context": "Water droplets are spread over a massive cubic volume."
+    "author": "Meteorological Data",
+    "content": "A typical cumulus cloud—those fluffy, white ones seen on a sunny day—can weigh about 1.1 million pounds, which is roughly equivalent to the weight of 100 elephants.",
+    "action": "Water droplets are spread over a massive cubic volume."
   },
   {
     "title": "Sloth Digestion",
-    "fact": "Sloths have one of the slowest digestive systems in the animal kingdom, often taking up to 30 days to fully digest a single leaf, which contributes to their low energy lifestyle.",
-    "context": "Their metabolic rate is extremely low to conserve energy."
+    "author": "Metabolic Biology",
+    "content": "Sloths have one of the slowest digestive systems in the animal kingdom, often taking up to 30 days to fully digest a single leaf, which contributes to their low energy lifestyle.",
+    "action": "Their metabolic rate is extremely low to conserve energy."
   },
   {
     "title": "Neptune's Winds",
-    "fact": "Neptune experiences the fastest planetary winds in the solar system, with speeds reaching over 1,200 miles per hour, making the surface conditions incredibly volatile and supersonic.",
-    "context": "Internal heat and low friction drive these massive storms."
+    "author": "Planetary Science",
+    "content": "Neptune experiences the fastest planetary winds in the solar system, with speeds reaching over 1,200 miles per hour, making the surface conditions incredibly volatile and supersonic.",
+    "action": "Internal heat and low friction drive these massive storms."
   }
 ]
