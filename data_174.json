@@ -1,27 +1,32 @@
 [
   {
     "title": "The Immortal Jellyfish",
-    "fact": "The Turritopsis dohrnii jellyfish is biologically immortal because it can transform its adult cells back into their earliest polyp stage, effectively restarting its life cycle indefinitely.",
-    "context": "This process, known as transdifferentiation, happens in response to physical damage or starvation."
+    "author": "Marine Biology",
+    "content": "The Turritopsis dohrnii jellyfish is biologically immortal because it can transform its adult cells back into their earliest polyp stage, effectively restarting its life cycle indefinitely.",
+    "action": "This process, known as transdifferentiation, happens in response to physical damage or starvation."
   },
   {
     "title": "Blue Whale Hearts",
-    "fact": "A blue whale's heart is so massive that it is roughly the size of a bumper car, and its primary artery is wide enough for a human to swim through, though it would be a tight squeeze.",
-    "context": "Their massive body size requires an incredibly powerful cardiovascular system."
+    "author": "Cardiovascular Physiology",
+    "content": "A blue whale's heart is so massive that it is roughly the size of a bumper car, and its primary artery is wide enough for a human to swim through, though it would be a tight squeeze.",
+    "action": "Their massive body size requires an incredibly powerful cardiovascular system."
   },
   {
     "title": "Rain on Other Planets",
-    "fact": "On Saturn and Jupiter, the intense atmospheric pressure can turn carbon into diamonds, effectively causing it to 'rain' diamonds deep within their interiors.",
-    "context": "Carbon is compressed by extreme heat and crushing gravity."
+    "author": "Planetary Science",
+    "content": "On Saturn and Jupiter, the intense atmospheric pressure can turn carbon into diamonds, effectively causing it to 'rain' diamonds deep within their interiors.",
+    "action": "Carbon is compressed by extreme heat and crushing gravity."
   },
   {
     "title": "The Longevity of Lobsters",
-    "fact": "Lobsters do not biologically age in the way humans do because they produce an enzyme called telomerase that constantly repairs their DNA, allowing them to potentially live for over a century.",
-    "context": "They only die from exhaustion during molting, predation, or disease."
+    "author": "Genetic Biology",
+    "content": "Lobsters do not biologically age in the way humans do because they produce an enzyme called telomerase that constantly repairs their DNA, allowing them to potentially live for over a century.",
+    "action": "They only die from exhaustion during molting, predation, or disease."
   },
   {
     "title": "Cleopatra’s Timeline",
-    "fact": "Cleopatra lived closer in time to the Moon landing than she did to the construction of the Great Pyramid of Giza.",
-    "context": "The Giza pyramids were finished around 2560 BCE, while Cleopatra died in 30 BCE."
+    "author": "Historical Chronology",
+    "content": "Cleopatra lived closer in time to the Moon landing than she did to the construction of the Great Pyramid of Giza.",
+    "action": "The Giza pyramids were finished around 2560 BCE, while Cleopatra died in 30 BCE."
   }
 ]
