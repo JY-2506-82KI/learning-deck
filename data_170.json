@@ -1,27 +1,32 @@
 [
   {
     "title": "St. Elmo's Fire",
-    "observation": "A glowing, blue or violet plasma discharge appearing on pointed objects during thunderstorms.",
-    "effect": "Strong electrical fields are present, indicating a high risk of lightning strikes nearby."
+    "author": "Atmospheric Electrical Physics",
+    "content": "A glowing, blue or violet plasma discharge appearing on pointed objects during thunderstorms.",
+    "action": "Strong electrical fields are present, indicating a high risk of lightning strikes nearby."
   },
   {
     "title": "Ball Lightning",
-    "observation": "A spherical, luminous object that drifts through the air, often during or after a storm.",
-    "effect": "A rare electrical phenomenon that indicates intense, localized atmospheric energy discharge."
+    "author": "Rare Atmospheric Phenomenon",
+    "content": "A spherical, luminous object that drifts through the air, often during or after a storm.",
+    "action": "Indicates intense, localized atmospheric energy discharge."
   },
   {
     "title": "Brocken Spectre",
-    "observation": "A giant, magnified shadow of an observer cast upon clouds or mist, surrounded by a rainbow halo.",
-    "effect": "Low sun angle and specific cloud/fog density are interacting with the observer's silhouette."
+    "author": "Optical Physics",
+    "content": "A giant, magnified shadow of an observer cast upon clouds or mist, surrounded by a rainbow halo.",
+    "action": "Low sun angle and specific cloud/fog density are interacting with the observer's silhouette."
   },
   {
     "title": "Bioluminescence",
-    "observation": "Waves or footprints glowing with a bright neon-blue light at night.",
-    "effect": "A bloom of dinoflagellates is reacting to physical agitation in the water."
+    "author": "Marine Biology",
+    "content": "Waves or footprints glowing with a bright neon-blue light at night.",
+    "action": "A bloom of dinoflagellates is reacting to physical agitation in the water."
   },
   {
     "title": "Fata Morgana",
-    "observation": "Objects on the horizon, like ships or islands, appear distorted, stacked, or floating in the air.",
-    "effect": "Strong temperature inversions are bending light rays to create complex superior mirages."
+    "author": "Atmospheric Optics",
+    "content": "Objects on the horizon, like ships or islands, appear distorted, stacked, or floating in the air.",
+    "action": "Strong temperature inversions are bending light rays to create complex superior mirages."
   }
 ]
