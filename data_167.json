@@ -1,27 +1,32 @@
 [
   {
     "title": "Persistent morning fog",
-    "observation": "Heavy mist that lingers well past sunrise in a valley.",
-    "effect": "A calm, clear, and sunny day is typically set to follow."
+    "author": "Meteorological observation",
+    "content": "Heavy mist that lingers well past sunrise in a valley.",
+    "action": "A calm, clear, and sunny day is typically set to follow."
   },
   {
     "title": "Spiderwebs in the grass",
-    "observation": "Dew-covered webs appearing thick and widespread across a field in the early morning.",
-    "effect": "The air is stable and humidity is high, favoring dry, pleasant conditions."
+    "author": "Field observation",
+    "content": "Dew-covered webs appearing thick and widespread across a field in the early morning.",
+    "action": "The air is stable and humidity is high, favoring dry, pleasant conditions."
   },
   {
     "title": "Pine cones closing tight",
-    "observation": "Pine cones on the ground or tree limbs tightly sealing their scales.",
-    "effect": "The surrounding air moisture is increasing, often ahead of a weather change."
+    "author": "Biological indicator",
+    "content": "Pine cones on the ground or tree limbs tightly sealing their scales.",
+    "action": "The surrounding air moisture is increasing, often ahead of a weather change."
   },
   {
     "title": "Tree frogs calling",
-    "observation": "An unusually loud and collective chorus of tree frogs during the day.",
-    "effect": "They are reacting to rising humidity levels, indicating damp weather is approaching."
+    "author": "Ecological signal",
+    "content": "An unusually loud and collective chorus of tree frogs during the day.",
+    "action": "They are reacting to rising humidity levels, indicating damp weather is approaching."
   },
   {
     "title": "Smoke rising straight",
-    "observation": "Smoke from a chimney or campfire rising in a thin, vertical column without dispersing.",
-    "effect": "High-pressure air is present, suggesting settled and fair weather."
+    "author": "Atmospheric indicator",
+    "content": "Smoke from a chimney or campfire rising in a thin, vertical column without dispersing.",
+    "action": "High-pressure air is present, suggesting settled and fair weather."
   }
 ]
