@@ -1,0 +1,27 @@
+[
+  {
+    "title": "The Voynich Manuscript's Mystery",
+    "fact": "The Voynich Manuscript is a 15th-century codex written in an entirely unknown script and language that has defied every attempt at decipherment by the world's top cryptographers and AI models for decades.",
+    "context": "The text features bizarre illustrations of non-existent plants and astronomical charts."
+  },
+  {
+    "title": "Human Bioluminescence",
+    "fact": "Human bodies actually glow in the dark, emitting a faint visible light that is 1,000 times weaker than the levels our naked eyes can perceive, due to metabolic reactions.",
+    "context": "Ultra-sensitive cameras can capture this subtle emission of photons."
+  },
+  {
+    "title": "The Speed of Dark",
+    "fact": "Darkness technically travels at the exact same speed as light, because darkness is simply the absence of light; as you turn off a source, the 'shadow' propagates outward at the speed of light.",
+    "context": "Light and shadow are inextricably linked by the velocity of photons."
+  },
+  {
+    "title": "The Great Emu War",
+    "fact": "In 1932, the Australian government deployed soldiers armed with Lewis machine guns to 'fight' a population of 20,000 emus that were destroying crops, but the birds were so tactical that the military eventually withdrew in defeat.",
+    "context": "The emus utilized chaotic movement patterns to evade organized firepower."
+  },
+  {
+    "title": "Sound in the Void",
+    "fact": "Space is not truly silent; while it lacks a medium for waves to travel, plasma waves in space can be recorded and translated into audio, revealing that planets and stars possess distinct 'sonic signatures' that sound like eerie, cosmic humming.",
+    "context": "Electromagnetic vibrations are converted into sound frequencies for human hearing."
+  }
+]
