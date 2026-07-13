@@ -1,27 +1,32 @@
 [
   {
     "title": "The Dunning-Kruger Effect",
-    "observation": "Individuals with low ability at a task overestimate their own competence.",
-    "effect": "A lack of self-awareness regarding one's own limitations creates a false sense of expertise."
+    "author": "Cognitive Psychology",
+    "content": "Individuals with low ability at a task overestimate their own competence.",
+    "action": "A lack of self-awareness regarding one's own limitations creates a false sense of expertise."
   },
   {
     "title": "Pareidolia",
-    "observation": "Seeing human faces, animals, or specific shapes in random patterns or inanimate objects.",
-    "effect": "The brain’s evolutionary need to identify potential threats or social cues misinterprets neutral data."
+    "author": "Cognitive Neuroscience",
+    "content": "Seeing human faces, animals, or specific shapes in random patterns or inanimate objects.",
+    "action": "The brain’s evolutionary need to identify potential threats or social cues misinterprets neutral data."
   },
   {
     "title": "The Baader-Meinhof Phenomenon",
-    "observation": "Noticing something frequently soon after first encountering it, leading to the belief it is appearing everywhere.",
-    "effect": "Selective attention and confirmation bias make the brain prioritize new information in its surroundings."
+    "author": "Cognitive Bias Studies",
+    "content": "Noticing something frequently soon after first encountering it, leading to the belief it is appearing everywhere.",
+    "action": "Selective attention and confirmation bias make the brain prioritize new information in its surroundings."
   },
   {
     "title": "Survivorship Bias",
-    "observation": "Focusing only on the people or things that 'survived' a process while ignoring the failures.",
-    "effect": "Drawing erroneous conclusions because the data set is incomplete due to missing negative results."
+    "author": "Statistical Logic",
+    "content": "Focusing only on the people or things that 'survived' a process while ignoring the failures.",
+    "action": "Drawing erroneous conclusions because the data set is incomplete due to missing negative results."
   },
   {
     "title": "The Zeigarnik Effect",
-    "observation": "The tendency to remember uncompleted or interrupted tasks better than completed ones.",
-    "effect": "The brain maintains cognitive tension to ensure the task remains in working memory until finalized."
+    "author": "Psychological Research",
+    "content": "The tendency to remember uncompleted or interrupted tasks better than completed ones.",
+    "action": "The brain maintains cognitive tension to ensure the task remains in working memory until finalized."
   }
 ]
